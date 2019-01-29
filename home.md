@@ -13,6 +13,15 @@ Welcome to the MAVLab wiki!
 
  * [Publishing checklist](publishchecklist)
 
+# Projects
+
+ * [Trello](https://trello.com/b/FelPdV49/mavlab-overview) has the most up to date list of people and projects
+
+# Airframes
+
+ * The master list of airframes with their internal number:  [http://log.mavlab.info](http://log.mavlab.info)
+ * There is also an ''[Android APP](http://www.github.com/tudelft/mavlab_manager)'' to make some things easier.
+
 # More
 
  * Previously, the wiki was hosted [here](https://svn.lr.tudelft.nl/trac/MAVLAB/). Some info is not copied yet.
