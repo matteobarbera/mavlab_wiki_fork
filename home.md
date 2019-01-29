@@ -17,6 +17,10 @@ Welcome to the MAVLab wiki!
 
  * [Trello](https://trello.com/b/FelPdV49/mavlab-overview) has the most up to date list of people and projects
 
+# Robots
+
+ * Our [[robots]] or call 'em airframes if you like
+
 # More
 
  * Previously, the wiki was hosted [here](https://svn.lr.tudelft.nl/trac/MAVLAB/). Some info is not copied yet.
