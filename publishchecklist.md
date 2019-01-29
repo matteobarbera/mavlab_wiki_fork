@@ -1,4 +1,4 @@
-= Checklist when publishing an article =
+# Checklist when publishing an article
 
  * Include a link to source code (cleaned up code)
 
@@ -6,10 +6,10 @@
    * Newsworthiness: 
     * ''We achieved something awesome''
     * ''Timing: competition 1st place - immediately / an article was just published (ArxiV) or presented''
- *  Video explaining / showing main findings and experiments in article 
+ *  Video explaining / showing main findings and experiments in the article 
 
    * ''Add a link to a video playlist – this allows you to add videos during the review process.''
-   * ''What kind of experiments can be shown in the video that show your approach best / are considered exciting?''
+   * ''What kind of experiments can be shown in the video that shows your approach best / are considered exciting?''
  *  Write a post for the web site (whether it is “featured” confer with GCB)
    * '' What / Who / When / Where / Why ''
 
@@ -17,7 +17,7 @@
 
  * If journal paper – upload the paper first to the ArxiV
 
- *  Share the text source with your co-authors (dropbox / overleaf sharelatex / SVN / github …)
+ *  Share the text source with your co-authors (Dropbox / overleaf sharelatex / SVN / github …)
 
  *  Provide a video for a possible conference trailer
 
