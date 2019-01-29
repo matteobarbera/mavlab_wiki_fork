@@ -4,6 +4,16 @@ Welcome to the [MAVLab](http://mavlab.tudelft.nl/) !
 
 The most important stuff you should know are the lab rules and regulations. It is mandatory that you have read and understood this section before you can start your work at the lab.
 
+# Summary
+## Cleaning policy
+Clean up your desk every Friday. This means completely empty. 
+
+## Which drones can I take? =
+Everybody gets one drone. Ask Erik when you want to use a drone. He will give you the drone, register it to your name, and put a sticker with your name on it on the drone. 
+When something on your drone breaks, create a system report in the MAVLab app. If you can repair the drone yourself please do so (and ask for the parts). Otherwise you can ask Erik. 
+
+# Rules
+
 Next to that, there are also pages that inform you on things like:
 
 - systems and rules on sharing and backing up your work
