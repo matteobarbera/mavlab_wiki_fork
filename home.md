@@ -12,3 +12,7 @@ Welcome to the MAVLab wiki!
 # Writing papers
 
  * [Publishing checklist](publishchecklist)
+
+# More
+
+ * Previously, the wiki was hosted [here](https://svn.lr.tudelft.nl/trac/MAVLAB/). Some info is not copied yet.
