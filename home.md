@@ -8,6 +8,7 @@ If you think al information is ported, feel free to remove this note.
 
  * [[introduction]] for newcomers
  * If you are graduating at C&S also look [here](http://cswiki.lr.tudelft.nl/students/graduation)
+ * If you order anything: read the [finance rules](rules-finance) first.
 
 # Outdoor Operations Manual
 
