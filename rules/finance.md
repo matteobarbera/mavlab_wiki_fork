@@ -26,7 +26,7 @@ The sheet also helps you to keep track of your declarations and can send you a r
 # How to order
 * Ask for permission and a "Baancode" to B. Remes, C. De Wagter or G. de Croon
 * Place your order
-* Enter the information in the [[https://docs.google.com/spreadsheets/d/1rjMwl2PAkqQoZJo79XyGppT0GmYS0PzrqwRbRjkukpM/edit?usp=sharing|spreadsheet]]
+* Enter the information in the [spreadsheet](https://docs.google.com/spreadsheets/d/1rjMwl2PAkqQoZJo79XyGppT0GmYS0PzrqwRbRjkukpM/edit?usp=sharing)
 * Declare your order at the TU Delft at [Declaration forms](https://forms-fc.tudelft.nl)
 * Update the status in the excel sheet
 
