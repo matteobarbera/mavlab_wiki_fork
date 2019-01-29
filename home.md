@@ -8,3 +8,7 @@ Welcome to the MAVLab wiki!
 # Outdoor Operations Manual
 
  * [OPS](http://www.github.com/tudelft/Operations)
+
+# Writing papers
+
+ * [Publishing checklist](publishchecklist)
