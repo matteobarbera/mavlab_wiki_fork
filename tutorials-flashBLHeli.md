@@ -1,4 +1,4 @@
-# ''Instructions for BLHeli Rev 16''
+# Instructions for BLHeli Rev 16
 
 Use BLHeliSuite Beta and Arduino Nano stick to program an ESC through the MOSI/MISO connection pins.
 Download BLHeliSuite from https://blhelisuite.wordpress.com/ (This guide updated for `Rev 16.6.14.9.01`)
@@ -77,4 +77,25 @@ Use BLHeliSuite Beta and a Arduino Nano to program a ESC through the MOSI/MISO c
 9. Press 'Flash BLHeli' below in the window. It will ask you to select the right version (I think it will read from the ESC which type of ESC it thinks it is dealing with). Press OK and then confirm to flash the ESC.
 
 10. You're done!
+
+# DelFly Settings
+
+BLHeli has the options to change a lot of parameters to change the behavior of the motor controller. To establish which parameters have a benificial impact on driving a Delfly, the parameters have been varied a bit, using a prototype of the 90 degree flapper to assess performance.
+After investigation, changing the parameters made the `performance of the Mi-3A to be about as good as the French ESC`. (Power consumption was not investigated, it was only looked at how well it starts and runs). This was due changing three parameters, see the following table:
+
+The results were:
+
+| `Parameter` | `Default` | `Recommended setting` | `Impact on performance` | `Observation` |
+| ----------- | ----------| --------------------- | ----------------------- | --------------|
+| Closed loop mode | Off | !HiRange | HUGE | VERY IMPORTANT to set to !HiRange. This enables RPM feedback, and makes the motor run smoothly with the Delfly at all throttle settings, even at low throttles. Motor run smoothly at all RPM's and it helps for start-up. Enabling closed loop mode enables setting the P and I gain, which are default at x2.00. The effect of these parameters have not been investigated. |
+| Low RPM Power protect | On | Off | BIG | Very important. This parameter limits the output power at low RPM's. Disabling this provides the motor with much more current at startup, which is necessary for starting the Delfly. |
+| Demag compensation | Low | High | BIG | Setting to HIGH gives a much better resistance to stalling of the motor with unregular load. Again, this is what the Delfly needs. |
+| Motor timing | Medium | | -+ | No observable improvements, but could have a very small effect upon further investigation. |
+| Start up power | 1.00 | |  - | No observable improvements were found by varying this parameter. |
+| Motor gain | 1.00 | |  - | No observable improvements were found by varying this parameter. |
+| PWM Output Dither | 15 | | - |No observable improvements were found by varying this parameter. |
+
+However, `if BL-Heli 13.003 is used`, there is no low RPM Power protect option.
+
+
 
