@@ -43,7 +43,9 @@ Can be used for "stupid" Delflies:
 - [Programming instructions](http://www.hobbyking.com/hobbyking/store/uploads/454997728X86361X35.pdf)
 - [MD-RX62H Flashing BLHeli](https://svn.lr.tudelft.nl/trac/MAVLAB/wiki/electronics/MDRX62H)
 
-##Supermicro with brushed ESC(http://www.hobbyking.com/hobbyking/store/__56167__2_4Ghz_SuperMicro_Systems_DSM2_Compatible_Receiver_w_Brushed_ESC_Linear_Servos.html)
+## Supermicro with brushed 
+ 
+ -ESC(http://www.hobbyking.com/hobbyking/store/__56167__2_4Ghz_SuperMicro_Systems_DSM2_Compatible_Receiver_w_Brushed_ESC_Linear_Servos.html)
 
 - [Programming instructions](http://www.hobbyking.com/hobbyking/store/uploads/213817245X103718X6.pdf)
 
