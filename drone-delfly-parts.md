@@ -21,11 +21,11 @@ Order by sending an email to Mr. Chandrashekhar (sales@microbrushless.com), say 
 
 # Receiver + servos
 
-##Receiver:
+## Receiver:
 
  - [Deltang Rx31, SumPPM version](http://www.deltang.co.uk/rx31b.htm)
 
-##Servos:
+## Servos:
 
 - Light (but weak and hard to get, used on Explorers): [Sub  Micro  .50 gm.  LZ    SERVO](http://microflierradio.com/UltraSubMicroServos.html)  
 
