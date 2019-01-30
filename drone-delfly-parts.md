@@ -77,6 +77,8 @@ Can be used for "stupid" Delflies:
 
  - [Lisa MX S](https://wiki.paparazziuav.org/wiki/Lisa/MXS_v1.0) - ask Christophe if you need one
 
+ - MilFly project: https://svn.lr.tudelft.nl/MAVLAB/Electronics\DelFly_03_MilFly_v2
+
 # Wifi modules
 
 - ESP 8266 ESP 09, code and flashing instructions [here](https://github.com/paparazzi/esp8266_udp_firmware/tree/master)
