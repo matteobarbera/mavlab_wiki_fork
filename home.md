@@ -24,6 +24,11 @@ If you think al information is ported, feel free to remove this note.
 
  * [Trello](https://trello.com/b/FelPdV49/mavlab-overview) has the most up to date list of people and projects
 
+# Courses
+
+ * Paparazzi Vision Based Control [Website](https://tudelft.github.io/coursePaparazzi/) and [Source](https://github.com/tudelft/coursePaparazzi)
+ * [Optic Flow Notebook](https://mybinder.org/v2/gh/guidoAI/optic_flow_control_notebook.git/master)
+
 # Robots
 
  * Our [[robots]] or call 'em airframes if you like
