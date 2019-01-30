@@ -1,7 +1,7 @@
 # ''Instructions for BLHeli Rev 16''
 
-Use BLHeliSuite Beta and Arduino Nano stick to program a ESC through the MOSI/MISO connection pins.
-Download BLHeliSuite from https://blhelisuite.wordpress.com/ (This guide updated for '''Rev 16.6.14.9.01''')
+Use BLHeliSuite Beta and Arduino Nano stick to program an ESC through the MOSI/MISO connection pins.
+Download BLHeliSuite from https://blhelisuite.wordpress.com/ (This guide updated for `Rev 16.6.14.9.01`)
 
 ## Setup and Connections
 
