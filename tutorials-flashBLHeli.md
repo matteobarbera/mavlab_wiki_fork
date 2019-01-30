@@ -19,38 +19,40 @@ flash an Arduino Nano board. Refer to Section” Create a NANO Stick for Flashin
 
 ## Create a NANO Stick for Flashing ESC.
  
-•	In the ''''Make Interfaces'''' tab, ensure you have chosen the right COM port assigned to the Arduino Nano Stick. Ignore the baud rate as it is determined by the installed Arduino bootloader.
-•	Click on '''Arduino 4way- Interface''' tab and choose the file named '''''“4wArduino_Nano_16_PD3PD2v14302.hex”''''' file for the above-mentioned Pin configuration (or the closest similar in the newer versions).
-•	Click OK and wait until you see “Write successful” message. And you’re done. 
+ -	In the ''''Make Interfaces'''' tab, ensure you have chosen the right COM port assigned to the Arduino Nano Stick. Ignore the baud rate as it is determined by the installed Arduino bootloader.
+ -	Click on '''Arduino 4way- Interface''' tab and choose the file named '''''“4wArduino_Nano_16_PD3PD2v14302.hex”''''' file for the above-mentioned Pin configuration (or the closest similar in the newer versions).
+ -	Click OK and wait until you see “Write successful” message. And you’re done. 
 
-[[Image(s2.JPG,600px)]]
 	
+![Pincircles](https://github.com/tudelft/mavlab/raw/master/photos/blheli/s2.JPG)
 
-== Flashing the ESC procedure: ==
 
-•	Select '''SILAB C2(4way-if)''' under the ''''Select ATMEL/SILABS interface'''' as shown in below figure.
-•	Select the appropriate COM Port to which the Arduino is assigned in the bottom left corner as shown below.
+## Flashing the ESC procedure: ==
 
-[[Image(S1.JPG,600px)]]
+ -	Select '''SILAB C2(4way-if)''' under the ''''Select ATMEL/SILABS interface'''' as shown in below figure.
+ -	Select the appropriate COM Port to which the Arduino is assigned in the bottom left corner as shown below.
 
-•	Power up the Esc using Battery (or 3.3V pin on the Arduino) and Click on connect.
-•	If successfully connected, a message is displayed, if not recheck the connections. 
-•	Click on Flash BLHeli and choose the appropriate. hex file for the ESC. '''Use [https://svn.lr.tudelft.nl/trac/MAVLAB/wiki/electronics/BLHeliEnableRPMoutput this link] to get our modified hex file, which allows rpm sensing.'''
-•       A warning might appear if a different BL Heli version is already flashed. 
-•       Press OK and confirm to Flash the ESC. 
-•       When asked if you want to write current settings, say no.
-•       Change the settings to the following values:
+![Pincircles](https://github.com/tudelft/mavlab/raw/master/photos/blheli/s1.JPG)
 
- [[Image(BLHeli_settings_DelFly.jpg,600px)]]
 
-•       Click Write Setup to the ESC.
-•       Click Read Setup to verify the values were written correctly. If not, repeat previous two steps.
-•	You are done.
+ -	Power up the Esc using Battery (or 3.3V pin on the Arduino) and Click on connect.
+ -	If successfully connected, a message is displayed, if not recheck the connections. 
+ -	Click on Flash BLHeli and choose the appropriate. hex file for the ESC. '''Use [https://svn.lr.tudelft.nl/trac/MAVLAB/wiki/electronics/BLHeliEnableRPMoutput this link] to get our modified hex file, which allows rpm sensing.'''
+ -      A warning might appear if a different BL Heli version is already flashed. 
+ -     Press OK and confirm to Flash the ESC. 
+ -     When asked if you want to write current settings, say no.
+ -     Change the settings to the following values:
 
-----
-----
 
-== ''Instructions for previous BLHeli versions (obsolete)'' ==
+![Pincircles](https://github.com/tudelft/mavlab/raw/master/photos/blheli/BLHeli_settings_DelFly.jpg)
+
+
+ -      Click Write Setup to the ESC.
+ -      Click Read Setup to verify the values were written correctly. If not, repeat previous two steps.
+ -	You are done.
+
+
+## ''Instructions for previous BLHeli versions (obsolete)''
 
 Use BLHeliSuite Beta and a Arduino Nano to program a ESC through the MOSI/MISO connection pins.
 
@@ -58,7 +60,7 @@ Use BLHeliSuite Beta and a Arduino Nano to program a ESC through the MOSI/MISO c
 
 2. connect the ESC to the Arduino, and the Arduino to the PC, see image below. The ESC is connected to the Arduino using the MOSI and MISO lines, Vin (3.3 volt) and a ground. Check the pdf 'BLHeli supported !SiLabs ESCs.pdf' in the BLHeliSuite Manual folder to see to which pads the MOSI and MISO need to be connected.
 
-[[Image(IMG_20150219_152415.jpg, 200px)]]
+![Pincircles](https://github.com/tudelft/mavlab/raw/master/photos/blheli/IMG_20150219_152415.jpg)
 
 3. In the 'ATMEL/SILABS' menu select 'SILABS serial interface'.
 
@@ -66,9 +68,9 @@ Use BLHeliSuite Beta and a Arduino Nano to program a ESC through the MOSI/MISO c
 
 5. In the first tab, all the way down, select the right COM port and press 'Connect' to connect with the Arduino.
 
-6. If succesfully connected, read the current setup to see if the connection with the ESC is OK: Press the 'Read Setup' button below in the window. If you use a new ESC, it will give a warning message. 
+6. If successfully connected, read the current setup to see if the connection with the ESC is OK: Press the 'Read Setup' button below in the window. If you use a new ESC, it will give a warning message. 
 
-7. Select the right settings by reading in the settings from the .hex you want to use. Go to 'BESC Setup > Read Setup From HEX File', and select the .hex file appropiate for the ESC you are programming.
+7. Select the right settings by reading in the settings from the .hex you want to use. Go to 'BESC Setup > Read Setup From HEX File', and select the .hex file appropriate for the ESC you are programming.
 
 8. Verify the settings, the recommended settings for DelFly are here: https://svn.lr.tudelft.nl/trac/MAVLAB/wiki/electronics/BLHeliDelflyParameterSettings
 
@@ -76,6 +78,3 @@ Use BLHeliSuite Beta and a Arduino Nano to program a ESC through the MOSI/MISO c
 
 10. You're done!
 
-== Other ==
-Outdated info, but might be useful:
-- [https://svn.lr.tudelft.nl/trac/MAVLAB/wiki/electronics/BLHeliDelflyParameterSettings BLHeli - right ESC settings to run smoothly with Delflies ]
