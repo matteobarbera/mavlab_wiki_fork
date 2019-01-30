@@ -54,7 +54,7 @@ Can be used for "stupid" Delflies:
 
  - Lisa/S v2 (under development)
 
- - [https://wiki.paparazziuav.org/wiki/Lisa/MXS_v1.0 Lisa/MXS] - ask Christophe if you need one
+ - [MXS][https://wiki.paparazziuav.org/wiki/Lisa/MXS_v1.0 Lisa/MXS] - ask Christophe if you need one
 
 # Wifi modules
 
@@ -62,10 +62,10 @@ Can be used for "stupid" Delflies:
 
 # Cameras & Video Transmitters
 
- - [http://www.fpvhobby.com/]
+ - [FPVHobby][http://www.fpvhobby.com/]
 
 # Lenses
 
- - [http://www.misumi.com.tw/]
+ - [MISUMI][http://www.misumi.com.tw/]
 
  - Type: l2125ar-M5.5
