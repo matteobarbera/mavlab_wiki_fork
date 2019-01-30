@@ -1,4 +1,6 @@
-Welcome to the MAVLab wiki!
+![Transformer](https://github.com/tudelft/mavlab/raw/master/photos/mavlab_logo.png)
+
+Welcome to the **MAVLab wiki**!
 
 Note: Previously, the wiki was hosted [here](https://svn.lr.tudelft.nl/trac/MAVLAB/). Some info is not copied yet. Please join us in the effort to port content. Even a single page porting is already helpful
 
