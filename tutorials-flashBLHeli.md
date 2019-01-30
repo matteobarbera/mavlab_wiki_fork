@@ -7,7 +7,7 @@ Download BLHeliSuite from https://blhelisuite.wordpress.com/ (This guide updated
 
 Connect the Arduino Nano Stick, Esc, and the Power supply as shown in the figures below. Ensure the Arduino is flashed with a 4-way interface firmware. In case you need to initial flash/re-
 flash an Arduino Nano board. Refer to Section” Create a NANO Stick for Flashing ESC”.
- - The flashing of ESC requires 3 wires and is done over a C2 interface. Here the wires will be marked in '''Black, Red, and White circles'''. Here, the Red and White lines indicate the signal lines and not Voltage supply line(V+), Black indicates ground.
+ - The flashing of ESC requires 3 wires and is done over a C2 interface. Here the wires will be marked in **Black, Red, and White circles**. Here, the Red and White lines indicate the signal lines and not Voltage supply line(V+), Black indicates ground.
  - The ESC can be powered externally, or from the 3.3V pin of the Arduino board (DO NOT CONNECT IT TO VIN = 5V !!!).
  - The Below figures show the pin configurations on the ESC and Arduino board along with the Circuit Diagram.
 
@@ -19,9 +19,9 @@ flash an Arduino Nano board. Refer to Section” Create a NANO Stick for Flashin
 
 ## Create a NANO Stick for Flashing ESC.
  
- -	In the ''''Make Interfaces'''' tab, ensure you have chosen the right COM port assigned to the Arduino Nano Stick. Ignore the baud rate as it is determined by the installed Arduino bootloader.
- -	Click on '''Arduino 4way- Interface''' tab and choose the file named '''''“4wArduino_Nano_16_PD3PD2v14302.hex”''''' file for the above-mentioned Pin configuration (or the closest similar in the newer versions).
- -	Click OK and wait until you see “Write successful” message. And you’re done. 
+ - In the **Make Interfaces** tab, ensure you have chosen the right COM port assigned to the Arduino Nano Stick. Ignore the baud rate as it is determined by the installed Arduino bootloader.
+ - Click on **Arduino 4way- Interface** tab and choose the file named `4wArduino_Nano_16_PD3PD2v14302.hex` file for the above-mentioned Pin configuration (or the closest similar in the newer versions).
+ - Click OK and wait until you see `Write successful` message. And you’re done. 
 
 	
 ![Pincircles](https://github.com/tudelft/mavlab/raw/master/photos/blheli/s2.JPG)
@@ -29,27 +29,27 @@ flash an Arduino Nano board. Refer to Section” Create a NANO Stick for Flashin
 
 ## Flashing the ESC procedure: ==
 
- -	Select '''SILAB C2(4way-if)''' under the ''''Select ATMEL/SILABS interface'''' as shown in below figure.
- -	Select the appropriate COM Port to which the Arduino is assigned in the bottom left corner as shown below.
+ - Select `SILAB C2(4way-if)` under the `Select ATMEL/SILABS interface` as shown in below figure.
+ - Select the appropriate COM Port to which the Arduino is assigned in the bottom left corner as shown below.
 
-![Pincircles](https://github.com/tudelft/mavlab/raw/master/photos/blheli/s1.JPG)
+![Pincircles](https://github.com/tudelft/mavlab/raw/master/photos/blheli/S1.JPG)
 
 
- -	Power up the Esc using Battery (or 3.3V pin on the Arduino) and Click on connect.
- -	If successfully connected, a message is displayed, if not recheck the connections. 
- -	Click on Flash BLHeli and choose the appropriate. hex file for the ESC. '''Use [https://svn.lr.tudelft.nl/trac/MAVLAB/wiki/electronics/BLHeliEnableRPMoutput this link] to get our modified hex file, which allows rpm sensing.'''
- -      A warning might appear if a different BL Heli version is already flashed. 
- -     Press OK and confirm to Flash the ESC. 
- -     When asked if you want to write current settings, say no.
- -     Change the settings to the following values:
+ - Power up the Esc using Battery (or 3.3V pin on the Arduino) and Click on connect.
+ - If successfully connected, a message is displayed, if not recheck the connections. 
+ - Click on Flash BLHeli and choose the appropriate. hex file for the ESC. '''Use [https://svn.lr.tudelft.nl/trac/MAVLAB/wiki/electronics/BLHeliEnableRPMoutput this link] to get our modified hex file, which allows rpm sensing.'''
+ - A warning might appear if a different BL Heli version is already flashed. 
+ - Press OK and confirm to Flash the ESC. 
+ - When asked if you want to write current settings, say no.
+ - Change the settings to the following values:
 
 
 ![Pincircles](https://github.com/tudelft/mavlab/raw/master/photos/blheli/BLHeli_settings_DelFly.jpg)
 
 
- -      Click Write Setup to the ESC.
- -      Click Read Setup to verify the values were written correctly. If not, repeat previous two steps.
- -	You are done.
+ -  Click Write Setup to the ESC.
+ - Click Read Setup to verify the values were written correctly. If not, repeat the previous two steps.
+ - You are done.
 
 
 ## ''Instructions for previous BLHeli versions (obsolete)''
