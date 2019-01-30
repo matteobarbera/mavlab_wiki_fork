@@ -128,7 +128,7 @@ You might want to add a power regulator supplying constant 3.3V power to your re
 Should the above links stop working, the model can also be accessed on the network group drive (from TU Delft network, only for MAVLab employees):
 * M:\lr\co\MavLab\018_Postdocs\2015-2019 Matej Karasek\SolidWorks\DelFly Transformer
 
-== Scientific Papers & theses ==
-* [[https://svn.lr.tudelft.nl/trac/MAVLAB/attachment/wiki/DelFly_Transformer/Karasek%202018%20A%20tailless%20aerial%20robotic%20flapper%20reveals%20that%20flies%20use%20torque%20coupling%20in%20rapid%20banked%20turns.pdf | The Science paper]], a lot is described in the supplement
-* [[https://svn.lr.tudelft.nl/trac/MAVLAB/attachment/wiki/DelFly_Transformer/K_M__Kajak_Nimble_model_submitted.pdf | Paper on longitudinal dynamics modeling]] (submitted, do not share):
-* [[https://svn.lr.tudelft.nl/trac/MAVLAB/attachment/wiki/DelFly_Transformer/Kajak_MSc_thesis.pdf | Thesis of K.M. Kajak]] 
+## Scientific Papers & theses
+* https://svn.lr.tudelft.nl/trac/MAVLAB/attachment/wiki/DelFly_Transformer/Karasek%202018%20A%20tailless%20aerial%20robotic%20flapper%20reveals%20that%20flies%20use%20torque%20coupling%20in%20rapid%20banked%20turns.pdf, a lot is described in the supplement
+* https://svn.lr.tudelft.nl/trac/MAVLAB/attachment/wiki/DelFly_Transformer/K_M__Kajak_Nimble_model_submitted.pdf (submitted, do not share):
+* https://svn.lr.tudelft.nl/trac/MAVLAB/attachment/wiki/DelFly_Transformer/Kajak_MSc_thesis.pdf 
