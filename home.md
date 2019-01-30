@@ -27,7 +27,7 @@ Welcome to the **MAVLab wiki**!
 
 # Courses
 
- * Paparazzi Vision Based Control [Website](https://tudelft.github.io/coursePaparazzi/) and [Source](https://github.com/tudelft/coursePaparazzi)
+ * Paparazzi Vision Based Control [Website](https://tudelft.github.io/coursePaparazzi/) and [Source](https://github.com/tudelft/coursePaparazzi) and [videos](https://www.youtube.com/playlist?list=PL_KSX9GOn2P_LUXJOQxc6PLr7c7eTUs98)
  * [Optic Flow Notebook](https://mybinder.org/v2/gh/guidoAI/optic_flow_control_notebook.git/master)
 
 # Robots
