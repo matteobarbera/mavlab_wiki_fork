@@ -1,4 +1,23 @@
-# Motors
+# DelFly Assembly
+
+  1. [motor-gear assembly](https://github.com/tudelft/mavlab/blob/master/pdf/delfly/A-motorGearAssembly.pdf)
+  2. [wings](https://github.com/tudelft/mavlab/blob/master/pdf/delfly/B-wingConstruction.pdf)
+  3. [tail](https://github.com/tudelft/mavlab/blob/master/pdf/delfly/C-tailConstruction.pdf)
+
+
+ -  The old instructions using previous wing construction method are available [here](https://github.com/tudelft/mavlab/blob/master/pdf/delfly/delfly.assembly.2014.pdf)
+
+
+# Parts
+
+
+## Carbon
+
+ - You can buy carbon rods at http://www.dpp-pultrusion.com/
+ - or http://www.carbonwinkel.nl/nl/carbon-producten/900-vec-staaf-vinylester-carbon.html
+
+
+## Motors
 
 [1.5g Mighty Midget](http://microbrushless.com/products/micro-uav-propulsion/1-5gm-mighty-midget-motors/), we use a **custom design**!!!
 
@@ -50,9 +69,9 @@ Can be used for "stupid" Delflies:
 - [Programming instructions](http://www.hobbyking.com/hobbyking/store/uploads/213817245X103718X6.pdf)
 
 
-# Autopilot boards =
+# Autopilot boards
 
- - [https://1bitsquared.com/products/lisa-s Lisa/S (discontinued)]
+ - [Lisa/S](https://1bitsquared.com/products/lisa-s)  (discontinued)
 
  - Lisa/S v2 (under development)
 
