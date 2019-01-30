@@ -1,4 +1,4 @@
-![Transformer](https://github.com/tudelft/mavlab/raw/master/photos/mavlab_logo.png)
+![MAVLab](https://github.com/tudelft/mavlab/raw/master/photos/mavlab_logo.png)
 
 Welcome to the **MAVLab wiki**!
 
