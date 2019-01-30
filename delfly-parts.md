@@ -9,15 +9,15 @@ Order by sending an email to Mr. Chandrashekhar (sales@microbrushless.com), say 
 | 18-19 | Quadthopter a.k.a. Flappy (probably...) |
 | 22-25 | DelFly Transformer |
 | 28 | Heavy smart Delflies - Explorer / DelFly II with additional sensors |
-| 30+ | Ligthtweight Delflies |
+| 30+ | Lightweight Delflies |
 
 
 
 * Motor controllers (ESCs)
 
-Supermicro MX-3A or MI-3A, e.g. from [http://www.hobbyking.com/hobbyking/store/__44697__SuperMicro_Systems_Brushless_ESC_3A_Mi_3A.html]
+ - Supermicro MX-3A or MI-3A, e.g. from [Hobbyking](http://www.hobbyking.com/hobbyking/store/__44697__SuperMicro_Systems_Brushless_ESC_3A_Mi_3A.html)
 
-The ESCs need to be flashed with BLHeli software: [wiki:tutorials/flashESCInstructions instructions here]
+ - The ESCs need to be flashed with BLHeli software: [[tutorials-flashBLHeli]]
 
 # Receiver + servos
 
