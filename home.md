@@ -27,6 +27,7 @@ If you think al information is ported, feel free to remove this note.
 # Robots
 
  * Our [[robots]] or call 'em airframes if you like
+ * [[drone-delfly-nimble]]
 
 # More
 
