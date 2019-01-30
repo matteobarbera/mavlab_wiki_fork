@@ -1,37 +1,36 @@
 # DelFly Nimble (aka Transformer)
 
-![Transformer](https://github.com/tudelft/mavlab/raw/master/DSC_0350-2_small.jpg)
+![Transformer](https://github.com/tudelft/mavlab/raw/master/photos/drones/nimble/DSC_0350-2_small.jpg)
 
 ## Paparazzi code
 '''The latest code (limitted functionality)''' will be soon in Paparazzi master (based on this [PR](https://github.com/paparazzi/paparazzi/pull/2380), allows basic flying + Optitrack flying):
 * [DelFly Nimble airframe file, PPRZ master](https://github.com/paparazzi/paparazzi/blob/master/conf/airframes/tudelft/delfly_nimble.xml)
 
-'''Every Nimble might be different''', e.g. motors might be connected to different pins than in the master airframe, so always check before flying! 
+**Every Nimble might be different**, e.g. motors might be connected to different pins than in the master airframe, so always check before flying! 
 Also, after replacing the pitch servo, or if the Nimble starts drifting over time, you might want to adjust the dihedral servo limits in the airframe file to trim the vehicle.
 
 If you need additional functionality (onboard logging, rpm sensing, range sensor, monocam), you need to start from an older code. If you plan to do further development, these additional features should be reintegrated into the latest code.
 
-'''Old, but flight tested code''':
-* [[https://github.com/matejkarasek/paparazzi/tree/delfly_transformer_MXS_master/ | demo branch, with flips and insect-like turns]]
-* [[https://github.com/tudelft/paparazzi/tree/transformer_imav | code used at IMAV 2018]]: monocam, laser range sensor, WiFi
+**Old, but flight tested code**:
+* [demo branch, with flips and insect-like turns](https://github.com/matejkarasek/paparazzi/tree/delfly_transformer_MXS_master/)
+* [code used at IMAV 2018](https://github.com/tudelft/paparazzi/tree/transformer_imav): monocam, laser range sensor, WiFi
 
-To '''set up flips / insect-like turns / automated maneuvers ''' comment out (and adjust) the relevant settings at the top of:
-* [[https://github.com/matejkarasek/paparazzi/blob/delfly_transformer_MXS_master/sw/airborne/firmwares/rotorcraft/guidance/guidance_flip.c | sw/airborne/firmwares/rotorcraft/guidance/guidance_flip.c]]
+To **set up flips / insect-like turns / automated maneuvers** comment out (and adjust) the relevant settings at the top of:
+* [sw/airborne/firmwares/rotorcraft/guidance/guidance_flip.c](https://github.com/matejkarasek/paparazzi/blob/delfly_transformer_MXS_master/sw/airborne/firmwares/rotorcraft/guidance/guidance_flip.c)
 The current code only allows one type of maneuver to be used, e.g. either a roll flip, or a pitch flip, or a insect-like turn, etc.
 
-'''Devo 10 model'''
+**Devo 10 model**
 * [model for the transmitter, 4-minute timer reset by AILE D/R](https://github.com/tudelft/paparazzi/blob/transformer_imav/devo10/model8.ini)
 * [model for the transmitter, no timer, shows command % on all channels](https://github.com/matejkarasek/paparazzi/blob/delfly_transformer_MXS_master/devo10/model8.ini)
 
+![DEVO10](https://github.com/tudelft/mavlab/raw/master/photos/drones/nimble/devo10_description_Transformer.png)
 
-![Transformer](https://github.com/tudelft/mavlab/raw/master/devo10_description_Transformer.png)
 
-
-== Flight procedure ==
+## Flight procedure
 
 Standard flight procedure:
-* Turn on the transmitter, make sure the throttle stick is down, other sticks are centered, '''all switches are at 0'''
-* Plug the battery in '''while the Nimble is not moving''' (e.g. on the ground/desk...). At startup, gyro biases are estimated, so it needs to be still.
+* Turn on the transmitter, make sure the throttle stick is down, other sticks are centered, **all switches are at 0**
+* Plug the battery in **while the Nimble is not moving** (e.g. on the ground/desk...). At startup, gyro biases are estimated, so it needs to be still.
 * With MODE switch at 0 (RC Direct), try if pitching and rolling results in expected actuator responses
 * Still in RC Direct, start flapping. Now you can also test the yaw actuator.
 * Switch MODE to 1 (Attitude stabilization).
@@ -63,9 +62,9 @@ Trouble shooting
 * The Nimble drifts '''left/right''': loosen / tighten the left / right wing by moving its root slightly up / down. More tension should give more lift, less tension less lift.
 
 
-== List of components ==
+## List of components
 
-|| autopilot || [https://github.com/paparazzi/paparazzi-hardware/tree/master/controller/lisa_s/lisa_mx_s/v1.0 | Lisa/MXS] or Lisa/S [https://wiki.paparazziuav.org/wiki/Lisa/S] ||
+|| autopilot || [Lisa/MXS](https://github.com/paparazzi/paparazzi-hardware/tree/master/controller/lisa_s/lisa_mx_s/v1.0) or [Lisa/S](https://wiki.paparazziuav.org/wiki/Lisa/S) ||
 || motors || 2 x DelFly BL motor, 22 to 25 windings ||
 || ESCs || 2 x MI3A or MX3A with BLHeli ||
 || servos || 2 x HK 5330 ||
@@ -75,37 +74,41 @@ Trouble shooting
 
 Check the [wiki:delflyEquipment DelFly equipment page] for more details on how to flash BLHeli, how and where to order the motors, etc.
 
-== Connection schematics ==
+## Connection schematics
 
 The standard connection schematics is in the following pdf:
 * [[https://svn.lr.tudelft.nl/trac/MAVLAB/attachment/wiki/DelFly_Transformer/Transformer_connection_schematics_MXS.pdf | Transformer connection schematics]]
 
 And here the autopilot and SD card connections:
 
-[[Image(LisaMXS_transformer_connections_small.png)]]
+
+![Lisa MXS](https://github.com/tudelft/mavlab/raw/master/photos/drones/nimble/LisaMXS_transformer_connections_small.png)
+
 
 Pay attention:
 * in the latest code, the ADC 4 pin on the schematics was remapped as ADC 7
 * in the latest code, the ADC 6 pin on the schematics was remapped as ADC 8
 * stereocam / monocam / laser ranger might be connected to either Rx3 or Rx4, check in the code you're using
 
-You might want to add a power regulator supplying constant 3.3V power to your receiver (highly recommended) and possibly to the autopilot. However, if you power the autopilot by the power regulator, the onboard voltage reading will stop working (you will see 3.3V all the time). To enable it, you need to rotate resistor R9 on the autopilot board and connect the battery voltage to its free end. Check the [[https://github.com/paparazzi/paparazzi-hardware/raw/master/controller/lisa_s/lisa_mx_s/v1.0/lisa_mx_s_v1_0.PDF | schematics]] of the Lisa MXS board, or ask for help if uncertain.
+You might want to add a power regulator supplying constant 3.3V power to your receiver (highly recommended) and possibly to the autopilot. However, if you power the autopilot by the power regulator, the onboard voltage reading will stop working (you will see 3.3V all the time). To enable it, you need to rotate resistor R9 on the autopilot board and connect the battery voltage to its free end. Check the [schematics](https://github.com/paparazzi/paparazzi-hardware/raw/master/controller/lisa_s/lisa_mx_s/v1.0/lisa_mx_s_v1_0.PDF) of the Lisa MXS board, or ask for help if uncertain.
 
-[[Image(power_regulator.jpg)]]
+![Power Regulator](https://github.com/tudelft/mavlab/raw/master/photos/drones/nimble/power_regulator.jpg)
 
 
-== Downloading logs from micro SD card ==
+# Downloading logs from micro SD card
 - the logging only works with <=2GB cards
-- due to a [[https://github.com/paparazzi/paparazzi/issues/2092 | bug]] only 43 logs can be written, than ALL the logs become unreadable, so keep this in mind and erase the card once in a while by formatting it via a PC card reader 
-- to download the data via a card reader, use [https://github.com/tudelft/highspeedlogger/ | this tool]
+- due to a [bug](https://github.com/paparazzi/paparazzi/issues/2092) only 43 logs can be written, than ALL the logs become unreadable, so keep this in mind and erase the card once in a while by formatting it via a PC card reader 
+- to download the data via a card reader, use [this tool](https://github.com/tudelft/highspeedlogger/)
 - download the code from github (e.g. 'download the zip'), build it with 'make' command, then go to /tools/bin/
 - download the log from SD card by running 'sudo ./pprz_downloader /dev/sdb' or 'sudo ./pprz_downloader /dev/mmcblk0' (if none of the two work, check the device name with 'll /dev' after inserting the SD card into the reader)
 - this creates binary 'sd_log_00000.bin','sd_log_00001.bin', etc. log files
-- [https://github.com/paparazzi/paparazzi/blob/master/sw/logalizer/sd2log.ml | this tool] (part of your PPRZ installation) will convert the binaries into paparazzi logs
+- [this tool](https://github.com/paparazzi/paparazzi/blob/master/sw/logalizer/sd2log.ml) (part of your PPRZ installation) will convert the binaries into paparazzi logs
 - go to 'paparazzi/sw/logalizer' and run './sd2log [path to the binaries]/sd_log_00000.bin'
-- if you get errors, make sure your [https://wiki.paparazziuav.org/wiki/Installation#Environment_Variables | environment variables] are set correctly
-- the paparazzi logs will be stored in 'paparazzi/var/logs' and can be viewed with the [https://wiki.paparazziuav.org/wiki/Plotter | paparazzi log plotter]
+- if you get errors, make sure your [environment variables](https://wiki.paparazziuav.org/wiki/Installation#Environment_Variables) are set correctly
+- the paparazzi logs will be stored in 'paparazzi/var/logs' and can be viewed with the [paparazzi log plotter](https://wiki.paparazziuav.org/wiki/Plotter)
 - [https://svn.lr.tudelft.nl/trac/MAVLAB/attachment/wiki/DelFly_Transformer/read_pprz_MXS.m Matlab script] that loads the log into Matlab (if not working update according to messages.xml)
+
+
 
 == 3D printed parts ==
 - printed at [[https://www.shapeways.com/ | Shapeways]]
