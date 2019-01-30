@@ -126,7 +126,7 @@ Instead of with a vacuum bag, we can simply do this by waxing pieces of plastic,
 
 Take special notice that you should try to remove any air pockets, as these will not be attached to the skin, and may be a source of delamination (see the image below).
 
-![Air pockets](https://github.com/tudelft/mavlab/raw/master/photos/drones/cyclone/air pockets.jpg)
+![Air pockets](https://github.com/tudelft/mavlab/raw/master/photos/drones/cyclone/airpockets.jpg)
 
 
 Cut the aramid such that you can access the wires of the servos and the motor controllers.
