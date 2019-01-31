@@ -11,6 +11,10 @@ One of the preferred suppliers is [Farnell](http://www.farnell.nl), a very large
 
 Of all things you buy, you **must** **KEEP** a hardcopy of the receipt! The Lab is obliged to be able to show all receipts of any payment/purchase at a request for 3 years. If you have your own registration, keep it in there in reference to the declaration code (DECLxxxxxxB or LxxxxxxB) and the date. If you are unable to or are a very unorganized person, bring all your hard copies to Christophe De Wagter. He will save it for you in the MAVLab administration.
 
+## Travel
+
+ - **DO NOT DECLARE PARKING COSTS**
+
 ## MAVLab expenses sheet
 
 All expenses are being tracked for each project code ('baancode') in an [online Excel sheet](https://docs.google.com/spreadsheets/d/1rjMwl2PAkqQoZJo79XyGppT0GmYS0PzrqwRbRjkukpM/edit?usp=sharing). Whenever you make an expense, you have to fill this information in this sheet. This is **very** important as otherwise, we don't have any idea how much budget is left on each project code, as information from the finance department always runs behind at least half a year.
