@@ -15,12 +15,11 @@
 
  - Code that flew the Race: https://github.com/tudelft/paparazzi/tree/drone_race_2017
  - Video of technology https://www.youtube.com/watch?v=bwF0TAjC8iI
- - https://www.overleaf.com/14721784gwpwkqzxgqyt
- - Short description paper: http://link.springer.com/article/10.1007/s11370-018-00271-6
- - Complete description paper: https://arxiv.org/abs/1809.05958
+ - Springer: [Short description paper](http://link.springer.com/article/10.1007/s11370-018-00271-6)
+ - ArXiv: [Complete description paper](https://arxiv.org/abs/1809.05958)
 
 
 # 2016
 
- - Video: https://www.youtube.com/watch?v=WRpauah11yw&t=111s
  - Paper: https://doi.org/10.1109/mra.2016.2646090
+ - [![IROS 2016](http://img.youtube.com/vi/WRpauah11yw/0.jpg)](http://www.youtube.com/watch?v=WRpauah11yw)
