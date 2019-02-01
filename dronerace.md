@@ -14,7 +14,7 @@
 # 2017
 
  - Code that flew the Race: https://github.com/tudelft/paparazzi/tree/drone_race_2017
- - 
+ - Video of technology https://www.youtube.com/watch?v=bwF0TAjC8iI
 
 # 2016
 
