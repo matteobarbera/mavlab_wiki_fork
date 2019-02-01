@@ -20,7 +20,7 @@
  - [![IROS 2017 Practice](http://img.youtube.com/vi/q2fIUmLUUgk/0.jpg)](http://www.youtube.com/watch?v=q2fIUmLUUgk)
 
 
-# 2016
+# IROS 2016
 
  - Paper: https://doi.org/10.1109/mra.2016.2646090
  - [![IROS 2016](http://img.youtube.com/vi/WRpauah11yw/0.jpg)](http://www.youtube.com/watch?v=WRpauah11yw)
