@@ -16,8 +16,8 @@
  - Code that flew the Race: https://github.com/tudelft/paparazzi/tree/drone_race_2017
  - Springer: [Short description paper](http://link.springer.com/article/10.1007/s11370-018-00271-6)
  - ArXiv: [Complete description paper](https://arxiv.org/abs/1809.05958)
- - [![IROS 2016](http://img.youtube.com/vi/bwF0TAjC8iI/0.jpg)](http://www.youtube.com/watch?v=bwF0TAjC8iI)
-
+ - [![IROS 2017 Paper](http://img.youtube.com/vi/bwF0TAjC8iI/0.jpg)](http://www.youtube.com/watch?v=bwF0TAjC8iI)
+ - [![IROS 2017 Practice](http://img.youtube.com/vi/q2fIUmLUUgk/0.jpg)](http://www.youtube.com/watch?v=q2fIUmLUUgk)
 
 
 # 2016
