@@ -14,9 +14,10 @@
 # IROS 2017
 
  - Code that flew the Race: https://github.com/tudelft/paparazzi/tree/drone_race_2017
- - Video of technology https://www.youtube.com/watch?v=bwF0TAjC8iI
  - Springer: [Short description paper](http://link.springer.com/article/10.1007/s11370-018-00271-6)
  - ArXiv: [Complete description paper](https://arxiv.org/abs/1809.05958)
+ - [![IROS 2016](http://img.youtube.com/vi/bwF0TAjC8iI/0.jpg)](http://www.youtube.com/watch?v=bwF0TAjC8iI)
+
 
 
 # 2016
