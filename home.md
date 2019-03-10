@@ -37,4 +37,4 @@ Welcome to the **MAVLab wiki**!
 
 # More
 
- * Previously, the wiki was hosted [here](https://svn.lr.tudelft.nl/trac/MAVLAB/). Some info is not copied yet.
+ * Previously, the wiki was hosted [here](https://svn.lr.tudelft.nl/trac/MAVLAB/). Quite some info is not transfered yet. If you have a spare minute take some text and transfer it over here, very appropriated.
