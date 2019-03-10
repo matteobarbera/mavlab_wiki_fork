@@ -2,32 +2,33 @@ Lab Standards
 
 # Lab RC Transmitter standards
 
-#About
+# About
 
 This document is a RFC to get a unified MAVlab atandard for RC Transmitters (RC TX)
 RCF: request for COMMENT, so NOT a final document, it can be seen as in Alfa/Beta stage.
 
-#Discussion
+# Discussion
 Lots of things need to be discussed e.g. colors, behaviour, AETR or TAER etc. etc.
 
-#Outcome
+# Outcome
 
 RFC: AC pilot fligh operations failure minimalization
 
-#RFC about standards
+# RFC about standards
 
-##Protocol
+## Protocol
 The over air protocol MUST be FrSky
 
-###Exeptions
+### Exeptions
 ???Temproary exeptions(But better not). An airframe that cannot have a RX swaped for whatever reason
 
-#TX SWITCHES
-##MODE
+# TX SWITCHES
+
+## MODE
  All transmitter MUST be mode 2
 Philosophy: Roll and Pitchy movement on one stick make stearing with one hand possible. Also coupling is bler and for HEli more precise
 
-#KILL
+# KILL
 * Safe is TOWARD YOU, so kill is TOWARDS you
 Philosopy: in case of panic you arm over all contols towards you make engine stop mode manual and kill to kill position.
 On the right side to extend the flaps en exten the landing gear
@@ -42,13 +43,13 @@ Philosopy:
 * Flight mode is ALWAYS a 3 way switch, if TX does not have a 3 way switch we MODIFY the TX to have it or do NOT use the TX
 * Since "Manual is safer?" (debate) "manual(or att is towards you)"
 
-##GEAR
+## GEAR
 * Landing gear is on the RIGHT
 
-##FLAPS
+## FLAPS
 * Flaps are on the RIGHT
 
-#COLORCODING
+# COLOR CODING
 
 RFC TX Switches color coding
 
@@ -57,14 +58,14 @@ BLUE = MODESWITCH philosophy, on thr other colorspectrum than RED, less change o
 YELLOW = GEAR
 WHITE = FLAP, if not a
 
-green is NEVER used since it implies someting safe
+green is NEVER used since it implies something safe
 
 # Specifics
 
 ## Multirotor
-Helicopter
-Fixedwing
-Transitional
+## Helicopter
+## Fixedwing
+## Transitional
 
 # ON OFF
 It must be possible for the tranmitter to be switched on OPERATIONAL state WITHOU pressing ANY buttons on the TX
@@ -72,23 +73,23 @@ Philosophy: in Auto flight with TX of or low battery ofd battery swap we can kee
 
 The of position of the TX is TOWARDS the Pilot. Some TX do not have a Real on of. Those TX should NOT be used in the Lab for serios flight ops.
 
-#TX HARDWARE
+# TX HARDWARE
 All TX should be X9D SE, with a very very good reason not to have that.
 
-#FIRMWARE
-ALL firmware on TX should have a standarized proved pre-build version with defined compiler and defined libraries.
-If TX frimware should be upgraded, s SERIOUS test program is a must and only after proven and done all test new firmware can be introduced in use in the field ops
+# FIRMWARE
+ALL firmware on TX should have a standardized proved pre-build version with defined compiler and defined libraries.
+If TX firmware should be upgraded, s SERIOUS test program is a must and only after proven and done all test new firmware can be introduced in use in the field ops
 
-#PC JOYSTICKS
-Flight with non separated TX e.g. over datalink is NOT allowed for ROC operations, for ROClight is thould bediscurred
+# PC JOYSTICKS
+Flight with non separated TX e.g. over data-link is NOT allowed for ROC operations, for ROC-light is should be discussed.
 
-#TXDISPLAY
+# TX DISPLAY
 All TX displays should be monochrome full sun lit readable and readable in the dark
 
-#TXWARNINGS
+# TX WARNINGS
 RFC t.b.d.
 
-#BEHAVIOUR of SWITCHED
+# BEHAVIOUR of SWITCHES
 
 ##THROTTLE
 ###Electric engine
@@ -98,16 +99,21 @@ RFC t.b.d.
 
 ##PITCH
 
-##YAW
-##MODE
-##KILL
-##GEAR
-##FLAP
-##AUXx
+## YAW
+## MODE
+
+## KILL
+## GEAR
+## FLAP
+## AUXx
 
 ----
 # RX
 
-ALL receivers in the lab should be FrSky or compatible
+ALL receivers in the lab should be FrSky or compatible, if not the AC should get another RX
 
-#FIRMWARE
+# RX behaviour
+
+## RX indication light colors
+
+# RX FIRMWARE
