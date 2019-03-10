@@ -1,1 +1,0 @@
-RC TX Standard
