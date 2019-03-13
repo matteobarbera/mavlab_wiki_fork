@@ -121,18 +121,3 @@ The language of the TX and if use speech should be **ENGLISH only**
 # BEHAVIOUR of CONTROLD and SWITCHES
 
 [A page RFC on standard TX behaviour can be found here](RC-TX-control-and-switch-behaviour-standard)
-##THROTTLE
-###Electric engine
-###Gas engine
-
-##ROLL
-
-##PITCH
-
-## YAW
-## MODE
-
-## KILL
-## GEAR
-## FLAP
-## AUX1234
