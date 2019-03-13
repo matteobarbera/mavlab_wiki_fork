@@ -25,9 +25,9 @@ Soaring free like an eagle would be our main motto. One small kink, if you soar 
 
  * If you order anything, you **must** read the [finance rules](rules-finance) first.
 
-## Hardware
+## Common
 
- * [Read about some of the standards in the lab](Lab-standards)
+ * [Read about the standards in the MAVLab for hardware, software and whatnot...](Lab-standards)
 
 ## Outdoor Operations Manual
 
