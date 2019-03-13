@@ -8,13 +8,13 @@ This page is an RFC about a possibility to have standard control, modeswitch and
 
 # Controls
 
-##THROTTLE
-###Electric engine
-###Gas engine
+## THROTTLE
+### Electric engine
+### Gas engine
 
-##ROLL
+## ROLL
 
-##PITCH
+## PITCH
 
 ## YAW
 ## MODE
