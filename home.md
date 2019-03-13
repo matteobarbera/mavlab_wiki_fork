@@ -11,16 +11,25 @@ Welcome to the **MAVLab wiki**!
 
  * [[Introduction]] for newcomers, a **must read** if you want to have success in the MAVLab
  * If you are graduating at C&S also look [here](http://cswiki.lr.tudelft.nl/students/graduation)
- * If you order anything: read the [finance rules](rules-finance) first.
+
 
 # Lab standards
 
 Soaring free like an eagle would be our main motto. One small kink, if you soar in the lab, you need to adhere to some standards. That is good thing, since it will save you time along the way.
 
- * [Read about some of the standards in the lab](Lab-standards)
+## Papers
+
  * When writing papers and you want to publish, first go through the [Publishing checklist](publishchecklist) to see if you document adheres to the lab standard
 
-# Outdoor Operations Manual
+## Ordering
+
+ * If you order anything, you **must** read the [finance rules](rules-finance) first.
+
+## Hardware
+
+ * [Read about some of the standards in the lab](Lab-standards)
+
+## Outdoor Operations Manual
 
  * If you want to operate outdoors, [read about it on the OPS pages](http://www.github.com/tudelft/Operations)
 
