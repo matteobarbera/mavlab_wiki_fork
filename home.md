@@ -13,6 +13,10 @@ Welcome to the **MAVLab wiki**!
  * If you are graduating at C&S also look [here](http://cswiki.lr.tudelft.nl/students/graduation)
  * If you order anything: read the [finance rules](rules-finance) first.
 
+# Lab standards
+
+ * [Some of the standards in the lab](Lab-standards)
+
 # Outdoor Operations Manual
 
  * [OPS](http://www.github.com/tudelft/Operations)
@@ -37,4 +41,4 @@ Welcome to the **MAVLab wiki**!
 
 # More
 
- * Previously, the wiki was hosted [here](https://svn.lr.tudelft.nl/trac/MAVLAB/). Quite some info is not transfered yet. If you have a spare minute take some text and transfer it over here, very appropriated.
+ * Previously, [the wiki was hosted here](https://svn.lr.tudelft.nl/trac/MAVLAB/). Quite some info is not transferred yet. If you have a spare minute take some text and transfer it over here, very appropriated.
