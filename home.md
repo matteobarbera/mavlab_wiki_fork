@@ -9,25 +9,22 @@ Welcome to the **MAVLab wiki**!
 
 # Introduction
 
- * [[Introduction]] for newcomers !!!
+ * [[Introduction]] for newcomers, a **must read** if you want to have success in the MAVLab
  * If you are graduating at C&S also look [here](http://cswiki.lr.tudelft.nl/students/graduation)
  * If you order anything: read the [finance rules](rules-finance) first.
 
 # Lab standards
 
  * [Some of the standards in the lab](Lab-standards)
+ * When writing papers and you want to publish, first go through the [Publishing checklist](publishchecklist) to see if you document adheres to the lab standard
 
 # Outdoor Operations Manual
 
- * [OPS](http://www.github.com/tudelft/Operations)
-
-# Writing papers
-
- * [Publishing checklist](publishchecklist)
+ * If you want to operate outdoors, [read about it on the OPS pages](http://www.github.com/tudelft/Operations)
 
 # Projects
 
- * [Trello](https://trello.com/b/FelPdV49/mavlab-overview) has the most up to date list of people and projects
+ * [Here in Trello you find the most up to date list](https://trello.com/b/FelPdV49/mavlab-overview) of people and projects
 
 # Courses
 
@@ -39,6 +36,6 @@ Welcome to the **MAVLab wiki**!
  * Our [[robots]] or call 'em airframes if you like
  * [[drone-delfly-nimble]]
 
-# More
+# Work to be done
 
- * Previously, [the wiki was hosted here](https://svn.lr.tudelft.nl/trac/MAVLAB/). Quite some info is not transferred yet. If you have a spare minute take some text and transfer it over here, very appropriated.
+Previously, [the wiki was hosted here](https://svn.lr.tudelft.nl/trac/MAVLAB/). Quite some info is not transferred yet. If you have a spare minute take some text and transfer it over here, very appropriated.
