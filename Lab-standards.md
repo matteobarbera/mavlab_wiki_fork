@@ -2,52 +2,89 @@
 
 # About
 
-# Why
+## Why
 
-Standarization, The issue
-How - Inventory
-What
+## Standardization, the issue
 
-##Benefits
+## How - Inventory
 
- of standarization
+## What
 
-## Contra
+## Benefits
 
-#Procedures
+The benefits of some form of standardization
 
-#Materials
+## Contra Standardization
 
-#Suppliers
+Not in all cases is a standarization wished for ...
 
-#OSs
+# Procedures
 
-#Hardware
+* papers
+* videos
+* PR
+* public aperance
 
-# Airfames
-# Batteries
+# Materials
 
-## Charging
-## Connectors
-* Battery connectors: XT60
-      Why: Les time spend on
-           So they can be used without conversion
-           Solder everywhere over time
-De-chargers for battery
-Why: * better progress fro studens not lef with Dead batteries
-* save costs for no
+# Suppliers
+
+# OS's
+
+RFC, more can be added of specific need
+
+* Ubuntu 16.04 64 bit
+* Ubuntu 18.04 64 bit
+* Ubuntu 32/64bit if embedded
+* MS Win10
+
+# Hardware
+
+## Airframes
+
+First to be said if you develop new contro new airfoild new thins, no need to adher to any airframe standard
+
+But if you use the airframe to perform other control resers or vision base experiment we have
+
+* Bebop1
+* Bebop2
+* Mambo
+* Disco
+* Trashcan
+* Crazyfly
+
+## Battery Charging
+
+## Battery Storage
+
+## Battery Connectors
+
+* 1s, three different types
+
+* 2s
+RFC  These or these
+
+* 3s - 6s
+
+Battery for 3 to 6 S connectors: XT60 more amps then 2x XT60 side by side ;)
+Why: Less time spend on So they can be used without conversion Solderd everywhere over time
 
 # RX Receivers:
 
-Standarize on FrSky RX
-Why: God range, ?Reliable?, Telemetry back, open protocol, cheap, available
+Standardize on FrSky RX or FrSky compatible
+Which: X-XSR
+Why: Good range,  telemetry backoption, open protocol, cheap, available, open software flashable
 How: Buy a bunch
 What about delfly: FrSky XM cpp or Sbus these ones can replace the current deltang
 
-
+Must adhere to new EU rules LBT ETSI v1.8.1
 ALL receivers in the lab should be FrSky or compatible, if not the AC should get another RX
+
 # RX behaviour
+
+# RX Output signal
 ## RX indication light colors
+
 # RX FIRMWARE
 
 # Data Transmission
@@ -56,13 +93,15 @@ ALL receivers in the lab should be FrSky or compatible, if not the AC should get
 ## XBee Pro S1
 Firmware version E2?
 
-##Si10xx
+## Si10xx
 
-Si10xx 868/900 based modems, So not the new RFD900_emp32
+Modem Si10xx 868/900 based modems, So not the new RFD900_emp32
 
-##Telemetry FrSky
+Connector RP-SMA female for signal out, maning antennas have a RP-SMA Male
 
-#OS's
+## Telemetry FrSky
+
+# OS's
 
 ## Ubuntu 16.04.x or 18.04.x
 
@@ -73,16 +112,19 @@ Si10xx 868/900 based modems, So not the new RFD900_emp32
 Markdown, Github version allowed.
 
 # Autopilots
- There are just to many..so some default RFC:
+There are just to many..so some default RFC:
 
 # Pixhawk Clones 2.4.8 - 
 Why: Versatile, Well flexible, Available cheap
-# Pixrace
-Why
+# Pixracer v1.0 R14
+Why? robus, versatile, available, cheap, hardfloat F4, SD memeory
 # Lisa MXS: 
-Why? Fits certain projects
+Why? Fits certain projects light small
 # Parrot based AP's ARDrone2, Bebop, Bebop2, Disco: 
 Why:No need to build something
+
+# CrazybeeF4Pro
+Why, ch3eap, versatile, available, cheap, hardfloat F4
 
 # Web technology: 
 Lamp server
@@ -93,9 +135,10 @@ Wordpress, if ned custom pluging by student but made open to public
 # Version control
  Git v2 or higher, ?and for SVN a Git bridge?
 
-#Basic Software 
+# Basic Software 
 
-Should haveat least Linux,optionally Win and OSX version
+Software used should have at least Linux,optionally Win and OSX version.
+Exeption arevery specific progrems fro hardware, e,g. certain measurein equipment
 
 * KiCad  (WXL)
 * FreeCad (WXL)
@@ -106,17 +149,18 @@ Should haveat least Linux,optionally Win and OSX version
 * LibreOffice (WXL)
 * ? qelectrotech https://qelectrotech.org
   ? https://sourceforge.net/projects/tinycad/
+* Motive v2.0(Optitrack)
 
 # Google services
 Sadly not open, but access to all your data pragmatic for the time being
 
-# Hardware designs AP
+# Hardware PCB/schematic designs AP
 
-Current From EAGLE to KiCAD?
+* Current From EAGLE to KiCAD wherever feasable
+In some scenarios Altium v19 may be used
 
 # RC transmitters
 
-## Devo 10 FW 5.0x with git tag
-## X9D
-## SM600 USB
-
+* Devo 10 FW 5.0x with git tag
+* Taranis X9D
+* PC USB "fake" RC transmitter SM600
