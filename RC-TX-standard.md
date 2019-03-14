@@ -99,7 +99,9 @@ All TX should be X9D SE, with a very very good reason not to have that TX.
 # FIRMWARE
 ALL firmware on TX should have a **standardized proved pre-build version** with defined compiler and defined libraries.
 
-If TX firmware should be upgraded, a SERIOUS test program is a must and only after proven and done all test new firmware can be introduced in use in the field ops. 
+If TX firmware should be upgraded, a SERIOUS test program is a must and only after proven and done all test new firmware can be introduced in use in the field ops.
+
+The firmware should adhere to ETSI EN 300 328 v1.8.1 so for FrSky EU LBT. EULBT based firmware is allowed in other parts of the world, other way around is not.
 
 # TX settings
 
