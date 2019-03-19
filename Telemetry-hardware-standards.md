@@ -18,6 +18,9 @@ If a telemetry module is small it is allowed to have a U.FL conector instead of 
 
 If a connector is used on the antenna side it must be an **RPSMA male** type
 
+![RPSMA Male on antenna](https://github.com/tudelft/mavlab/raw/master/photos/connector-RPSMA-male-on-an-antenna.jpg)
+
+
 # Telemetry over RC
 
 # Telemetry over audio
