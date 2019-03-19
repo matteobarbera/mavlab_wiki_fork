@@ -1,3 +1,5 @@
+#Relative links
+
 GitHub supports relative links in markup files. 
 
 This means your documentation can now easily stand on its own, without always pointing to GitHub.
@@ -16,3 +18,7 @@ Instead of an absolute link:
 and github makes sure it gets linked to user/repo/blob/branch/other_file.md.
 
 If you were using a workaround like [a workaround link](repo/blob/master/other_file.md), you'll have to update your documentation to use the new syntax.
+
+Well it is not the end of the story more is possible , but it is a start toward better standards, and movable content.
+
+Read e.g.  https://stackoverflow.com/questions/7653483/github-relative-link-in-markdown-file
