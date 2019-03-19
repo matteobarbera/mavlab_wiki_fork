@@ -33,6 +33,11 @@ Soaring free like an eagle would be our main motto. One small kink, if you soar 
 
  * If you want to operate outdoors, [read about it on the OPS pages](http://www.github.com/tudelft/Operations)
 
+## Wiki
+
+ * The markup of the MAVLab wiki should be in MARKDOWN format
+ * Links should be RELATIVE Links is info is inside wiki
+
 # Projects
 
  * [Here in Trello you find the most up to date list](https://trello.com/b/FelPdV49/mavlab-overview) of people and projects
