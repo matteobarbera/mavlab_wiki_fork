@@ -60,6 +60,10 @@ Tutorials are best published publicly on e.g. http://wiki.paparazziuav.org. If i
 
 * BLheli flashing
 
+## External
+
+* Crimping connectors https://iotexpert.com/2018/01/18/jst-connector-crimping-insanity/
+
 # Work to be done
 
 Previously, [the wiki was hosted here](https://svn.lr.tudelft.nl/trac/MAVLAB/). Quite some info is not transferred yet. If you have a spare minute take some text and transfer it over here, very appropriated.
