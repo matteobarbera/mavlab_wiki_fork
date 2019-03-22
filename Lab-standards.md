@@ -61,8 +61,12 @@ But if you use the airframe to perform other control resers or vision base exper
 
 * 1s, three different types
 
+* {TODO} for on very light and  tiny airframes
+* On e.g. Trashcan
+* e.g. Crazyflie
+
 * 2s
-RFC  These or these
+RFC  {TODO} These or these
 
 * 3s - 6s
 
