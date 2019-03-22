@@ -71,13 +71,14 @@ RFC  {TODO} These or these
 * 3s - 6s
 
 Battery for 3 to 6 S connectors: XT60 more amps then 2x XT60 side by side ;)
-Why: Less time spend on So they can be used without conversion Solderd everywhere over time
+Why: Less time spend on So they can be used without conversion Soldered everywhere over time
 
 # RX Receivers:
 
-Standardize on FrSky RX or FrSky compatible
-Which: X-XSR
-Why: Good range,  telemetry backoption, open protocol, cheap, available, open software flashable
+THe Lab has Standardized on FrSky RX or FrSky compatible RX
+
+Which: R-XSR
+Why: Good range, telemetry backoption, open protocol, cheap, available, open software flashable
 How: Buy a bunch
 What about delfly: FrSky XM cpp or Sbus these ones can replace the current deltang
 
@@ -105,6 +106,8 @@ Connector RP-SMA female for signal out, maning antennas have a RP-SMA Male
 
 ## Telemetry FrSky
 
+Whenever RX telemetry output is not needed, 99% of cases, it should be disabled in RC transceiver
+
 # OS's
 
 ## Ubuntu 16.04.x or 18.04.x
@@ -113,31 +116,32 @@ Connector RP-SMA female for signal out, maning antennas have a RP-SMA Male
 
 # Markup: 
 
-Markdown, Github version allowed.
+**Markdown**, Github version allowed.
 
 # Autopilots
-There are just to many..so some default RFC:
+
+There are just to many...so some default RFC:
 
 # Pixhawk Clones 2.4.8 - 
 Why: Versatile, Well flexible, Available cheap
 # Pixracer v1.0 R14
-Why? robus, versatile, available, cheap, hardfloat F4, SD memeory
+Why: robust, versatile, available, cheap, hardfloat F4, SD card
 # Lisa MXS: 
-Why? Fits certain projects light small
+Why: Fits certain projects light small
 # Parrot based AP's ARDrone2, Bebop, Bebop2, Disco: 
 Why:No need to build something
-
-# CrazybeeF4Pro
-Why, ch3eap, versatile, available, cheap, hardfloat F4
+# Crazybee F4 Pro
+Why: complete, light, cheap, available, hardfloat F4. cc2500 chip for mesh
 
 # Web technology: 
 Lamp server
 
 # CMS 
-Wordpress, if ned custom pluging by student but made open to public
+Wordpress, if need custom plugin by student but made open to public
 
 # Version control
- Git v2 or higher, ?and for SVN a Git bridge?
+
+* **Git** v2 or higher, and for old SVN repos an Git SVN extentions can be used
 
 # Basic Software 
 
