@@ -97,6 +97,7 @@ NOTE: Some TX do not have a real on/off. Those TX should NOT be used in the Lab 
 All TX should be X9D SE, with a very very good reason not to have that TX.
 
 # FIRMWARE
+
 ALL firmware on TX should have a **standardized proved pre-build version** with defined compiler and defined libraries.
 
 If TX firmware should be upgraded, a SERIOUS test program is a must and only after proven and done all test new firmware can be introduced in use in the field ops.
@@ -106,6 +107,8 @@ The firmware should adhere to ETSI EN 300 328 v1.8.1 so for FrSky EU LBT. EULBT 
 # TX settings
 
 TX setting will be unified in the TX so the output is the same for ALL transmitters
+
+See https://github.com/tudelft/tx_configs
 
 # PC JOYSTICKS
 Flight with non separated TX e.g. over data-link is NOT allowed for ROC operations, for ROC-light is should be discussed.
