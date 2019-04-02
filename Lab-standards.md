@@ -169,6 +169,7 @@ In some scenarios Altium v19 may be used
 
 # RC transmitters
 
-* Devo 10 FW 5.0x with git tag
-* Taranis X9D
+* Devo 10 FW 5.xx with git tag ???(todo)
+* Taranis X9D FW XJT EULBT and OpenTX 2.2.3.x fixed RSSI warning
 * PC USB "fake" RC transmitter SM600
+* iRangeX Multi-module
