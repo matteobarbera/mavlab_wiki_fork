@@ -76,16 +76,26 @@ Note: **Green is NEVER used** since it implies something safe
 
 If there are specific switches use the can be defined here. If it is impossible to make a standard there. The switch will be in the Preflight check but can **NOT be for essential operations**
 
-## Multirotor
+## ALL
 
-## Helicopter
+### Dual rate
 
-## Fixedwing
+ORANGE =Dual rate on top left next to mode
+
+Philosophy: Sometimes one does not know the control effectiveness at higher or lower speed. To be able to give more or less authorith a switch can be assigned as a so called "Dual-Rate" switch. next to mode since often neede when switching to manual mode pull back 2 at the same time.
+
+### Drop/cam or other trigger
+
+CLICK = PURPLE on the right side
+Philosophy: Sometimes one wants to perform a on time pulse action like take picture, drop store, tupple etc.
+For this the CLICK switch is used
 
 ## Transitional
 
+### Forward/Hover toggle
+
 # Power ON/OFF
-It must be possible for the tranmitter to be switched on OPERATIONAL state **WITHOUT pressing ANY buttons** on the TX
+It must be possible for the transmitter to be switched on OPERATIONAL state **WITHOUT pressing ANY buttons** on the TX
 Philosophy: In (autonomous)flight,  with TX off or low battery off battery swap we can keep **EYES on Aircraft** and can not make mistakes forget pressing buttons or menus items. Sme for on ground switch on, when **ON the TX MUST be 100% operational**
 
 The off position of the TX is TOWARDS the Pilot. 
