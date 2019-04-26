@@ -114,6 +114,8 @@ If TX firmware should be upgraded, a SERIOUS test program is a must and only aft
 
 The firmware should adhere to ETSI EN 300 328 v1.8.1 so for FrSky EU LBT. EULBT based firmware is allowed in other parts of the world, other way around is not.
 
+[One must get the correct firmware **only from here**](https://github.com/tudelft/tx_configs)
+
 # TX settings
 
 TX setting will be unified in the TX so the output is the same for ALL transmitters
@@ -121,7 +123,8 @@ TX setting will be unified in the TX so the output is the same for ALL transmitt
 See https://github.com/tudelft/tx_configs
 
 # PC JOYSTICKS
-Flight with non separated TX e.g. over data-link is NOT allowed for ROC operations, for ROC-light is should be discussed.
+
+Flight with non separated TX e.g. over data-link is NOT allowed for ROC operations, for ROC-light is should be discussed. [Settings to be found here](https://github.com/tudelft/tx_configs/sm_600)
 
 # TX DISPLAY
 All TX displays should be monochrome full sun lit readable and readable in the dark
@@ -133,6 +136,6 @@ RFC t.b.d.
 
 The language of the TX and if use speech should be **ENGLISH only**
 
-# BEHAVIOUR of CONTROLD and SWITCHES
+# BEHAVIOUR of CONTROLS and SWITCHES
 
 [A page RFC on standard TX behaviour can be found here](RC-TX-control-and-switch-behaviour-standard)
