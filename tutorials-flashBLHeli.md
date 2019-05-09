@@ -37,7 +37,7 @@ flash an Arduino Nano board. Refer to Section” Create a NANO Stick for Flashin
 
  - Power up the Esc using Battery (or 3.3V pin on the Arduino) and Click on connect.
  - If successfully connected, a message is displayed, if not recheck the connections. 
- - Click on Flash BLHeli and choose the appropriate. hex file for the ESC. '''Use [https://svn.lr.tudelft.nl/trac/MAVLAB/wiki/electronics/BLHeliEnableRPMoutput this link] to get our modified hex file, which allows rpm sensing.'''
+ - Click on Flash BLHeli and choose the appropriate. hex file for the ESC. '''Use [this file](https://1drv.ms/u/s!AiynX8wt2X_PkpImPHXgw4D1NMeStA) if you want rpm sensing.'''
  - A warning might appear if a different BL Heli version is already flashed. 
  - Press OK and confirm to Flash the ESC. 
  - When asked if you want to write current settings, say no.
