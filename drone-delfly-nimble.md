@@ -76,7 +76,8 @@ Troubleshooting
 | telemetry (optional) | Wifi Esp8266 esp 09 |
 | power regulator (highly recommended) | ask Christophe |
 
-Check the [wiki:delflyEquipment DelFly equipment page] for more details on how to flash BLHeli, how and where to order the motors, etc.
+Check the [wiki:delflyEquipment DelFly equipment page] for more details on how where to order the motors, etc.
+Check [this page](https://github.com/tudelft/mavlab/wiki/tutorials-flashBLHeli) for more details on how to flash BLHeli.
 
 ## Connection schematics
 
