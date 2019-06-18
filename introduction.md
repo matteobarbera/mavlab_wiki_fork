@@ -216,3 +216,7 @@ If you want to more than just listing references, you can look at these citation
 ### Latex Tips
 
 * [[https://svn.lr.tudelft.nl/trac/MAVLAB/wiki/latex_tips|Latex tips]] : Some tips for working with latex
+
+# Students with residence permit:
+
+All relevant information about the MOMI  Study Progress Monitoring can be found here:https://www.tudelft.nl/en/student/legal-position/education-regulations/momi-study-progress-monitoring/
