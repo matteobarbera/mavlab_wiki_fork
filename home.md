@@ -12,7 +12,7 @@ Welcome to the **MAVLab wiki**!
  * [[Introduction]] for newcomers, a **must read** if you want to have success in the MAVLab
  * If you are graduating at C&S also look [here](http://cswiki.lr.tudelft.nl/students/graduation)
 
-# Lab standards
+# Lab standards :books:
 
 Soaring free like an eagle would be our main motto. One small kink, if you soar in the lab, you need to adhere to some standards. That is good thing, since it will save you time along the way.
 
