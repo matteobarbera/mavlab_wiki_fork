@@ -35,7 +35,7 @@ That's it!
 * MSDS: [This document here](../blob/master/pdf/chemicals/msds-Sika-Mold-Sealer.pdf)
 * Looks like:
 
-![zorrr](../../blob/master/images/MAVLab_chemical_stock_1671.jpg?raw=true&width="25%")
+![zorrr](../../blob/master/images/MAVLab_chemical_stock_1671.jpg?width="25%")
 
 ----
 ### EPIKOTE Resin 827
