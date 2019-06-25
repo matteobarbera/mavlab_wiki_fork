@@ -2,7 +2,7 @@
 
 Welcome to the **MAVLab wiki**!
 
-> Note: Previously, [[the wiki was hosted here](https://svn.lr.tudelft.nl/trac/MAVLAB/). Some info is not copied yet.
+> Note: Previously, [the wiki was hosted here](https://svn.lr.tudelft.nl/trac/MAVLAB/). Some info is not copied yet.
 > Please join us in the effort to port content. Even a single page porting is already helpful
 
 > If you think al information is ported, feel free to remove this note.
