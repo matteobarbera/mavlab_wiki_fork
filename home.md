@@ -67,7 +67,7 @@ Tutorials are best published publicly on e.g. http://wiki.paparazziuav.org. If i
 ## External
 
 * Crimping connectors https://iotexpert.com/2018/01/18/jst-connector-crimping-insanity/
-
+* nstall arm-none-eabi-gdb. [​A tutorial to do this can be found here](http://fab.cba.mit.edu/classes/863.13/tutorials/EmbeddedProgramming/stm32.html)
 # Work to be done
 
 Previously, [the wiki was hosted here](https://svn.lr.tudelft.nl/trac/MAVLAB/). Quite some info is not transferred yet. If you have a spare minute take some text and transfer it over here, very appropriated.
