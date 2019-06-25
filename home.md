@@ -12,15 +12,15 @@ Welcome to the **MAVLab wiki**!
  * [[Introduction]] for newcomers, a **must read** if you want to have success in the MAVLab
  * If you are graduating at C&S also look [here](http://cswiki.lr.tudelft.nl/students/graduation)
 
-# Lab standards :books:
+# Lab standards
 
-Soaring free like an eagle would be our main motto. One small kink, if you soar in the lab, you need to adhere to some standards. That is good thing, since it will save you time along the way.
+Soaring free like an eagle :eagle: would be our main motto. One small kink, if you soar in the lab, you need to adhere to some standards. That is good thing, since it will save you time along the way.
 
-## Papers
+## Papers :page_facing_up:
 
  * When writing papers and you want to publish, first go through the [Publishing checklist](publishchecklist) to see if you document adheres to the lab standard
 
-## Ordering
+## Ordering :euro:
 
  * If you order anything, you **must** read the [finance rules](rules-finance) first.
 
@@ -28,7 +28,7 @@ Soaring free like an eagle would be our main motto. One small kink, if you soar 
 
  * [Read about the standards in the MAVLab for hardware, software and whatnot...](Lab-standards)
 
-## Outdoor Operations Manual
+## Operations Manuals :books:
 
  * If you want to operate **indoor**, [go to these OPS pages](http://www.github.com/tudelft/Operations)
  * If you want to operate **outdoor**, [read about it on the OPS pages](http://www.github.com/tudelft/Operations)
@@ -38,21 +38,21 @@ Soaring free like an eagle would be our main motto. One small kink, if you soar 
  * The markup of the MAVLab wiki should be in MARKDOWN format
  * [Links should be RELATIVE Links](relative-links-in-wiki) if the information is contained _inside this wiki_.
 
-# Projects
+# Projects :timer_clock:
 
  * [Here in Trello you find the most up to date list](https://trello.com/b/FelPdV49/mavlab-overview) of people and projects
 
-# Courses
+# Courses :man_technologist:
 
  * Paparazzi Vision Based Control [Website](https://tudelft.github.io/coursePaparazzi/) and [Source](https://github.com/tudelft/coursePaparazzi) and [videos](https://www.youtube.com/playlist?list=PL_KSX9GOn2P_LUXJOQxc6PLr7c7eTUs98)
  * [Optic Flow Notebook](https://mybinder.org/v2/gh/guidoAI/optic_flow_control_notebook.git/master)
 
-# Robots
+# Robots :robot:
 
  * Our [[robots]] or call 'em airframes if you like
  * [[drone-delfly-nimble]]
 
-# Chemicals
+# Chemicals :boom:
 
 Building things and need specific chemicals, e.g. quality epoxy, then [this page might be of help](chemicals)
 
