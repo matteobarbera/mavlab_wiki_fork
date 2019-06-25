@@ -36,7 +36,7 @@ That's it!
 * MSDS: [test](../blob/master/pdf/chemicals/msds-Sika-Mold-Sealer.pdf)
 
 * Looks like: 
-<img src="../blob/master/images/MAVLab_chemical_stock_1671.jpg" width="25%" />
+<img src="../blob/master/images/MAVLab_chemical_stock_1671.jpg" />
 
 * [[Image(MAVLab_chemical_stock_1671.jpg, 200px)]]
 
