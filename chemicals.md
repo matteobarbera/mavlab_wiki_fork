@@ -33,7 +33,6 @@ That's it!
 === '''Sika Mold Sealer''' ===
 * ID: 06LR0198XXX - 06LR0195XXX
 * Expires: 20131201
-* MSDS: [gg](../pdf/chemicals/msds-Sika-Mold-Sealer.pdf)
 * MSDS: [test](../blob/master/pdf/chemicals/msds-Sika-Mold-Sealer.pdf)
 
 * Looks like:
