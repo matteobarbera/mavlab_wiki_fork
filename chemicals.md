@@ -33,7 +33,8 @@ That's it!
 === '''Sika Mold Sealer''' ===
 * ID: 06LR0198XXX - 06LR0195XXX
 * Expires: 20131201
-* MSDS: [gg](../tree/master/pdf/chemicals/msds%20Sika%20Mold%20Sealer.pdf)
+* MSDS: [gg](../blob/master/pdf/chemicals/msds%20Sika%20Mold%20Sealer.pdf)
+
 * Looks like:
 * [[Image(MAVLab_chemical_stock_1671.jpg, 200px)]]
 
