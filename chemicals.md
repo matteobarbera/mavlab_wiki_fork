@@ -35,7 +35,7 @@ That's it!
 * Expires: 20131201
 * MSDS: [test](../blob/master/pdf/chemicals/msds-Sika-Mold-Sealer.pdf)
 
-* Looks like:
+* Looks like: <img src="../blob/master/images/data_cleaning1.jpg" width="25%" />
 * [[Image(MAVLab_chemical_stock_1671.jpg, 200px)]]
 
 ----
