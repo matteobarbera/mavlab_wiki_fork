@@ -34,6 +34,7 @@ That's it!
 * ID: 06LR0198XXX - 06LR0195XXX
 * Expires: 20131201
 * MSDS: [gg](../blob/master/pdf/chemicals/msds%20Sika%20Mold%20Sealer.pdf)
+* MSDS: [test](../blob/master/pdf/delfly/A-motorGearAssembly.pdf)
 
 * Looks like:
 * [[Image(MAVLab_chemical_stock_1671.jpg, 200px)]]
