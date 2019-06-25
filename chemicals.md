@@ -13,7 +13,7 @@ Please order the chemicals back from LM, via .
 
 Using the 06LR…… numbers.
 1. Emial you wished this list mailto:A.H.Robertus@tudelft.nl and CC Lijing Xue mailto:L.Xue@tudelft.nl with the following test in the email body: ''Dear chemical material support, I hereby requst the following materials for use:''
-1. Go to the chemical pickup point the next day or after you have got and acknowledge email from the chemical storage facility.
+1. Go to the chemical pick-up point the next day or after you have got and acknowledge email from the chemical storage facility.
 
 That's it!
 
@@ -29,15 +29,16 @@ That's it!
 ## List of chemical materials
 
 ----
-### Sika Mold Sealer'''
+### Sika Mold Sealer
 * ID: 06LR0198XXX - 06LR0195XXX
 * Expires: 20131201
 * MSDS: [This document here](../blob/master/pdf/chemicals/msds-Sika-Mold-Sealer.pdf)
 * Looks like:
-* [[Image(MAVLab_chemical_stock_1671.jpg, 200px)]]
+
+![zorrr](../../blob/master/images/MAVLab_chemical_stock_1671.jpg?raw=true&width="25%")
 
 ----
-### EPIKOTE Resin 827'''
+### EPIKOTE Resin 827
 * ID: 06LR0199XXX - 06LR0196XXX
 * Expires: 20131201
 * MSDS: [This document here](../blob/master/pdf/chemicals/msds-EPIKOTE-Resin-827.pdf)
