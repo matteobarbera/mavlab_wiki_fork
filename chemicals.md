@@ -41,6 +41,8 @@ That's it!
 
 <img src="../../tree/master/images/MAVLab_chemical_stock_1671.jpg" width="25%" />
 
+![testy](../../blob/master/images/MAVLab_chemical_stock_1671.jpg){:height="36px" width="36px"}
+![testy](../blob/master/images/MAVLab_chemical_stock_1671.jpg){:height="36px" width="36px"}
 * [[Image(MAVLab_chemical_stock_1671.jpg, 200px)]]
 
 ----
