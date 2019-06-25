@@ -12,7 +12,6 @@ Welcome to the **MAVLab wiki**!
  * [[Introduction]] for newcomers, a **must read** if you want to have success in the MAVLab
  * If you are graduating at C&S also look [here](http://cswiki.lr.tudelft.nl/students/graduation)
 
-
 # Lab standards
 
 Soaring free like an eagle would be our main motto. One small kink, if you soar in the lab, you need to adhere to some standards. That is good thing, since it will save you time along the way.
@@ -31,7 +30,8 @@ Soaring free like an eagle would be our main motto. One small kink, if you soar 
 
 ## Outdoor Operations Manual
 
- * If you want to operate outdoors, [read about it on the OPS pages](http://www.github.com/tudelft/Operations)
+ * If you want to operate **indoor**, [go to these OPS pages](http://www.github.com/tudelft/Operations)
+ * If you want to operate **outdoor**, [read about it on the OPS pages](http://www.github.com/tudelft/Operations)
 
 ## Wiki
 
