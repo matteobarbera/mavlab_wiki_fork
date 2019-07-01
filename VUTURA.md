@@ -1,0 +1,1 @@
+This page contains all information and reference to information related to the technical aspects of the VUTURA project.
