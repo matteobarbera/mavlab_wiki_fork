@@ -8,9 +8,17 @@ The most important stuff you should know are the lab rules and regulations. It i
 ## Cleaning policy
 Clean up your desk every Friday. This means completely empty. 
 
-## Which drones can I take? =
-Everybody gets one drone. Ask Erik when you want to use a drone. He will give you the drone, register it to your name, and put a sticker with your name on it on the drone. 
-When something on your drone breaks, create a system report in the MAVLab app. If you can repair the drone yourself please do so (and ask for the parts). Otherwise you can ask Erik. 
+## Which airframes can I take? =
+
+1. Ask Erik when you want to use a specific airframe 
+1. He will give you the airframe and register it to your name, 
+1. Put a sticker with your name on it on the drone.
+ 
+When something on your aircraft breaks, create a system report in the MAVLab app.
+
+https://github.com/tudelft/mavlab_admin/blob/master/MavLabManager_r10.apk
+
+If you can repair the aircraft yourself, please do so. Ask for the parts in the lab. Otherwise you can ask Erik. 
 
 # Rules
 
