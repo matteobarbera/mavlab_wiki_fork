@@ -23,6 +23,19 @@ make CC=arm-linux-gnueabihf-gcc
 make install
 ```
 
+## liblzo
+
+Download liblzo 2.10 from https://www.oberhumer.com/opensource/lzo/#download
+
+```
+cd $HOME/Downloads
+curl -L -O https://www.oberhumer.com/opensource/lzo/download/lzo-2.10.tar.gz
+tar -xvzf lzo-2.10.tar.gz
+cd lzo-2.10
+./configure CC=arm-linux-gnueabihf-gcc --host=arm-linux-gnueabihf --target=arm-linux-gnueabihf --build=x86_64 --prefix=$HOME/rpi_staging
+make && make install
+```
+
 ## OpenVPN
 This requires OpenSSL
 
