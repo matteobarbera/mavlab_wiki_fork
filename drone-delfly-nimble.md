@@ -6,7 +6,7 @@
 **The latest code (limited functionality)** will be soon in Paparazzi master (based on this [PR](https://github.com/paparazzi/paparazzi/pull/2380), allows basic flying + Optitrack flying):
 * [DelFly Nimble airframe file, PPRZ master](https://github.com/paparazzi/paparazzi/blob/master/conf/airframes/tudelft/delfly_nimble.xml)
 
-**Every Nimble might be different**, e.g. motors might be connected to different pins than in the master airframe, so always check before flying! 
+**Every Nimble might be different**, e.g. motors might be connected to different pins than in the master airframe, so always check before flying!!
 Also, after replacing the pitch servo, or if the Nimble starts drifting over time, you might want to adjust the dihedral servo limits in the airframe file to trim the vehicle.
 
 If you need additional functionality (onboard logging, rpm sensing, range sensor, monocam), you need to start from older code. If you plan to do further development, these additional features should be reintegrated into the latest code.
