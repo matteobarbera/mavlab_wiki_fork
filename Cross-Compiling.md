@@ -2,28 +2,11 @@
 
 Get the toolchains from [https://github.com/raspberrypi/tools](https://github.com/raspberrypi/tools). This repository contains multiple toolchains. The one that is known to work is `tools/arm-bcm2708/arm-rpi-4.9.3-linux-gnueabihf`.
 
-Clone the RPi tools repository:
 ```
 cd $HOME
 mkdir git
 cd git
 git clone https://github.com/raspberrypi/tools
-```
-
-Create a staging directory for installation files, for example `mkdir $HOME/rpi_staging`.
-
-## CryptoPP library
-
-The [cryptopp library](https://github.com/bartslinger/cryptopp) can be compiled for RPi as follows:
-
-```
-cd $HOME/git
-git clone https://github.com/bartslinger/cryptopp.git
-cd cryptopp
-export ARM_EMBEDDED_TOOLCHAIN=$HOME/git/tools/arm-bcm2708/arm-rpi-4.9.3-linux-gnueabihf/bin
-export ARM_EMBEDDED_SYSROOT=$HOME/git/tools/arm-bcm2708/arm-rpi-4.9.3-linux-gnueabihf/arm-linux-gnueabihf
-source ./setenv-rpi.sh
-make -f GNUmakefile-cross
 ```
 
 ## OpenSSL
@@ -38,4 +21,24 @@ export PATH=$HOME/git/tools/arm-bcm2708/arm-rpi-4.9.3-linux-gnueabihf/bin:$PATH
 ./configure linux-generic32 --prefix=$HOME/rpi_staging
 make CC=arm-linux-gnueabihf-gcc
 make install
+```
+
+## OpenVPN
+This requires OpenSSL
+
+```
+cd $HOME/git
+git clone --branch v2.4.7 https://github.com/OpenVPN/openvpn.git
+cd openvpn
+export PATH=$HOME/git/tools/arm-bcm2708/arm-rpi-4.9.3-linux-gnueabihf/bin:$PATH
+./configure OPENSSL_LIBS="-L$HOME/rpi_staging/lib -lssl -lcrypt" \
+LZO_LIBS="-L$HOME/rpi_staging/lib -llzo2" \
+LZO_CFLAGS="-I$HOME/rpi_staging/include" \
+--target=arm-linux-gnueabihf \
+--host=arm-linux-gnueabihf \
+--build=x86_64 \
+--prefix=$HOME/rpi_staging \
+--disable_plugins
+
+make && make install
 ```
