@@ -82,7 +82,7 @@ Check [this page](https://github.com/tudelft/mavlab/wiki/tutorials-flashBLHeli) 
 ## Connection schematics
 
 The standard connection schematics are in the following pdf:
-* [Transformer connection schematics](https://github.com/tudelft/mavlab/blob/master/Transformer_connection_schematics_MXS.pdf)
+* [Transformer connection schematics](https://github.com/tudelft/mavlab/blob/master/pdf/delfly/Transformer_connection_schematics_MXS.pdf)
 
 And here the autopilot and SD card connections:
 
