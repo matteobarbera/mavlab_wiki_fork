@@ -8,4 +8,4 @@
 
 # [Paparazzi]
 
-# [Equipment](../home/equipment)
+# [Equipment](../wiki/equipment)
