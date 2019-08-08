@@ -1,11 +1,11 @@
-# Home
+# [Home](http://wiki.mavlab.info/)
 
-# Introduction
+# [Introduction](../wiki/introduction)
 
-# Standards
+# [Standards](../wiki#lab-standards)
 
-# Hardware
+# [Hardware](../wiki/)
 
-# [Paparazzi]
+# [Paparazzi](https://paparazziuav.org/)
 
 # [Equipment](../wiki/equipment)
