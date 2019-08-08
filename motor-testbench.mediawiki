@@ -198,3 +198,36 @@ Digital
 
 [[Image(IMG_20150611_133744.jpg, width=500)]]
 [[Image(IMG_20150611_134908.jpg, width=500)]]
+
+----
+Motor Data Visualizer
+
+To visualize the data from the MTB?, a GUI visualizer was created using MATLAB. The software and measurement data can be found at:
+SVN: 	​https://svn.lr.tudelft.nl/MAVLAB/MavBal/motorlibrary
+Usage
+
+    In folder mfiles, open the GUI.m file
+    Run the m-file by pressing F5 
+
+Information
+
+The visualizer can show up to 4 data sets, with one parameter on the x-axis and up to 4 on the y axis.
+
+The Delfly load characteristic can be loaded with the checkbox 'Show Delfly35 characteristic'. This data is taken on a Delfly with 28 cm wingspan and a Delfly35W motor. Note that for the torque / RPM profiles, it shouldn't matter which motor was used to measure its characteristics, only the wingspan.
+
+The data of each measured motor is stored in files which are sorted by the voltage they were measured at (3.4V, 3.8V or 4.2V), or a certain thrust setting (50%, 75% or 100%). The files are named accordingly.
+
+If you have measured new motors, the data should be stored in the raw_data/MTB folder. The following naming scheme is used:
+
+Motorname_ESCname_ESCsoftwareVersion_voltage_thrustsetting.log
+
+The voltage ends always with a 'V', the thrustsetting is followed by 'proc' for percent.
+
+For example:
+
+Delfly18W_MX3A_BL13_34V_100proc.log
+
+TODO
+
+    When plotting more than two variables, the tick labels are overlapping on the y-axis. For the 3rd and 4th variable, its whole respective y-axis should be shifted outside in order not to overlap.
+    Selecting a motor can become difficult if too many motor datafiles are present. So when the data set increases, a more intuative way of selecting data files should be implemented. 
