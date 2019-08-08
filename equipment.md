@@ -3,21 +3,15 @@
 * The [Hot Wirecutter](wirecutter)
 * The [Large CNC 3-axis](cnc-3-axis)
 * the [CNC 4-axis](cnc-4-axis)
-* the Gray Vacuum Pump
-* the Blue Vacuum Pump
-
-We have the following machines and hardware available:
-* [[machinery/wirecutter|Wirecutter]]
-* [[machinery/cnc3axis|CNC 3-axis (large)]]
-* [[machinery/cnc4axis|CNC 4-axis (small)]]
-* [[machinery/VacuumPump|Vacuum Pump]]
-* [[resources/cyberzoo|Cyberzoo (optitrack system)]]
-* [[resources/motorTestBench|Motor test bench]]
-* [[resources/toughbook|Toughbook (Field laptop)]]
-* [[resources/transmitters|RC Transmitters]]
-* [[resources/mavbal|MAVLAB Balance]]
-* [[resources/cameraMonitors|Camera Monitors]]
-* [[resources/goPro|GoPros]]
+* x [Gray Vacuum Pump](gray-vacuum-pump)
+* x [Blue Vacuum Pump](blue-vacuum-pump)
+* x [Cyberzoo optitrack system](cyberzoo)
+* x [Motor test bench](motorTestBench)
+* x [Toughbook Field laptop](toughbook)
+* x [RC Transmitters](rc-transmitters)
+* x [MAVLAB Balance](mavbal)
+* x [Camera Monitors](camera-monitors)
+* x [Action Cameras](actioncameras)
 ----
 * Cyberzoo (optitrack system)
 * Motor test bench
