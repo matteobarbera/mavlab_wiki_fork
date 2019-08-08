@@ -67,4 +67,5 @@ You can change which layer an object is in by opening up the 'Object Properties'
 
 # Helpful Links
 
-​https://www.youtube.com/watch?v=m31qk1UdrbQ
+* ​https://www.youtube.com/watch?v=m31qk1UdrbQ
+* [HOW TO SWITCH Step Four Mill CABLES](HOW TO SWITCH Step Four Mill CABLES.pdf)
