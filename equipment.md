@@ -17,7 +17,7 @@
 
 You know how.. ad your info here plz
 
-* [Large CNC 3-axis](cns 3 axis)
+* The [Large CNC 3-axis](cnc-3-axis)
 # CNC 4-axis (small)
 # Vacuum Pump
 ----
