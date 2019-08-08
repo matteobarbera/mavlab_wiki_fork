@@ -4,7 +4,6 @@
 
 This page is about the workings and usage of the Motor Test Bench (MTB). For visualing the data, go to the [wiki:motorDataVisualizer Motor Data Visualizer page].
 
-
 [[span(style=color: #FF0000, **WARNING - THE TORQUE SENSORS ARE EXTREMELY FRAGILE DUE TO THEIR HIGH SENSITIVITY AND ARE VERY EXPENSIVE TO REPAIR**)]]
 ||[[span(style=color: #FF0000, **- DO NOT TOUCH THE MAGNETIC DISCS ATTACHED TO THE TORQUE SENSOR.**)]]||
 ||[[span(style=color: #FF0000, **- DO NOT APPLY ANY LOAD ON THE MAGNETIC DISCS OTHER THAN NORMALLY MEASURING A MOTOR**)]]||
