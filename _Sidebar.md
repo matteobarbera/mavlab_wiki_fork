@@ -1,7 +1,7 @@
 # [Home](http://wiki.mavlab.info/)
 # [Introduction](../wiki/introduction)
 # [Standards](../wiki#lab-standards)
-# [Hardware](../wiki/)
+# [Hardware](../wiki/hardware)
 # [Paparazzi](https://paparazziuav.org/)
 # [Equipment](../wiki/equipment)
 # [Projects](https://trello.com/b/FelPdV49/mavlab-overview)
