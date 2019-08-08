@@ -2,19 +2,10 @@
 
 # Introduction
 
-* A
-* B
-
 # Standards
 
 # Hardware
 
-# Paparazzi
+# [Paparazzi]
 
-# Equipment
-
-# Room 0.41
-
-* Saw
-* Mill
-* CNC
+# [Equipment](../home/equipment)
