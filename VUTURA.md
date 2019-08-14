@@ -19,6 +19,13 @@ ssh -l <netid> linux-bastion-ex.tudelft.nl
 ssh mavlab-drones.tudelft.nl
 sudo su bjmmslinger
 ```
+We also have a VPN server running on this VM. To make a new certificate, follow these instructions:
+```
+cd /home/bjmmslinger/CA/
+source ./vars
+./build-key <keyname>
+```
+You can find the certificate and private keys in CA/keys folder. This method was used to generate certificates for the 4G dongles and ground station operators.
 
 ## Onboard software architecture
 
