@@ -5,6 +5,21 @@ The VUTURA demonstration in Delft had 5 drones in it. Three of these were flying
 ### 4G subscriptions
 https://github.com/tudelft/mavlab/wiki/4G-subscriptions
 
+### TUDelft VM in faculty managed server
+Go to [https://tudelft.topdesk.net/tas/public/ssp/](https://tudelft.topdesk.net/tas/public/ssp/) and search for `Faculty managed server`. This is basically what we have. Click `(ICT) Request Faculty Managed Servers` for details on how to get into the system. NetID's with access to the [mavlab-drones.tudelft.nl](mavlab-drones.tudelft.nl) VM are:
+
+```
+bjmmslinger
+dcvanwijngaard
+```
+
+To login into the VM, use the following instructions:
+```
+ssh -l <netid> linux-bastion-ex.tudelft.nl
+ssh mavlab-drones.tudelft.nl
+sudo su bjmmslinger
+```
+
 ## Onboard software architecture
 
 ## Compiling
