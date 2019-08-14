@@ -19,4 +19,7 @@ In the t-mobile website, navigate to `MB's aanvullen`. There are some options pr
 
 ## E3372
 
+Devices USB01 and USB02 are used for the Parrot Disco (PH-4HM) and the Altura AED drone. They are basically plug-and-play internet dongles.
+
 ## WiFi Router
+The netgear wifi access point is kept in the MAVLAB field kit. After use, charge it using a micro-USB cable.
