@@ -2,6 +2,9 @@ This page contains all information and reference to information related to the t
 
 The VUTURA demonstration in Delft had 5 drones in it. Three of these were flying using the normal AirMap app. The other two, a Parrot Disco and an Altura X8 AED-drone (with RPi) had onboard software communicating directly with AirMap/Unifly.
 
+### 4G subscriptions
+https://github.com/tudelft/mavlab/wiki/4G-subscriptions
+
 ## Onboard software architecture
 
 ## Compiling
