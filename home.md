@@ -56,11 +56,11 @@ Soaring free like an eagle :eagle: would be our main motto. One small kink, if y
 
 Building things and need specific chemicals, e.g. quality epoxy, then [this page might be of help](chemicals)
 
-# Equipment
+# Equipment :wrench:
 
 Building nifty devices and need tools, [read about all the tools at your disposal here](equipment)
 
-# Tutorials
+# Tutorials :beginner:
 
 Tutorials are best published publicly on e.g. http://wiki.paparazziuav.org. If it is of internal use only or not useful at all of others one could consider to make a specific page in this wiki.
 
