@@ -7,7 +7,8 @@
 
 The Step Four Mill can be used both with the XpertMill? controllers, as well as the LinuxCNC controller. Please see the following PDF for how to connect the cables to switch between the two.
 
-https://svn.lr.tudelft.nl/trac/MAVLAB/attachment/wiki/machinery/cnc3axis/HOW%20TO%20SWITCH%20Step%20Four%20Mill%20CABLES.pdf
+HOW%20TO%20SWITCH%20Step%20Four%20Mill%20CABLES.pdf
+
 Before Milling
 
 1. Check that bit is correctly fitted in chuck.
