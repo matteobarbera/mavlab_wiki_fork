@@ -10,12 +10,10 @@
 
 # Parts
 
-
 ## Carbon
 
  - You can buy carbon rods at http://www.dpp-pultrusion.com/
  - or http://www.carbonwinkel.nl/nl/carbon-producten/900-vec-staaf-vinylester-carbon.html
-
 
 ## Motors
 
@@ -30,13 +28,11 @@ Order by sending an email to Mr. Chandrashekhar (sales@microbrushless.com), say 
 | 28 | Heavy smart Delflies - Explorer / DelFly II with additional sensors |
 | 30+ | Lightweight Delflies |
 
+# Motor controllers (ESCs)
 
+- Supermicro MX-3A or MI-3A, e.g. from [Hobbyking](http://www.hobbyking.com/hobbyking/store/__44697__SuperMicro_Systems_Brushless_ESC_3A_Mi_3A.html)
 
-* Motor controllers (ESCs)
-
- - Supermicro MX-3A or MI-3A, e.g. from [Hobbyking](http://www.hobbyking.com/hobbyking/store/__44697__SuperMicro_Systems_Brushless_ESC_3A_Mi_3A.html)
-
- - The ESCs need to be flashed with BLHeli software: [[tutorials-flashBLHeli]]
+- The ESCs need to be flashed with BLHeli software: [[tutorials-flashBLHeli]]
 
 # Receiver + servos
 
