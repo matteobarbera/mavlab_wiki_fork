@@ -1,10 +1,12 @@
-#Introduction
+# Introduction
 
-#Charging
+# Charging
 
 {Yes, you please add some sensible text here (please)}
 
-#Storage
+# Storage
 
 Having flown, your day is not over. It is time to put your LiPo batteries in storage state.
 HOW:
+
+# Handling
