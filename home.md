@@ -52,6 +52,10 @@ Soaring free like an eagle :eagle: would be our main motto. One small kink, if y
  * Our [[robots]] or call 'em airframes if you like
  * [[drone-delfly-nimble]]
 
+# Batteries
+
+It is that most batteries could just burst in flames if not handled correctly. So a must read [whole chapter about proper charging, handling and storage of Batteries](batteries)
+
 # Chemicals :boom:
 
 Building things and need specific chemicals, e.g. quality epoxy, then [this page might be of help](chemicals)
@@ -71,4 +75,4 @@ Tutorials are best published publicly on e.g. http://wiki.paparazziuav.org. If i
 ## External
 
 * Crimping connectors https://iotexpert.com/2018/01/18/jst-connector-crimping-insanity/
-* nstall arm-none-eabi-gdb. [​A tutorial to do this can be found here](http://fab.cba.mit.edu/classes/863.13/tutorials/EmbeddedProgramming/stm32.html)
+* Install arm-none-eabi-gdb. [​A tutorial to do this can be found here](http://fab.cba.mit.edu/classes/863.13/tutorials/EmbeddedProgramming/stm32.html)
