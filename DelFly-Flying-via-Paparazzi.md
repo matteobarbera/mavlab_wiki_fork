@@ -84,15 +84,65 @@ It is possible to amplify a small signal to make it usable on an oscilloscope fo
 <a href="#top">[Back to top]</a>
 
 # Autopilot
+The Lisa/S will be used as an autopilot. The old version of the Lisa/S has a strange programmation connector (cf attachment).
+
+Random tips:
+* To program the Lisa/S, use a USB port that does deliver some power (like a USB3 for example). You might get some errors (like unable to erase the flash memory) because the usb port in which the black magic probe is plugged doesn't deliver enough current.
+* Plug the black magic probe first into the computer then connect it to the Lisa/S. The other way around doesn't seams to be working (no idea why).
+* Restart the Lisa/S in order to get the new firmware running on it.
+* The servos' output of the Lisa / 0.1 version is mismatched. The 1 and 2 are in fact the servo NO.4 and 5 (if you add the `<define name="USE_SERVOS_1AND2"/>` in the airframe file). Then the pins 3-6 are corresponding to the servos 0-3.
+
+To make the Lisa/S bind to something: Configure everything in DSM2 mode (for a starter you are certain of what you need to configure that way). In the airframe file you need to add :
+
+`<define name="RADIO_TRANSMITTER_PROTOCOL" value="DSM_DSM2_2"/>`
+
+Unplug the power, press binding button, power up, let the binding button go. Wait a few seconds, then put remote in binding mode. The new driver for the superbitrf uses a LED to indicate the status of the communication (on the Lisa/S that LED is the yellow one (on the edge of the PCB) :
+* One blink every few seconds: binding mode, searching for something to connect to
+* Blink fast: synchronizing with something
+* Steady: connected and talking with something
+
+To get the IMU (accelerometer, gyroscope, and magnetometer) right, use the body_to_imu constrains in your airframe file. To know the right orders and signs, follow the instructions [here](http://wiki.paparazziuav.org/wiki/ImuCalibration#Accelerometer:).
+
+To get the barometer working, you need to specify in your airframe file to get the values from the captor using the statement: `<define name="USE_BARO_BOARD" value="TRUE"/>`. Then we need to tell paparazzi to actually use the values it gets from the captor with that statement: `<define name="USE_BAROMETER" value="TRUE"/>`.
+
+To automatically bind to a remote control, you can use the `<define name="RADIO_TRANSMITTER_ID" value="1974942194"/>` statement into the radio block of the airframe file. The value of that definition might be available using a USBRF dongle in debug mode and adding some debug messages line 365 of the firmware of it (in src/protocol/dsm_mimt.c).
 
 <a href="#top">[Back to top]</a>
+
 # RF Link
+The old RF (the small green one) is produced by [DelTang](http://www.deltang.co.uk/). But it was an rf link specifically designed for the MAVlab so it is hard to find the exact same reference.
 
 <a href="#top">[Back to top]</a>
+
 # GPS Antenna
+We will start off with an Atenova. We got 5 types of antennas:
+* The big brown square : 4.70g
+* The small grey square : 2.76g
+* The small brown square (MIA-GPS-10) : 3.07g
+* The green PCB : ~1.2g : [Taoglas site](https://www.digikey.com/product-detail/en/ALA.01.07.0095A/931-1014-ND/2332641)
+* The blue PCB Atenova A10137: ~ 0.9g
+* The blue PCB Atenova A10204: 0.46g
+
+Part number of some of those antennas:
+* AP.10F.07.0039B from Taoglas
+* ALA.01.07.0095A from Taoglas
+The green PCB antenna was the final one chosen for the project. Using the last version of the Lisa/S (1.0) we are able to get a fixe at 4m in less than a minute. Those antennas are very fragile, so fragile that then sometimes are broken when they arrive (1 broken out of 3 bought).
+
+<a href="#top">[Back to top]</a>
+
+
 # Actuators
+
+
+
+
+<a href="#top">[Back to top]</a>
+
 # Weight
+cf array attached to the page.
+
 # Demonstration
+On a nice morning with max 5m/s wind a 500m route away (2minutes) an 8 pattern for 1 minute then back (2 minutes)
 
 <a href="#top">[Back to top]</a>
 
