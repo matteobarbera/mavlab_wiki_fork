@@ -120,7 +120,7 @@ The standard connection schematics are in the following pdf:
 And here the autopilot and SD card connections:
 
 
-![Lisa MXS](https://github.com/tudelft/mavlab/raw/master/photos/drones/nimble/LisaMXS_transformer_connections_small.png)
+![Lisa MXS](https://github.com/tudelft/mavlab/raw/master/photos/drones/nimble/LisaMXS_nimble.png)
 
 
 Pay attention:
