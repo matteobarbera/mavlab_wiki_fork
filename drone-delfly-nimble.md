@@ -101,8 +101,6 @@ Check [this page](https://github.com/tudelft/mavlab/wiki/tutorials-flashBLHeli) 
 | Rivets | Steel rivets 1 mm x 14 mm, 0.78 mm x 8 mm | Jean-Daniel Nicoud nicoud@didel.com |
 | Other | Wiring, foam, glue, solder, etc. |  |
 
-<p>&nbsp;</p>
-
 |Electronic Components |  Type | Link | 
 | ---------- |----------| ----------| 
 | Servoactuator  | HK 5330 | https://hobbyking.com/en_us/hobbykingtm-hk-5330-ultra-micro-digital-servo-0-17kg-0-04sec-1-9g.html |
