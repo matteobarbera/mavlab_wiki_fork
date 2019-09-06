@@ -161,6 +161,9 @@ You might want to add a power regulator supplying constant 3.3V power to your re
 - [this tool](https://github.com/paparazzi/paparazzi/blob/master/sw/logalizer/sd2log.ml) (part of your PPRZ installation) will convert the binaries into paparazzi logs
 - go to 'paparazzi/sw/logalizer' and run './sd2log [path to the binaries]/sd_log_00000.bin'
 - if you get errors, make sure your [environment variables](https://wiki.paparazziuav.org/wiki/Installation#Environment_Variables) are set correctly
+  - The environment variables need to be changed in the .bashrc file. Go to the home directory and use command 'gedit ~/.bashrc'.
+  - Add the lines described in the link on the bottom of the file.
+  - The changes in the .bashrc file are only applied when Ubuntu is restarted, or use command line 'source ~/.bashrc' in the home directory. If neither of the two is done, you will get the same error as before. The change in the .bashrc file has to be done only the first time. 
 - the paparazzi logs will be stored in 'paparazzi/var/logs' and can be viewed with the [paparazzi log plotter](https://wiki.paparazziuav.org/wiki/Plotter)
 - [Matlab script](https://github.com/tudelft/mavlab/raw/master/scripts/read_pprz_MXS.m ] that loads the log into Matlab (if not working update according to messages.xml)
 
