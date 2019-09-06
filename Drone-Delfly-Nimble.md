@@ -7,7 +7,7 @@
 - [Purchasing](#purchasing)
 - [Connection Schematics](#connection-schematics)
 - [Downloading logs from Micro SD card](#downloading-logs-from-micro-sd-card)
-- [Scientific Papers & Thesis](#scientific-papers---thesis)
+- [Scientific Papers and Thesis](#scientific-papers-and-thesis)
 
 
 ## Introduction
@@ -182,7 +182,7 @@ Should the above links stop working, the model can also be accessed on the netwo
 
 <a href="#top">[Back to top]</a>
 
-## Scientific Papers & Thesis
+## Scientific Papers and Thesis
 
 * [The DelFly Book](https://www.springer.com/gp/book/9789401792073)
 * [A Tailless Aerial Robotic Flapper Reveals that Flies Use Torque Coupling in Rapid Banked Turns](https://svn.lr.tudelft.nl/trac/MAVLAB/attachment/wiki/DelFly_Transformer/Karasek%202018%20A%20tailless%20aerial%20robotic%20flapper%20reveals%20that%20flies%20use%20torque%20coupling%20in%20rapid%20banked%20turns.pdf)
