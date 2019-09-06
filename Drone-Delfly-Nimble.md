@@ -185,8 +185,10 @@ Should the above links stop working, the model can also be accessed on the netwo
 <a href="#top">[Back to top]</a>
 
 ## Scientific Papers & Thesis
+
 * [The DelFly Book](https://github.com/tudelft/mavlab/wiki/drone-delfly-nimble)
-* [A Tailless Aerial Robotic Flapper Reveals that Flies Use Torque Coupling in Rapid Banked Turns](https://svn.lr.tudelft.nl/trac/MAVLAB/attachment/wiki/DelFly_Transformer/Karasek%202018%20A%20tailless%20aerial%20robotic%20flapper%20reveals%20that%20flies%20use%20torque%20coupling%20in%20rapid%20banked%20turns.pdf), a lot is described in the supplement
+* [A Tailless Aerial Robotic Flapper Reveals that Flies Use Torque Coupling in Rapid Banked Turns](https://svn.lr.tudelft.nl/trac/MAVLAB/attachment/wiki/DelFly_Transformer/Karasek%202018%20A%20tailless%20aerial%20robotic%20flapper%20reveals%20that%20flies%20use%20torque%20coupling%20in%20rapid%20banked%20turns.pdf)
+a lot is described in the supplement
 * [A Minimal Longitudinal Dynamic Model of a Tailless Flapping Wing Robot for Control Design](https://iopscience.iop.org/article/10.1088/1748-3190/ab1e0b)
 * [MSc thesis](https://svn.lr.tudelft.nl/trac/MAVLAB/attachment/wiki/DelFly_Transformer/Kajak_MSc_thesis.pdf)
 
