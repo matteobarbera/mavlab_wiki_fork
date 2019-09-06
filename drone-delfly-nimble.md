@@ -1,6 +1,10 @@
 # DelFly Nimble (aka Transformer)
 
+DelFly Nimble is our newest and most agile design which can hover or fly in any direction (up, down, forward, backward or sideways). Unlike its predecessors, which are controlled like a conventional airplane via deflections of control surfaces located on the tail or behind the wings, the DelFly Nimble has no tail nor such control surfaces. Instead, it is controlled through insect-inspired adjustments of motion of its two pairs of flapping wings. The lack of the tail makes the DelFly Nimble less vulnerable to damage and highly agile, allowing also outdoors operation in light winds.
+
 ![Transformer](https://github.com/tudelft/mavlab/raw/master/photos/drones/nimble/nimble_components.jpg)
+
+(A) Description of the robot’s components. (B to D) High-speed camera frames capturing the robot in hover (B), forward flight (C), and sideways flight (D), from movies S1 to S3, respectively. (E to G) Details of the robot design: (E) the wing root adjustment mechanism for yaw torque control, (F) the dihedral control.
 
 ## Paparazzi code
 **The latest code (limited functionality)** will be soon in Paparazzi master (based on this [PR](https://github.com/paparazzi/paparazzi/pull/2380), allows basic flying + Optitrack flying):
