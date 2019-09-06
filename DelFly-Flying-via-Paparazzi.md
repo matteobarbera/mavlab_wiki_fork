@@ -76,7 +76,10 @@ To measure the speed of the DelFly and its flapping rate, we can use an eagle tr
 Without any wings, the DelFly can actually run at 40 flaps per seconds.
 
 ## Simon K
+We can program Simon K on an ATMEGA ESC like ​UEBD 6A from [HobbyKing](https://hobbyking.com/en_us/?gclid=Cj0KCQjwh8jrBRDQARIsAH7BsXfjh4wO-MoGpgR3amsScYz6rNlEtA_kRhUHqE8enST4sKJuU8xqRp0aAhkjEALw_wcB&gclsrc=aw.ds). By default, we get 20.4 flaps per seconds
+
 ## Small Signal Measurement
+It is possible to amplify a small signal to make it usable on an oscilloscope for example. For that, we need to an instrumentation amplifier (use 3 operational amplifiers) or a Differential amplifier. That last one is well explained [here](https://en.wikipedia.org/wiki/Operational_amplifier_applications#Differential_amplifier_.28difference_amplifier.29).
 
 <a href="#top">[Back to top]</a>
 
