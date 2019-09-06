@@ -50,11 +50,11 @@ Soaring free like an eagle :eagle: would be our main motto. One small kink, if y
 # Robots :robot:
 
  * Our [[robots]] or call 'em airframes if you like
- * [[drone-delfly-nimble]]
+ * [[The Delfly Family]]
 
 # Batteries
 
-It is that most batteries could just burst in flames if not handled correctly. So a must read [whole chapter about proper charging, handling and storage of Batteries](batteries)
+It is that most batteries could just burst in flames if not handled correctly. So a must-read [whole chapter about proper charging, handling and storage of Batteries](batteries)
 
 # Chemicals :boom:
 
