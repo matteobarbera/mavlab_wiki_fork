@@ -1,12 +1,24 @@
 # DelFly Nimble (aka Transformer)
 
+- [DelFly Nimble (aka Transformer)](#delfly-nimble--aka-transformer-)
+  * [Introduction](#introduction)
+  * [Paparazzi Code](#paparazzi-code)
+  * [Flight Procedure](#flight-procedure)
+  * [List of Components](#list-of-components)
+  * [Purchasing](#purchasing)
+  * [Connection Schematics](#connection-schematics)
+  * [Downloading logs from Micro SD card](#downloading-logs-from-micro-sd-card)
+  * [Scientific Papers & Thesis](#scientific-papers---thesis)
+
+
+## Introduction
 DelFly Nimble is our newest and most agile design which can hover or fly in any direction (up, down, forward, backward or sideways). Unlike its predecessors, which are controlled like a conventional airplane via deflections of control surfaces located on the tail or behind the wings, the DelFly Nimble has no tail nor such control surfaces. Instead, it is controlled through insect-inspired adjustments of motion of its two pairs of flapping wings. The lack of the tail makes the DelFly Nimble less vulnerable to damage and highly agile, allowing also outdoors operation in light winds.
 
 ![Transformer](https://github.com/tudelft/mavlab/raw/master/photos/drones/nimble/nimble_components.jpg)
 
 (A) Description of the robot’s components. (B to D) High-speed camera frames capturing the robot in hover (B), forward flight (C), and sideways flight (D), from movies S1 to S3, respectively. (E to G) Details of the robot design: (E) the wing root adjustment mechanism for yaw torque control, (F) the dihedral control.
 
-## Paparazzi code
+## Paparazzi Code
 **The latest code (limited functionality)** will be soon in Paparazzi master (based on this [PR](https://github.com/paparazzi/paparazzi/pull/2380), allows basic flying + Optitrack flying):
 * [DelFly Nimble airframe file, PPRZ master](https://github.com/paparazzi/paparazzi/blob/master/conf/airframes/tudelft/delfly_nimble.xml)
 
@@ -31,7 +43,7 @@ The current code only allows one type of maneuver to be used, e.g. either a roll
 ![DEVO10](https://github.com/tudelft/mavlab/raw/master/photos/drones/nimble/devo10_description_Transformer.png)
 
 
-## Flight procedure
+## Flight Procedure
 
 Standard flight procedure:
 * Turn on the transmitter, make sure the throttle stick is down, other sticks are centered, **all switches are at 0**
@@ -67,8 +79,7 @@ Troubleshooting
 * The Nimble drifts **left/right**: loosen / tighten the left / right wing by moving its root slightly up / down. More tension should give more lift, less tension less lift.
 
 
-## List of components
-
+## List of Components
 
 |Type |  Link |
 | ---------- |----------|
@@ -112,7 +123,7 @@ Check [this page](https://github.com/tudelft/mavlab/wiki/tutorials-flashBLHeli) 
 | LiPo battery | Hyperion G5 25/50C 1S 180mAh | [RobotBirds](https://www.robotbirds.co.uk/default/hyperion-g3-cx-25c-180-1cell-m-lipo.html) |
 
 
-## Connection schematics
+## Connection Schematics
 
 The standard connection schematics are in the following pdf:
 * [Transformer connection schematics](https://github.com/tudelft/mavlab/blob/master/pdf/delfly/Transformer_connection_schematics_MXS.pdf)
@@ -133,7 +144,7 @@ You might want to add a power regulator supplying constant 3.3V power to your re
 ![Power Regulator](https://github.com/tudelft/mavlab/raw/master/photos/drones/nimble/power_regulator.jpg)
 
 
-# Downloading logs from micro SD card
+## Downloading logs from Micro SD card
 - the logging only works with <=2GB cards
 - due to a [bug](https://github.com/paparazzi/paparazzi/issues/2092) only 43 logs can be written, than ALL the logs become unreadable, so keep this in mind and erase the card once in a while by formatting it via a PC card reader 
 - to download the data via a card reader, use [this tool](https://github.com/tudelft/highspeedlogger/)
@@ -162,7 +173,7 @@ You might want to add a power regulator supplying constant 3.3V power to your re
 Should the above links stop working, the model can also be accessed on the network group drive (from TU Delft network, only for MAVLab employees):
 * M:\lr\co\MavLab\018_Postdocs\2015-2019 Matej Karasek\SolidWorks\DelFly Transformer
 
-## Scientific Papers & theses
+## Scientific Papers & Thesis
 * https://svn.lr.tudelft.nl/trac/MAVLAB/attachment/wiki/DelFly_Transformer/Karasek%202018%20A%20tailless%20aerial%20robotic%20flapper%20reveals%20that%20flies%20use%20torque%20coupling%20in%20rapid%20banked%20turns.pdf, a lot is described in the supplement
 * https://svn.lr.tudelft.nl/trac/MAVLAB/attachment/wiki/DelFly_Transformer/K_M__Kajak_Nimble_model_submitted.pdf (submitted, do not share):
 * https://svn.lr.tudelft.nl/trac/MAVLAB/attachment/wiki/DelFly_Transformer/Kajak_MSc_thesis.pdf 
