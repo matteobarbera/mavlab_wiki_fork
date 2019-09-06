@@ -11,12 +11,15 @@
   * [Scientific Papers & Thesis](#scientific-papers---thesis)
 
 
+
 ## Introduction
 DelFly Nimble is our newest and most agile design which can hover or fly in any direction (up, down, forward, backward or sideways). Unlike its predecessors, which are controlled like a conventional airplane via deflections of control surfaces located on the tail or behind the wings, the DelFly Nimble has no tail nor such control surfaces. Instead, it is controlled through insect-inspired adjustments of motion of its two pairs of flapping wings. The lack of the tail makes the DelFly Nimble less vulnerable to damage and highly agile, allowing also outdoors operation in light winds.
 
 ![Transformer](https://github.com/tudelft/mavlab/raw/master/photos/drones/nimble/nimble_components.jpg)
 
 (A) Description of the robot’s components. (B to D) High-speed camera frames capturing the robot in hover (B), forward flight (C), and sideways flight (D), from movies S1 to S3, respectively. (E to G) Details of the robot design: (E) the wing root adjustment mechanism for yaw torque control, (F) the dihedral control.
+
+<a href="#top">[Back to top]</a>
 
 ## Paparazzi Code
 **The latest code (limited functionality)** will be soon in Paparazzi master (based on this [PR](https://github.com/paparazzi/paparazzi/pull/2380), allows basic flying + Optitrack flying):
@@ -42,6 +45,7 @@ The current code only allows one type of maneuver to be used, e.g. either a roll
 
 ![DEVO10](https://github.com/tudelft/mavlab/raw/master/photos/drones/nimble/devo10_description_Transformer.png)
 
+<a href="#top">[Back to top]</a>
 
 ## Flight Procedure
 
@@ -69,7 +73,7 @@ Optitrack position control
 * Once you get telemetry and 3D fix in GCS, double click on e.g. "stay p1" in the flight plan. Make sure it got activated.
 * While flying near point p1, Switch MODE to 2. The Nimble will go to Navigation mode and will fly to and stay at the coordinates of p1.
 * From now on, continue with your flight plan.
-* To terminate the flight, catch the Nimble, set MODE to 0 and set throttle to 0.
+* To terminate the flight, catch the Nimble, set MODE to 0 and set the throttle to 0.
 
 Troubleshooting
 * The Nimble **does not start flapping**: make sure the roll/pitch/yaw sticks are centered and the trims reset. Sometimes, DelTang receiver readings are biased. In that case, check the telemetry and adjust the transmitter trims until you see zero RC commands in the telemetry.
@@ -78,6 +82,7 @@ Troubleshooting
 * The Nimble drifts **forward/backward**: adjust the neutral dihedral servo position in the airframe file to trim the vehicle. Do not forget to adjust also the min/max accordingly.
 * The Nimble drifts **left/right**: loosen / tighten the left / right wing by moving its root slightly up / down. More tension should give more lift, less tension less lift.
 
+<a href="#top">[Back to top]</a>
 
 ## List of Components
 
@@ -93,6 +98,8 @@ Troubleshooting
 
 Check the [wiki:delflyEquipment DelFly equipment page] for more details on how where to order the motors, etc.
 Check [this page](https://github.com/tudelft/mavlab/wiki/tutorials-flashBLHeli) for more details on how to flash BLHeli.
+
+<a href="#top">[Back to top]</a>
 
 ## Purchasing
 
@@ -122,6 +129,7 @@ Check [this page](https://github.com/tudelft/mavlab/wiki/tutorials-flashBLHeli) 
 | Receiver | DelTang Rx31 | [MicronRadioControl](http://www.micronradiocontrol.co.uk/rx_dt_servo.html#dt_rx31) |
 | LiPo battery | Hyperion G5 25/50C 1S 180mAh | [RobotBirds](https://www.robotbirds.co.uk/default/hyperion-g3-cx-25c-180-1cell-m-lipo.html) |
 
+<a href="#top">[Back to top]</a>
 
 ## Connection Schematics
 
@@ -141,8 +149,9 @@ Pay attention:
 
 You might want to add a power regulator supplying constant 3.3V power to your receiver (highly recommended) and possibly to the autopilot. However, if you power the autopilot by the power regulator, the onboard voltage reading will stop working (you will see 3.3V all the time). To enable it, you need to rotate resistor R9 on the autopilot board and connect the battery voltage to its free end. Check the [schematics](https://github.com/paparazzi/paparazzi-hardware/raw/master/controller/lisa_s/lisa_mx_s/v1.0/lisa_mx_s_v1_0.PDF) of the Lisa MXS board, or ask for help if uncertain.
 
-![Power Regulator](https://github.com/tudelft/mavlab/raw/master/photos/drones/nimble/power_regulator.jpg)
+<img src="https://github.com/tudelft/mavlab/raw/master/photos/drones/nimble/power_regulator.jpg" width="300">
 
+<a href="#top">[Back to top]</a>
 
 ## Downloading logs from Micro SD card
 - the logging only works with <=2GB cards
@@ -173,7 +182,11 @@ You might want to add a power regulator supplying constant 3.3V power to your re
 Should the above links stop working, the model can also be accessed on the network group drive (from TU Delft network, only for MAVLab employees):
 * M:\lr\co\MavLab\018_Postdocs\2015-2019 Matej Karasek\SolidWorks\DelFly Transformer
 
+<a href="#top">[Back to top]</a>
+
 ## Scientific Papers & Thesis
 * https://svn.lr.tudelft.nl/trac/MAVLAB/attachment/wiki/DelFly_Transformer/Karasek%202018%20A%20tailless%20aerial%20robotic%20flapper%20reveals%20that%20flies%20use%20torque%20coupling%20in%20rapid%20banked%20turns.pdf, a lot is described in the supplement
 * https://svn.lr.tudelft.nl/trac/MAVLAB/attachment/wiki/DelFly_Transformer/K_M__Kajak_Nimble_model_submitted.pdf (submitted, do not share):
 * https://svn.lr.tudelft.nl/trac/MAVLAB/attachment/wiki/DelFly_Transformer/Kajak_MSc_thesis.pdf 
+
+<a href="#top">[Back to top]</a>
