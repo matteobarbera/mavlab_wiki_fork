@@ -1,4 +1,4 @@
-The different Delfly types are presented here:
+The different Delfly types are presented here. For the DelFly assembly, see [Drone-DelFly-Parts](https://github.com/tudelft/mavlab/wiki/drone-delfly-parts).
 
 - [Delfly Nimble](#delfly-nimble)
 - [Delfly Bender](#delfly-bender)
