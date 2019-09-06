@@ -4,7 +4,7 @@ The different Delfly types are presented here:
 - [Delfly Bender](#delfly-bender)
 - [Delfly Vector](#delfly-vector)
 - [Quadthopter a.k.a. Flappy](#quadthopter-aka-flappy)
-- [DelFly II for PIV & system ID](#delfly-ii-for-piv---system-id)
+- [DelFly II for PIV and system ID](#delfly-ii-for-piv-and-system-id)
 - [DelFly Limosine](#delfly-limosine)
 - [MilFly](#milfly)
 - [Delfly Desperado](#delfly-desperado)
@@ -29,7 +29,7 @@ Tail-less design that uses thrust vectoring for pitch and yaw control
 
 **Scientific paper**: [Quad-thopter: Tailless Flapping Wing Robot with 4 Pairs of Wings](https://repository.tudelft.nl/islandora/object/uuid%3Ab4fc2b39-b8b1-4791-b071-98557a7254f0)
 
-# DelFly II for PIV & system ID
+# DelFly II for PIV and system ID
 DelFly II equipped with a Lisa/S autopilot and IR-LEDs. Autonomous flights in [OptiTrack]() possible with a [WiFi]() datalink.
 * 2018 campaign (Volumetric PIV)
   * **Scientific paper**: [Large-scale Flow Visualization of a Flapping-wing Micro Air Vehicle](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/279239/061a.pdf)
@@ -40,6 +40,7 @@ DelFly II equipped with a Lisa/S autopilot and IR-LEDs. Autonomous flights in [O
 * 2016 campaign (Stereo PIV)
   * **Scientific paper**: [First free-flight flow visualisation of a flapping-wing robot](https://arxiv.org/pdf/1612.07645.pdf)
   * [Code](https://github.com/matejkarasek/paparazzi/commit/50bb921fcec528adf6d11eeb00d1c866992ae372)
+* [System ID code](https://github.com/matejkarasek/paparazzi/commits/delfly)
  
 <a href="#top">[Back to top]</a>
 
