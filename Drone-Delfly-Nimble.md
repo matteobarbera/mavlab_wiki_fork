@@ -1,15 +1,13 @@
 # DelFly Nimble (aka Transformer)
 
-- [DelFly Nimble (aka Transformer)](#delfly-nimble--aka-transformer-)
-  * [Introduction](#introduction)
-  * [Paparazzi Code](#paparazzi-code)
-  * [Flight Procedure](#flight-procedure)
-  * [List of Components](#list-of-components)
-  * [Purchasing](#purchasing)
-  * [Connection Schematics](#connection-schematics)
-  * [Downloading logs from Micro SD card](#downloading-logs-from-micro-sd-card)
-  * [Scientific Papers & Thesis](#scientific-papers---thesis)
-
+- [Introduction](#introduction)
+- [Paparazzi Code](#paparazzi-code)
+- [Flight Procedure](#flight-procedure)
+- [List of Components](#list-of-components)
+- [Purchasing](#purchasing)
+- [Connection Schematics](#connection-schematics)
+- [Downloading logs from Micro SD card](#downloading-logs-from-micro-sd-card)
+- [Scientific Papers & Thesis](#scientific-papers---thesis)
 
 
 ## Introduction
