@@ -1,5 +1,7 @@
 DelFly Desperado
 
+Editing note: If any link on this page can't be open, it's because the original link on the svnlr doesn't work.
+
 - [Outcome](#outcome)
   * [Additional](#additional)
 - [Deliverables](#deliverables)
@@ -116,9 +118,9 @@ The old RF (the small green one) is produced by [DelTang](http://www.deltang.co.
 
 # GPS Antenna
 We will start off with an Atenova. We got 5 types of antennas:
-* The big brown square : 4.70g
-* The small grey square : 2.76g
-* The small brown square (MIA-GPS-10) : 3.07g
+* The big brown square: 4.70g
+* The small grey square: 2.76g
+* The small brown square (MIA-GPS-10): 3.07g
 * The green PCB : ~1.2g : [Taoglas site](https://www.digikey.com/product-detail/en/ALA.01.07.0095A/931-1014-ND/2332641)
 * The blue PCB Atenova A10137: ~ 0.9g
 * The blue PCB Atenova A10204: 0.46g
@@ -132,9 +134,19 @@ The green PCB antenna was the final one chosen for the project. Using the last v
 
 
 # Actuators
+2.4ghz [SuperMicro]() Systems - [Double Linear Servo](https://www.ariesrc.gr/9482-origin-double-linear-servo.html) The driver for those servos in paparazzi is described [here](https://wiki.paparazziuav.org/wiki/Subsystem/actuators#Dual_PWM).
 
+Specs: 
+* Size: 33.35mm x 15.25mm 
+* Height 7.80mm 
+* Weight: 2.0g (wires not included) 
+* Torque: 35g @ 4.2V 
+* Speed: 0.12s @ 4.2V 
+* Voltage: 3.0V~4.2V
 
+These actuators have a latency of around 71ms with a Lisa/S controlling them. When we move the stick of the remote to one side, the servos start moving 71ms latter. In the same way, when the stick of the remote hits the maximum value, 71ms latter the actuator hits its own limit. Those measurements were done using a GoPro 3 running at 240fps. The actuator had a small load (a DelFly yaw aileron).
 
+Those servos (HobbyKind Ultra Micro Servo 1.7g for 3D Flight) are really good. But they are heavy. it is possible to easily cut two of the tags on the side (used for attachment), we can change the wires, and remove the metal cover of the slider. But even then we are still around 1.5g. The issue is that the motor is too big. But the mechanique is awesome. It would be nice to change that motor with a smaller one (for example from the red servos which are smaller).
 
 <a href="#top">[Back to top]</a>
 
@@ -148,5 +160,19 @@ On a nice morning with max 5m/s wind a 500m route away (2minutes) an 8 pattern f
 
 # Flight Plans
 ## Tests
+* Circle Standby
+* Fly 8 pattern
+* Flyroute AB and back
+* Autoland
+
 ## Final
+* Takeoff with hand-launch detection
+* Fly 2x circle
+* Fly Path to end
+* Fly 8 pattern
+* Flyroute back
+* Autoland
 <a href="#top">[Back to top]</a>
+
+# Attachments
+[Link](https://svn.lr.tudelft.nl/trac/MAVLAB/wiki/delflyFlyingViaPaparazzi#no1)
