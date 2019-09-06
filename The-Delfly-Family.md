@@ -10,7 +10,7 @@ The different Delfly types are presented here:
 - [Delfly Desperado](#delfly-desperado)
 
 # Delfly Nimble
-[Our most agile tail-less design]([[drone-delfly-nimble]])
+[Our most agile tail-less design](https://github.com/tudelft/mavlab/wiki/drone-delfly-nimble)
 
 
 # Delfly Bender
