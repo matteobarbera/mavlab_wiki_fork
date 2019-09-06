@@ -1,6 +1,6 @@
 # DelFly Nimble (aka Transformer)
 
-![Transformer](https://github.com/tudelft/mavlab/raw/master/photos/drones/nimble/delfly_nimble.png)
+![Transformer](https://github.com/tudelft/mavlab/raw/master/photos/drones/nimble/nimble_components.jpg)
 
 ## Paparazzi code
 **The latest code (limited functionality)** will be soon in Paparazzi master (based on this [PR](https://github.com/paparazzi/paparazzi/pull/2380), allows basic flying + Optitrack flying):
