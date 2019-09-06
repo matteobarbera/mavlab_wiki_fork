@@ -164,6 +164,16 @@ You might want to add a power regulator supplying constant 3.3V power to your re
 - the paparazzi logs will be stored in 'paparazzi/var/logs' and can be viewed with the [paparazzi log plotter](https://wiki.paparazziuav.org/wiki/Plotter)
 - [Matlab script](https://github.com/tudelft/mavlab/raw/master/scripts/read_pprz_MXS.m ] that loads the log into Matlab (if not working update according to messages.xml)
 
+## Formating the Micro SD card
+
+When the maximum number of logs has been reached, the Micro SD card needs to be flashed. This can't be done with the reformating in Windows or Mac or Linux, but needs to be done with an application.
+- For Windows, this can be done using the SD Card Formatter application. Go to go to https://www.sdcard.org/downloads/formatter/eula_windows/, sroll to the bottom of the page and click 'accept' to download the ZIP-file.
+- Extract the file and double click on 'SD Card Formatter 5.0.1 Setup'.
+- Insert the SD Card. Make sure it is visible to your computer.
+- Launch the program. Make sure the right SD-card is selected when multiple are connected to your computer.
+- Under Formatting options, select 'Overwrite format'.
+- In the bar 'Volume Label' you can rename the SD-card.
+- Click on 'Format' in the bottom right corner. Check if the logs are removed using the procedure to Download Logs from the SD-card described above.
 
 
 == 3D printed parts ==
