@@ -86,7 +86,7 @@ Check [this page](https://github.com/tudelft/mavlab/wiki/tutorials-flashBLHeli) 
 ## Purchasing
 
 |Mechanical Components |  Type | Link | 
-| ------------- |-------------| -------------| 
+| ---------- |----------| ----------| 
 | Brushless motor | Custom version of 1.5gm Mighty Midget motors | http://microbrushless.com/ |
 | Flapping mechanism | Custom, injection molded |
 | Output gear | Custom, injection molded, M0.3, 48 teeth | Jean-Daniel Nicoud nicoud@didel.com |
@@ -104,7 +104,7 @@ Check [this page](https://github.com/tudelft/mavlab/wiki/tutorials-flashBLHeli) 
 <p>&nbsp;</p>
 
 |Electronic Components |  Type | Link | 
-| ------------- |-------------| -------------| 
+| ---------- |----------| ----------| 
 | Servoactuator  | HK 5330 | https://hobbyking.com/en_us/hobbykingtm-hk-5330-ultra-micro-digital-servo-0-17kg-0-04sec-1-9g.html |
 | ESC | MX-3A (limted availability) | http://www.overskyrc.com/mx3a-esc-for-superx-quadcopter-p-525.html |
 | Auto-pilot board | Custom - Lisa MXS | https://github.com/paparazzi/paparazzi-hardware/tree/master/controller/lisa_s/lisa_mx_s/v1.0 |
