@@ -65,7 +65,7 @@ Make sure there is always somebody around when charging, and let them know you a
 ## Cyberzoo
 
 ### Getting Access to the Cyberzoo
-Getting access to the Cyberzoo requires contacting the administration of the Aerospace Structures and Materials department in order to get the card activated. The current secretary to contact is Marianne de Knegt: M.deKnegt-Overduin@tudelft.nl
+Getting access to the Cyberzoo requires contacting the administration of the Aerospace Structures and Materials department in order to get the card activated. The current secretary to contact is Gemma van der Windt (G.J.M.vanderWindt@tudelft.nl).
 
 Normal access to the Aircraft hall is restricted to until 6pm and only on work-days. Furthermore, you can only enter from the main entrance.
 
