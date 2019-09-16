@@ -134,7 +134,7 @@ The MAVLab has two shared Google calendars that might be of interest, you can as
 To have a good insight in the state of our flying platforms, we use MAVLab Manager to keep track of flight times, crashes and the general condition of our UAVs and batteries.
 This can be accessed at [log.mavlab.info](http://log.mavlab.info). Send a email to Erik: e.vanderhorst@tudelft.nl for him to add you to the system.
 
-Whenever you want to use a drone, you must scan the QR code using our Android app: ​https://play.google.com/store/apps/details?id=nl.mavlab.manager&hl=en.
+Whenever you want to use a drone, you must scan the QR code using our Android app: ​https://github.com/tudelft/mavlab_admin.
 
 If you don’t have an Android phone, you can do this manually with the drone ID number.
 To make an account, you will need to know a "secret", which is: *group15*.
