@@ -97,14 +97,16 @@ If using an R-XSR the Firmware MUST be [v190311 EU LBT](https://github.com/tudel
 # Data Transmission
 
 ## Wifi based on ESP8266 or build in wifi
+[*MUST* use this firmware](htpp://)
 ## XBee Pro S1
-Firmware version E2?
+[*MUST* use Firmware version E2](http://) 
+## Herelink
+[*MUST* use Firmware
 
 ## Si10xx
-
-Modem Si10xx 868/900 based modems, So not the new RFD900_emp32
-
+Modem Si10xx 868/900 based modems, So *not* the new RFD900_emp32
 Connector RP-SMA female for signal out, maning antennas have a RP-SMA Male
+[*MUST* use this Firmware](http://) 
 
 ## Telemetry FrSky
 
@@ -113,42 +115,46 @@ Whenever RX telemetry output is not needed, 99% of cases, it should be disabled 
 # OS's
 
 ## Ubuntu 16.04.x or 18.04.x
+In 64Bit, or if on 32Bitonly MCU, the 32bit variant
 
 ## Windows
+Only Windows 10 64Bit, or a windows version that is supported by the TU IT department
 
 # Markup: 
 
-**Markdown**, Github version allowed.
+**Markdown**, Github extended syntax allowed.
 
 # Autopilots
 
-There are just to many...so some default RFC:
+There are many...so our default RFC:
 
 # Pixhawk Clones 2.4.8 - 
-Why: Versatile, Well flexible, Available cheap
+Why: Versatile, Well flexible, Available and cheap
+# Pixhawk 4 - 
+Why: Versatile, Well flexible, Available
 # Pixracer v1.0 R14
 Why: robust, versatile, available, cheap, hardfloat F4, SD card
 # Lisa MXS: 
 Why: Fits certain projects light small
-# Parrot based AP's ARDrone2, Bebop, Bebop2, Disco: 
-Why:No need to build something
-# Crazybee F4 Pro
-Why: complete, light, cheap, available, hardfloat F4. cc2500 chip for mesh
+# Parrot based boards ARDrone2, Bebop, Bebop2, Disco: 
+Why: No need to build something, cheaply available
+# Crazybee F4 Pro board
+Why: complete, light, cheap, available, hardfloat F4. cc2500 chip usable for mesh networks
 
 # Web technology: 
 Lamp server
 
 # CMS 
-Wordpress, if need custom plugin by student but made open to public
+Wordpress, if need custom plug-in by student but made open to public
 
 # Version control
 
-* **Git** v2 or higher, and for old SVN repos an Git SVN extentions can be used
+* **Git** v2 or higher, and for old SVN repositories an Git SVN extensions can be used
 
 # Basic Software 
 
 Software used should have at least Linux,optionally Win and OSX version.
-Exeption arevery specific progrems fro hardware, e,g. certain measurein equipment
+Exception are very specific programs for hardware, e,g. certain measuring equipment
 
 * KiCad  (WXL)
 * FreeCad (WXL)
