@@ -92,6 +92,8 @@ ALL receivers in the lab should be FrSky or compatible, if not the AC should get
 
 # RX FIRMWARE
 
+If using an R-XSR the Firmware MUST be v190311 EU, reflash possible via STK module or via a Taranis X9D transmitter with specific flashing cable in the transport box.
+
 # Data Transmission
 
 ## Wifi based on ESP8266 or build in wifi
