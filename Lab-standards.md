@@ -92,7 +92,7 @@ ALL receivers in the lab should be FrSky or compatible, if not the AC should get
 
 # RX FIRMWARE
 
-If using an R-XSR the Firmware MUST be v190311 EU, reflash possible via STK module or via a Taranis X9D transmitter with specific flashing cable in the transport box.
+If using an R-XSR the Firmware MUST be [v190311 EU LBT](https://github.com/tudelft/tx_configs/raw/master/taranis_x9dp_se/fs/FIRMWARE/R-XSR_LBT_190311.frk), reflash possible via STK module or via a Taranis X9D transmitter with specific flashing cable in the transport box.
 
 # Data Transmission
 
