@@ -4,7 +4,7 @@
 
 ## Why
 
-## Standardization, the issue
+To enable everyone to focus on their research or studies and not to be bothered by some hard and software details, we adhere to some standards.
 
 ## How - Inventory
 
@@ -16,7 +16,7 @@ The benefits of some form of standardization
 
 ## Contra Standardization
 
-Not in all cases is a standarization wished for ...
+Not in all cases standardization and be adhered to. Why not? The lab is in the forefront of new development that also means new types of hardware and software must be used. Still where standard components can be applied, the *must* be applied.
 
 # Procedures
 
@@ -28,6 +28,15 @@ Not in all cases is a standarization wished for ...
 # Materials
 
 # Suppliers
+
+We try to keep the same suppliers if possible. Note that with very specific parts, we just need a supplier who can deliver those againt a fair price.
+
+Whatver the case try if you can buy via:
+
+1. Farnell
+2. Conrad
+3. Hobbyking
+4. ...
 
 # OS's
 
@@ -42,20 +51,24 @@ RFC, more can be added of specific need
 
 ## Airframes
 
-First to be said if you develop new contro new airfoild new thins, no need to adher to any airframe standard
+First to be said if you develop new control, new airfoils, other new stuff, no need to adhere to any airframe standard
 
-But if you use the airframe to perform other control resers or vision base experiment we have
+But if you use the airframe to perform other control research or vision base experiment we have
 
 * Bebop1
 * Bebop2
 * Mambo
 * Disco
 * Trashcan
-* Crazyfly
+* Crazyfly2
 
 ## Battery Charging
 
+Battery charging is obliged to take part only in charging areas. In the lab 0.44 we have one, in the Cyberzoo we have one.
+
 ## Battery Storage
+
+After your Workweek is over, one *must* put the use batteries in storage mode voltage. For this there are several battery storage (de)chargers
 
 ## Battery Connectors
 
@@ -66,11 +79,13 @@ But if you use the airframe to perform other control resers or vision base exper
 * e.g. Crazyflie
 
 * 2s
-RFC  {TODO} These or these
+
+RFC  {TODO} These or these XT30
 
 * 3s - 6s
 
 Battery for 3 to 6 S connectors: XT60 more amps then 2x XT60 side by side ;)
+
 Why: Less time spend on So they can be used without conversion Soldered everywhere over time
 
 # RX Receivers:
@@ -78,11 +93,11 @@ Why: Less time spend on So they can be used without conversion Soldered everywhe
 THe Lab has Standardized on FrSky RX or FrSky compatible RX
 
 Which: R-XSR
-Why: Good range, telemetry backoption, open protocol, cheap, available, open software flashable
+Why: Good range, telemetry return option, open protocol, cheap, available, open software flash-able
 How: Buy a bunch
-What about delfly: FrSky XM cpp or Sbus these ones can replace the current deltang
+What about ultra light airframes like the DelFly?: FrSky XM with CPPM or Sbus out these ones can replace the current deltang RX
 
-Must adhere to new EU rules LBT ETSI v1.8.1
+All receivers must adhere to new EU rules LBT ETSI v1.8.1
 ALL receivers in the lab should be FrSky or compatible, if not the AC should get another RX
 
 # RX behaviour
@@ -179,5 +194,5 @@ In some scenarios Altium v19 may be used
 
 * Devo 10 : pull the last release from https://github.com/tudelft/tx_configs
 * Taranis X9D FW XJT EULBT and OpenTX 2.2.3.x fixed RSSI warning
-* PC USB "fake" RC transmitter SM600
-* iRangeX Multi-module
+* SM600: PC USB "joystick type" RC transmitter SM600
+* iRangeX 4in1 Multi-module in others
