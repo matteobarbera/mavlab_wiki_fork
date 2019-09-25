@@ -45,7 +45,9 @@ RFC, more can be added of specific need
 * Ubuntu 16.04 64 bit
 * Ubuntu 18.04 64 bit
 * Ubuntu 32/64bit if embedded
-* MS Win10
+* MS Win10 64Bit
+
+All OS's **must** be set to English GUI language, this make life easier if one needs to cooperate with team members.
 
 # Hardware
 
