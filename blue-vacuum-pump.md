@@ -6,4 +6,4 @@ The vacuum pump is equipped with [a vacuum switch ​FIPA 20.020](http://www.fip
 
 # Manual
 
-[Manual Vacuum Switch](../../raw/master/pdf/equipment/Manual_Vakuumschalter_20.020.pdf)
+[Manual Vacuum Switch](../../blob/master/pdf/equipment/Manual_Vakuumschalter_20.020.pdf)
