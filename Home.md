@@ -92,4 +92,4 @@ The following can be demo'ed out of the box:
 
 Add more if you have demoable setups
 
-<a href="#top">[Back to top]</a>
+<a href="#top">Back to top of this page</a>
