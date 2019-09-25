@@ -1,8 +1,5 @@
 # Equipment
 
-<label for="name">Name:</label> 
-<input type="text" id="name" name="name" size="20"/>
-
 * [Hot Wirecutter](wirecutter)
 * [Large CNC 3-axis](cnc-3-axis)
 * [CNC 4-axis](cnc-4-axis)
