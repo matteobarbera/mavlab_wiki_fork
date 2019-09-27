@@ -89,19 +89,17 @@ Please note that the currently included thermometer is not very suited to small 
 
 You need Labview 2015 and the DAQmx driver for the USB-6009 DAQ. Both can be found on the National Instruments website.
 
-The Labview software for the MTB can be found on our SVN:
+The Labview software for the MTB can be found on our SVN: https://svn.lr.tudelft.nl/MAVLAB/MavBal/MotorTestBench
 
-https://svn.lr.tudelft.nl/MAVLAB/MavBal/MotorTestBench
-
-The main program for using the motor testbench is main.vi.
+The main program for using the motor testbench is: main.vi.
 
 There are multiple folders in the Motor test bench folder:
 
-- addaxis6 - used by the visualisation .m file "plotResults.m". For more advanced ways of plotting the data, please refer to the [wiki:motorDataVisualizer Motor Data Visualizer page].
-- arduinoMini - contains the sourcecode for the Arduino Mini that generates the PWM pulses based on a 0-5V input signal.
-- documentation - contains background design files, calibration documents and background on the aerodynamic corrections.
-- measurements - the measurements you log from Labview will be saved in here. If this folder is not present, Labview will give an error when you try to log.
-- subVI - contains supporting .vi's for the labview software.
+* addaxis6 - used by the visualisation .m file "plotResults.m". For more advanced ways of plotting the data, please refer to the [wiki:motorDataVisualizer Motor Data Visualizer page].
+* arduinoMini - contains the sourcecode for the Arduino Mini that generates the PWM pulses based on a 0-5V input signal.
+* documentation - contains background design files, calibration documents and background on the aerodynamic corrections.
+* measurements - the measurements you log from Labview will be saved in here. If this folder is not present, Labview will give an error when you try to log.
+* subVI - contains supporting .vi's for the labview software.
 
 ## Hardware
 
@@ -116,11 +114,11 @@ Two alumunium disc with several collets for different axle diameters (0.6 mm to 
 
 There are two ways of speed sensing available. Sadly there is only one digital input pin on the DAQ (pin #29), so when you want to change input, you have to rewire it. The green wire is for the phase sensor, the white wire for the optical sensor. Two images of the wiring to the USB-6009 are included at the end of this page for reference.
 
-# Runing a test
+# Running a test
 
 After running the main.vi, you first have to set the correct settings.
 
-<img src="../raw/master/photos/motortestbench/mtbsettings.JPG" width="50%"/>
+<img src="../raw/master/photos/motortestbench/mtbsettings.JPG" width="100%"/>
 
 **Invert torque direction** - inverts the torque signal for when the motor spins the other direction.
 
@@ -196,7 +194,7 @@ Digital
 <img src="../raw/master/photos/motortestbench/IMG_20150611_134908.jpg" width="50%"/>
 
 ----
-Motor Data Visualizer
+# Motor Data Visualizer
 
 To visualize the data from the MTB?, a GUI visualizer was created using MATLAB. The software and measurement data can be found at:
 SVN: 	​https://svn.lr.tudelft.nl/MAVLAB/MavBal/motorlibrary
@@ -205,7 +203,7 @@ Usage
     In folder mfiles, open the GUI.m file
     Run the m-file by pressing F5 
 
-Information
+# Information
 
 The visualizer can show up to 4 data sets, with one parameter on the x-axis and up to 4 on the y axis.
 
@@ -221,9 +219,9 @@ The voltage ends always with a 'V', the thrustsetting is followed by 'proc' for 
 
 For example:
 
-Delfly18W_MX3A_BL13_34V_100proc.log
+ Delfly18W_MX3A_BL13_34V_100proc.log
 
-TODO
+# TODO
 
 * When plotting more than two variables, the tick labels are overlapping on the y-axis. For the 3rd and 4th variable, its whole respective y-axis should be shifted outside in order not to overlap.
 * Selecting a motor can become difficult if too many motor datafiles are present. So when the data set increases, a more intuative way of selecting data files should be implemented. 
