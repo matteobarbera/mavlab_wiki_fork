@@ -231,3 +231,7 @@ If you want to more than just listing references, you can look at these citation
 # Students with residence permit:
 
 All relevant information about the MOMI  Study Progress Monitoring can be found here: https://www.tudelft.nl/en/student/legal-position/education-regulations/momi-study-progress-monitoring/
+
+# If all is done
+
+One must make sure your code lands up in the main code branch. This way others can build upon work you did.
