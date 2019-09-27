@@ -23,9 +23,11 @@ Well it is not the end of the story more is possible , but it is a start toward 
 
 # Images
 
-<img src="../raw/master/photos/mavlab_logo.png" />
+<img src="../raw/master/photos/mavlab_logo.png" width="50%" />
 
-  `<img src="../raw/master/photos/mavlab_logo.png" width="50%" />
+The above image was inserted into the Wiki with:
+
+  `<img src="../raw/master/photos/mavlab_logo.png" width="50%" />`
 
 Not that with Github the Prieview function of a page does not work a 100% with image relative links. If you save the page, all is well.
 
