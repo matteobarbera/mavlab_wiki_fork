@@ -36,7 +36,7 @@ The electrical energy of the eddy currents is dissipated as heat due to the elec
 
 # Setup overview 
 
-[[Image(MTBLoverview.jpg, width=500)]]
+<img src="../raw/master/sphotos/motortestbench/MTBLoverview.jpg" width="50%"/>
 
 The setup consists of a motor mount made of glassfiber, which is non-magnetic. A configuration of holes
 is drilled into the mount to accommodate a wide range of motor mounting types. 
@@ -141,7 +141,7 @@ You can change the load on the motor by changing the distance between the sensor
 
 ## Calculations
 
-=== Input ===
+### Input
 	||Voltage_in||(dV)||Differential Analogue||
 	||Current_in||(V_I)||Single ended Analogue||
 	||Speed (commutations)||(Hz)||Digital Pulse (event counter)||
@@ -149,11 +149,11 @@ You can change the load on the motor by changing the distance between the sensor
 	||Torque reference voltage||(dV_TRef)||Differential Analogue||
 	||Temperature (motor)||(°K)||Single ended Analogue||
 
-=== Output ===
+### Output
 	||PWM||[V]||reference voltage [0-5V] for the Trinket to generate a pulse train between 1000 and 2000 micro second. See trinket code in the SVN repos||
 
-=== Calculate at constant voltage and PWM value (averaged values) ===
-
+### Calculate at constant voltage and PWM value (averaged values)
+photo
 	||Torque = ||(dV_T / dV_TRef) * k_T||[mNm]
 	||Currentin = ||V_I * k_I	||[A]
 	||Speed = ||Hz/(n_poles/2)	||[rps]
@@ -166,12 +166,11 @@ k's are machine constants (defined in config file),
 	||current gain||k_I|| 1 || ???? ||
 	|| number of poles (motor dependent!) || n_poles || motor || motor||
 
-== Config files ==
+## Config files
 
 Both motor testbenches have a config file which defines the relationship between the voltages that are measured and its physical representation. They are called 'configMTBsmall.ini' and 'configMTBlarge.ini'. The values in these don't need to be changed.
 
-
-== Wiring ==
+## Wiring
 
 Analog
 1. Ground
@@ -190,10 +189,10 @@ Analog
 Digital 
 29. RPM Pulses
 
-[[Image(MTBconnectorTo6009.png)]]
+<img src="../raw/master/sphotos/motortestbench/MTBconnectorTo6009.png" width="50%"/>
 
-[[Image(IMG_20150611_133744.jpg, width=500)]]
-[[Image(IMG_20150611_134908.jpg, width=500)]]
+<img src="../raw/master/sphotos/motortestbench/IMG_20150611_133744.jpg" width="50%"/>
+<img src="../raw/master/sphotos/motortestbench/IMG_20150611_134908.jpg" width="50%"/>
 
 ----
 Motor Data Visualizer
