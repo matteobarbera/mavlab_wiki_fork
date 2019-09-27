@@ -1,4 +1,6 @@
-#SmartUAV
+# SmartUAV
+
+# About
 
 SmartUAV is a UAV simulation platform developed by the MAVLab to investigate Many aspects of UAV implementation. It provides a framework to do research into all areas of UAV development ranging from advanced Graphical User Interfaces (GUIs) to investigate Human Machine Interaction (HMI) to novel vision based control and guidance algorithms. Being designed and maintained in-house, SmartUAV can be altered and updated as the user requires.
 
