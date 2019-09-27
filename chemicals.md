@@ -42,7 +42,7 @@ That's it!
 * Expires: 20131201
 * MSDS: [This document here](../blob/master/pdf/chemicals/msds-EPIKOTE-Resin-827.pdf)
 * Looks like:
-* [[Image(MAVLab_chemical_stock_1667.jpg, 200px)]]
+<img src="../raw/master/images/MAVLab_chemical_stock_1667.jpg" width="25%" />
 
 ----
 ### DD LAK hoogglans basis
@@ -50,7 +50,7 @@ That's it!
 * Expires: 20131201
 * MSDS: [This document here](../blob/master/pdf/chemicals/msds-DD-Lak-basis.pdf)
 * Looks like:
-* [[Image(MAVLab_chemical_stock_1675.jpg, 200px)]]
+<img src="../raw/master/images/MAVLab_chemical_stock_1675.jpg" width="25%" />
 
 ----
 ### High gloss Wax
@@ -58,7 +58,7 @@ That's it!
 * Expires: 20131201
 * MSDS: [This document here](../blob/master/pdf/chemicals/msds-High-Gloss-Wax.pdf)
 * Looks like:
-* [[Image(MAVLab_chemical_stock_1663.jpg, 200px)]]
+<img src="../raw/master/images/MAVLab_chemical_stock_1663.jpg" width="25%" />
 
 ----
 ### Poly-Pox THV 500 epoxyhars
@@ -66,7 +66,7 @@ That's it!
 * Expires: 20131201
 * MSDS: [This document here](../blob/master/pdf/chemicals/msds-Poly-Pox-THV-500.pdf)
 * Looks like:
-* [[Image(MAVLab_chemical_stock_1680.jpg, 200px)]]
+<img src="../raw/master/images/MAVLab_chemical_stock_1680.jpg" width="25%" />
 
 ----
 ### Cotton flocks
@@ -74,7 +74,7 @@ That's it!
 * Expires: Never
 * MSDS: [This document here](../blob/master/pdf/chemicals/msds-cotton-flocks.pdf)
 * Looks like:
-* [[Image(MAVLab_chemical_stock_1669.jpg, 200px)]]
+<img src="../raw/master/images/MAVLab_chemical_stock_1669.jpg" width="25%" />
 
 ----
 ### Poly-pox Harder 355
@@ -82,7 +82,7 @@ That's it!
 * Expires: 20131201
 * MSDS: [This document here](../blob/master/pdf/chemicals/msds-Poly-Pox-Harder-355.pdf)
 * Looks like:
-* [[Image(MAVLab_chemical_stock_1674.jpg, 200px)]]
+<img src="../raw/master/images/MAVLab_chemical_stock_1674.jpg" width="25%" />
 
 ----
 ### Biresin Kleber Braun
@@ -90,7 +90,7 @@ That's it!
 * Expires: 20131201
 * MSDS: [This document here](../blob/master/pdf/chemicals/msds-Biresin-Kleber-braun.pdf)
 * Looks like:
-* [[Image(MAVLab_chemical_stock_1681.jpg, 200px)]]
+<img src="../raw/master/images/MAVLab_chemical_stock_1681.jpg" width="25%" />
 
 ----
 ### Poly-Pox GT625 Basis 4KG
@@ -98,7 +98,7 @@ That's it!
 * Expires: 20131201
 * MSDS: [This document here](../blob/master/pdf/chemicals/msds-Poly-Pox-GT-625-basis.pdf)
 * Looks like:
-* [[Image(MAVLab_chemical_stock_1682.jpg, 200px)]]
+<img src="../raw/master/images/MAVLab_chemical_stock_1682.jpg" width="25%" />
 
 ----
 ### Poly-Pox GT625 Basis 1KG
@@ -106,7 +106,7 @@ That's it!
 * Expires:
 * MSDS: [This document here](../blob/master/pdf/chemicals/msds-Poly-Pox-GT-625-verharder.pdf)
 * Looks like:
-* [[Image(MAVLab_chemical_stock_1670.jpg, 200px)]]
+<img src="../raw/master/images/MAVLab_chemical_stock_1670.jpg" width="25%" />
 
 ----
 ### M.P. Reiniger
@@ -114,7 +114,7 @@ That's it!
 * Expires: Never
 * MSDS: [This document here](../blob/master/pdf/chemicals/msds-MP-Reiniger.pdf)
 * Looks like:
-* [[Image(MAVLab_chemical_stock_1664.jpg, 200px)]]
+<img src="../raw/master/images/MAVLab_chemical_stock_1664.jpg" width="25%" />
 
 ----
 ### Commandant cleaner for polishing machines#
@@ -122,7 +122,7 @@ That's it!
 * Expires: Never
 * MSDS:
 * Looks like:
-* [[Image(MAVLab_chemical_stock_1666.jpg, 200px)]]
+<img src="../raw/master/images/MAVLab_chemical_stock_1666.jpg" width="25%" />
 
 ----
 ### Polyester Putty
@@ -130,7 +130,7 @@ That's it!
 * Expires: 20131201
 * MSDS: [This document here](../blob/master/pdf/chemicals/msds-Polyester-Glazing-Putty.pdf)
 * Looks like:
-* [[Image(MAVLab_chemical_stock_1672.jpg, 200px)]]
+<img src="../raw/master/images/MAVLab_chemical_stock_1672.jpg" width="25%" />
 
 ----
 ### DD spuit-verdunner
@@ -138,7 +138,7 @@ That's it!
 * Expires: Never
 * MSDS: [This document here](../blob/master/pdf/chemicals/msds-DD-Spuitverdunner.pdf)
 * Looks like:
-* [[Image(MAVLab_chemical_stock_1663.jpg, 200px)]]
+<img src="../raw/master/images/MAVLab_chemical_stock_1663.jpg" width="25%" />
 
 ----
 ### Biresin G53 resin
@@ -146,7 +146,7 @@ That's it!
 * Expires: Never
 * MSDS: [This document here](../blob/master/pdf/chemicals/msds-Biresin-RG53-Resin.pdf)
 * Looks like:
-* [[Image(MAVLab_chemical_stock_1665.jpg, 200px)]]
+<img src="../raw/master/images/MAVLab_chemical_stock_1665.jpg" width="25%" />
 
 ----
 ### Medium Rubbing Compound P5?
@@ -154,7 +154,7 @@ That's it!
 * Expires: 20131201
 * MSDS: [This document here](../blob/master/pdf/chemicals/msds-Medium-Rubbing-Compound-P5.pdf)
 * Looks like:
-* [[Image(MAVLab_chemical_stock_1683.jpg, 200px)]]
+<img src="../raw/master/images/MAVLab_chemical_stock_1683.jpg" width="25%" />
 
 ----
 ### DD Verharder
@@ -162,7 +162,7 @@ That's it!
 * Expires: 20131201
 * MSDS: [This document here](../blob/master/pdf/chemicals/msds-DD-lak-verharder.pdf)
 * Looks like:
-* [[Image(MAVLab_chemical_stock_1673.jpg, 200px)]]
+<img src="../raw/master/images/MAVLab_chemical_stock_1673.jpg" width="25%" />
 
 ----
 ### Universele Stopverf
@@ -170,7 +170,7 @@ That's it!
 * Expires: Never
 * MSDS: [This document here](../blob/master/pdf/chemicals/msds-Alabastine-universele-stopverf.pdf)
 * Looks like:
-* [[Image(MAVLab_chemical_stock_1668.jpg, 200px)]]
+<img src="../raw/master/images/MAVLab_chemical_stock_1668.jpg" width="25%" />
 
 ----
 ### Curing Agent 81-R-NW
@@ -178,7 +178,7 @@ That's it!
 * Expires: 20131201
 * MSDS: [This document here](../blob/master/pdf/chemicals/msds-Curing-Agent-81-R-NW.pdf)
 * Looks like:
-* [[Image(MAVLab_chemical_stock_1678.jpg, 200px)]]
+<img src="../raw/master/images/MAVLab_chemical_stock_1678.jpg" width="25%" />
 
 ----
 ### THIXO Additive
@@ -186,6 +186,6 @@ That's it!
 * Expires: 20131201
 * MSDS: [This document here](../blob/master/pdf/chemicals/msds-SilasticTHIXO-Additive.pdf)
 * Looks like:
-* [[Image(MAVLab_chemical_stock_1679.jpg, 200px)]]
+<img src="../raw/master/images/MAVLab_chemical_stock_1679.jpg" width="25%" />
 
 ----
