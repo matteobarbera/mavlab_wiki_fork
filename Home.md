@@ -16,7 +16,7 @@ Welcome to the **MAVLab wiki**!
 
 # Lab standards
 
-<img src="../raw/master/photos/standards/standards_comic_01.gif" width="50%"/>
+<img src="../raw/master/photos/standards/standards_comic_01.gif" width="75%"/>
 
 Soaring free like an eagle :eagle: would be our main motto. One small kink, if you soar in the lab, you need to adhere to some standards. That is good thing, since it will save you time along the way.
 
@@ -44,7 +44,7 @@ Soaring free like an eagle :eagle: would be our main motto. One small kink, if y
 
 # Projects :timer_clock:
 
-<img src="../raw/master/photos/standards/projects_comic_01.gif" width="50%"/>
+<img src="../raw/master/photos/standards/project_comic_01.gif" width="75%"/>
 
  * [Here in Trello you find the most up to date list](https://trello.com/b/FelPdV49/mavlab-overview) of people and projects
 
