@@ -2,10 +2,11 @@
 
 This page is about the workings and usage of the Motor Test Bench (MTB). For visualing the data, go to the [wiki:motorDataVisualizer Motor Data Visualizer page].
 
-[[span(style=color: #FF0000, **WARNING - THE TORQUE SENSORS ARE EXTREMELY FRAGILE DUE TO THEIR HIGH SENSITIVITY AND ARE VERY EXPENSIVE TO REPAIR**)]]
-||[[span(style=color: #FF0000, **- DO NOT TOUCH THE MAGNETIC DISCS ATTACHED TO THE TORQUE SENSOR.**)]]||
-||[[span(style=color: #FF0000, **- DO NOT APPLY ANY LOAD ON THE MAGNETIC DISCS OTHER THAN NORMALLY MEASURING A MOTOR**)]]||
-||[[span(style=color: #FF0000, **- DO __NEVER__ USE ANY METAL TOOLS IN BETWEEN THE DISC AND SENSOR. ALWAYS REMOVE THE MOTOR FROM THE STAND FROM THE BACK SIDE (PLASTIC SCREWS) BEFORE CHANGING THE ALUMINIUM DISC.**)]]||
+
+WARNING: THE TORQUE SENSORS ARE EXTREMELY FRAGILE DUE TO THEIR HIGH SENSITIVITY AND ARE VERY EXPENSIVE TO REPAIR
+DO NOT TOUCH THE MAGNETIC DISCS ATTACHED TO THE TORQUE SENSOR.
+DO NOT APPLY ANY LOAD ON THE MAGNETIC DISCS OTHER THAN NORMALLY MEASURING A MOTOR
+DO __NEVER__ USE ANY METAL TOOLS IN BETWEEN THE DISC AND SENSOR. ALWAYS REMOVE THE MOTOR FROM THE STAND FROM THE BACK SIDE (PLASTIC SCREWS) BEFORE CHANGING THE ALUMINIUM DISC.
 
 # Introduction
 
@@ -223,5 +224,7 @@ Delfly18W_MX3A_BL13_34V_100proc.log
 
 TODO
 
-    When plotting more than two variables, the tick labels are overlapping on the y-axis. For the 3rd and 4th variable, its whole respective y-axis should be shifted outside in order not to overlap.
-    Selecting a motor can become difficult if too many motor datafiles are present. So when the data set increases, a more intuative way of selecting data files should be implemented. 
+* When plotting more than two variables, the tick labels are overlapping on the y-axis. For the 3rd and 4th variable, its whole respective y-axis should be shifted outside in order not to overlap.
+* Selecting a motor can become difficult if too many motor datafiles are present. So when the data set increases, a more intuative way of selecting data files should be implemented. 
+
+<span style="color:red">some **This is Red Bold.** text</span>
