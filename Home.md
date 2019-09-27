@@ -1,4 +1,4 @@
-<img src="../raw/master/photos/mavlab_logo.png" width="99%"/>
+<img src="../raw/master/photos/mavlab_logo.png" width="50%"/>
 
 Welcome to the **MAVLab wiki**!
 
