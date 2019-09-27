@@ -1,6 +1,6 @@
-[[PageOutline(1-2,Main)]]
 
-||SVN:||https://svn.lr.tudelft.nl/MAVLAB/MavBal/MotorTestBench||
+
+[Sourcecode to be found here on SVN](https://svn.lr.tudelft.nl/MAVLAB/MavBal/MotorTestBench)
 
 This page is about the workings and usage of the Motor Test Bench (MTB). For visualing the data, go to the [wiki:motorDataVisualizer Motor Data Visualizer page].
 
@@ -9,7 +9,7 @@ This page is about the workings and usage of the Motor Test Bench (MTB). For vis
 ||[[span(style=color: #FF0000, **- DO NOT APPLY ANY LOAD ON THE MAGNETIC DISCS OTHER THAN NORMALLY MEASURING A MOTOR**)]]||
 ||[[span(style=color: #FF0000, **- DO __NEVER__ USE ANY METAL TOOLS IN BETWEEN THE DISC AND SENSOR. ALWAYS REMOVE THE MOTOR FROM THE STAND FROM THE BACK SIDE (PLASTIC SCREWS) BEFORE CHANGING THE ALUMINIUM DISC.**)]]||
 
-= Introduction =
+# Introduction
 
 In order to optimize the design of the BLDC motor and motor controller a setup is needed to independently
 and accurately measure the performance. The extraordinary
@@ -21,7 +21,7 @@ developed: a small one is designed for motors in the range a few Watts (like the
 on the Delfly ) up to several tens of Watts, and a larger one designed for motors up to 300 Watt
 output power at 15.000 rpm.
 
-= Working principle = 
+# Working principle
 
 The MTB’s working principle is based on the same principle as the Eddy current brake. An aluminium disc
 mounted on the motor axle spins at a distance in front of another disc with permanent magnets, which is
@@ -34,7 +34,7 @@ induced current in the aluminium disc is dependent on the distance to the magnet
 can be varied by varying the distance between the aluminium and the magnet disc.
 The electrical energy of the eddy currents is dissipated as heat due to the electrical resistance of the conductor.
 
-= Setup overview = 
+# Setup overview 
 
 [[Image(MTBLoverview.jpg, width=500)]]
 
@@ -63,8 +63,8 @@ disc. For high power measurements the measurement time shall be kept short to av
 
 Please note that the currently included thermometer is not very suited to small outrunner motors due to its size. It also has a large heat capacity so it is a bit slow.
 
-== Specifications ==
-=== MTB Small ===
+# Specifications
+## MTB Small
 
 ||  ||'''Value'''||'''Unit'''||
 || Resolution   ||0.001||mNm ||
@@ -74,7 +74,7 @@ Please note that the currently included thermometer is not very suited to small 
 ||Maximum Current Cont.	||7	||Amp||
 ||Peak Current          ||10	||Amp||
 
-=== MTB Large ===
+## MTB Large
 
 || ||'''Value'''||'''Unit'''||
 ||Maximum torque 	||200	||mNm||
@@ -82,10 +82,9 @@ Please note that the currently included thermometer is not very suited to small 
 ||Maximum Current Cont. ||36    ||Amp||
 ||Peak Current	        ||50	||Amp||
 
+# Using the MTB
 
-= Using the MTB =
-
-== Software ==
+## Software
 
 You need Labview 2015 and the DAQmx driver for the USB-6009 DAQ. Both can be found on the National Instruments website.
 
@@ -103,7 +102,7 @@ There are multiple folders in the Motor test bench folder:
 - measurements - the measurements you log from Labview will be saved in here. If this folder is not present, Labview will give an error when you try to log.
 - subVI - contains supporting .vi's for the labview software.
 
-== Hardware ==
+## Hardware
 
 The hardware includes the following:
 
@@ -116,10 +115,7 @@ Two alumunium disc with several collets for different axle diameters (0.6 mm to 
 
 There are two ways of speed sensing available. Sadly there is only one digital input pin on the DAQ (pin #29), so when you want to change input, you have to rewire it. The green wire is for the phase sensor, the white wire for the optical sensor. Two images of the wiring to the USB-6009 are included at the end of this page for reference.
 
-
-
-
-== Runing a test ==
+# Runing a test
 
 After running the main.vi, you first have to set the correct settings.
 
@@ -141,9 +137,9 @@ In the left of the screen you can set PWM throttle setting. Only steps of 10% ar
 
 You can change the load on the motor by changing the distance between the sensor and the spinning disc.
 
-= Reference = 
+# Reference 
 
-== Calculations ==
+## Calculations
 
 === Input ===
 	||Voltage_in||(dV)||Differential Analogue||
