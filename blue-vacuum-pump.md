@@ -4,6 +4,8 @@ We have a vacuum pump with a blue buffer tank, it look like this:
 
 <img src="https://github.com/tudelft/mavlab/raw/master/photos/equipment/vacuumpump.jpg" width="25%" />
 
+<img src="images/MAVLab_chemical_stock_1663.jpg">
+
 The vacuum pump is equipped with [a vacuum switch ​FIPA 20.020](http://www.fipa.com/en_GB/products/211099-vacuum-switches), that can automatically keep the pressure to a specific value.
 
 <img src="../photos/equipment/vakuumschalter.jpg" width="25%" />
