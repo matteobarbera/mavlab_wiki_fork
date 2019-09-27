@@ -89,7 +89,7 @@ Tutorials are best published publicly on e.g. http://wiki.paparazziuav.org. If i
 
 # Demo
 
-<img src="../raw/master/photos/standards/demos_comic_01.gif" width="75%"/>
+<img src="../raw/master/photos/standards/demo_comic_01.gif" width="75%"/>
 
 To promote _the_ Lab and TU Delft research in general, demoing various drones in operation to 3rd parties is of help
 
