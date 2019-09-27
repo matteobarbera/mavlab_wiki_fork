@@ -21,4 +21,11 @@ If you were using a workaround like [a workaround link](repo/blob/master/other_f
 
 Well it is not the end of the story more is possible , but it is a start toward better standards, and movable content.
 
+# Images
+
+<img src="../raw/master/photos/mavlab_logo.png" />
+
+  <img src="../raw/master/photos/mavlab_logo.png" />
+
+# Tips
 Read e.g.  https://stackoverflow.com/questions/7653483/github-relative-link-in-markdown-file
