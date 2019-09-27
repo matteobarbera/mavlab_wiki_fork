@@ -36,7 +36,7 @@ The electrical energy of the eddy currents is dissipated as heat due to the elec
 
 # Setup overview 
 
-<img src="../raw/master/sphotos/motortestbench/MTBLoverview.jpg" width="50%"/>
+<img src="../raw/master/photos/motortestbench/MTBLoverview.jpg" width="50%"/>
 
 The setup consists of a motor mount made of glassfiber, which is non-magnetic. A configuration of holes
 is drilled into the mount to accommodate a wide range of motor mounting types. 
@@ -119,7 +119,7 @@ There are two ways of speed sensing available. Sadly there is only one digital i
 
 After running the main.vi, you first have to set the correct settings.
 
-[[Image(mtbsettings.JPG, width=1000)]]
+<img src="../raw/master/photos/motortestbench/mtbsettings.JPG" width="50%"/>
 
 **Invert torque direction** - inverts the torque signal for when the motor spins the other direction.
 
