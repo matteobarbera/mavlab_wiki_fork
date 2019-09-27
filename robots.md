@@ -10,8 +10,6 @@ The advantage of a Wiki
 
 # Introduction
 
-[[Image(WikiStart:mavlablogosmall.jpg, 300px)]]
-
 The TU Delft University of Technology, The Netherlands has a MAVLab. Our Hangar contains various UA. This page is the entry-point to their specifications
 
 # Airframes
@@ -23,5 +21,3 @@ Maintenance history and flightlog data also can be found [in the same database](
 # Ground equipment
 
 A detailed [Ground equipment page](ground-equipment) page is available to give all in depth information about the ground equipment that can be used with all of these aircraft.
-
-[[Special:Upload]]
