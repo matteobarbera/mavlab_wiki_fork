@@ -72,6 +72,8 @@ Building nifty devices and need tools, [read about all the tools at your disposa
 
 # Tutorials :beginner:
 
+<img src="../raw/master/photos/standards/courses_comic_01.gif" width="75%"/>
+
 Tutorials are best published publicly on e.g. http://wiki.paparazziuav.org. If it is of internal use only or not useful at all of others one could consider to make a specific page in this wiki.
 
 ## Internal tutorials
