@@ -189,10 +189,10 @@ Analog
 Digital 
 29. RPM Pulses
 
-<img src="../raw/master/sphotos/motortestbench/MTBconnectorTo6009.png" width="50%"/>
+<img src="../raw/master/photos/motortestbench/MTBconnectorTo6009.png" width="50%"/>
 
-<img src="../raw/master/sphotos/motortestbench/IMG_20150611_133744.jpg" width="50%"/>
-<img src="../raw/master/sphotos/motortestbench/IMG_20150611_134908.jpg" width="50%"/>
+<img src="../raw/master/photos/motortestbench/IMG_20150611_133744.jpg" width="50%"/>
+<img src="../raw/master/photos/motortestbench/IMG_20150611_134908.jpg" width="50%"/>
 
 ----
 Motor Data Visualizer
