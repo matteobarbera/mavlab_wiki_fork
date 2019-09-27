@@ -5,7 +5,7 @@ We have a vacuum pump with a blue buffer tank, it look like this:
 <img src="https://github.com/tudelft/mavlab/raw/master/photos/equipment/vacuumpump.jpg" width="25%" />
 
 ----
-<img src="../../raw/master/photos/equipment/vacuumpump.jpg" width="25%" />
+<img src="../raw/master/photos/equipment/vacuumpump.jpg" width="25%" />
 
 
 ----
