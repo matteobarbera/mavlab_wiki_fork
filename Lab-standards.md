@@ -87,6 +87,9 @@ RFC  {TODO} These or these XT30
 * 3s - 6s
 
 Battery for 3 to 6 S connectors: XT60 more amps then 2x XT60 side by side ;)
+Note that in 10sec burst the XT60 holds 150A! and continuous 60A
+
+<img src="../raw/master/photos/standards/connector_XT-60_female.jpg" width="25%"/>
 
 Why: Less time spend on So they can be used without conversion Soldered everywhere over time
 
