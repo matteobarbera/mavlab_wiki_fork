@@ -1,4 +1,4 @@
-#About
+# About
 
 We have a vacuum pump with a blue buffer tank, it look like this:
 
