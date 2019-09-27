@@ -34,8 +34,8 @@ Soaring free like an eagle :eagle: would be our main motto. One small kink, if y
 
 ## Flight Operations Manuals :books:
 
- * If you want to operate **indoor**, [go to these OPS pages](http://www.github.com/tudelft/Operations)
- * If you want to operate **outdoor**, [read about it on the OPS pages](http://www.github.com/tudelft/Operations)
+ * If you want to operate your flying device **indoor**, [go to these OPS pages](http://www.github.com/tudelft/Operations)
+ * If you want to operate your flying device **outdoor**, [read about it on the OPS pages](http://www.github.com/tudelft/Operations)
 
 ## Wiki
 
