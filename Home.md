@@ -87,9 +87,11 @@ Tutorials are best published publicly on e.g. http://wiki.paparazziuav.org. If i
 * Crimping connectors https://iotexpert.com/2018/01/18/jst-connector-crimping-insanity/
 * Install arm-none-eabi-gdb. [​A tutorial to do this can be found here](http://fab.cba.mit.edu/classes/863.13/tutorials/EmbeddedProgramming/stm32.html)
 
-# Demo :baby_chick:
+# Demo
 
-To promote the Lab nd TU Delft research in general, demoing various drones in operation to 3rd parties is of help
+<img src="../raw/master/photos/standards/demos_comic_01.gif" width="75%"/>
+
+To promote _the_ Lab and TU Delft research in general, demoing various drones in operation to 3rd parties is of help
 
 The following can be demo'ed out of the box:
 
