@@ -1,4 +1,4 @@
-# Measure
+# Motor Testbench
 
 [Sourcecode to be found here on SVN](https://svn.lr.tudelft.nl/MAVLAB/MavBal/MotorTestBench)
 
