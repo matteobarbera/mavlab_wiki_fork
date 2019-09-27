@@ -101,9 +101,10 @@ To promote _the_ Lab and TU Delft research in general, demoing various drones in
 
 The following can be demo'ed out of the box:
 
-* Crazyflie location
-* Damage Drone recovery
-* Delfly Nimble
-* Delftacopter
+Working  Name
+-[ ] [Crazyflie localization](Demo-Crazyflie-localization)
+-[ ] [Damaged Drone recovery](Demo-Damaged-Drone-Recovery)
+-[ ] [Delfly Nimble](Demo-Delfly-Nimble)
+-[ ] [Delftacopter](Demo-Delftacopter)
 
 Add more if you have demoable setups
