@@ -68,6 +68,8 @@ Building things and need specific chemicals, e.g. quality epoxy, then [this page
 
 # Equipment :wrench:
 
+<img src="../raw/master/photos/standards/equipment_comic_01.gif" width="75%"/>
+
 Building nifty devices and need tools, [read about all the tools at your disposal here](equipment)
 
 # Tutorials :beginner:
