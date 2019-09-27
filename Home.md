@@ -16,6 +16,8 @@ Welcome to the **MAVLab wiki**!
 
 # Lab standards
 
+<img src="../raw/master/photos/standards/standards_comic_01.gif" width="100%"/>
+
 Soaring free like an eagle :eagle: would be our main motto. One small kink, if you soar in the lab, you need to adhere to some standards. That is good thing, since it will save you time along the way.
 
 ## Papers :page_facing_up:
