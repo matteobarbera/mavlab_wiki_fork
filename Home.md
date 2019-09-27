@@ -99,12 +99,11 @@ SmartUAV is a UAV simulation platform developed by the MavLab to investigate Man
 
 To promote _the_ Lab and TU Delft research in general, demoing various drones in operation to 3rd parties is of help
 
-The following can be demo'ed out of the box:
+The following demos can be demo'ed out of the box if there is a checkbox in front of the link to the page on how to make it happen.
 
-Working  Name
 - [ ] [Crazyflie localization](Demo-Crazyflie-localization)
 - [ ] [Damaged Drone recovery](Demo-Damaged-Drone-Recovery)
 - [ ] [Delfly Nimble](Demo-Delfly-Nimble)
 - [ ] [Delftacopter](Demo-Delftacopter)
 
-Add more if you have demoable setups
+TIP: Add yoursto this list if you have demoable setups
