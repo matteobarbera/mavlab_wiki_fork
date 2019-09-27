@@ -1,4 +1,4 @@
-![MAVLab](https://github.com/tudelft/mavlab/raw/master/photos/mavlab_logo.png)
+<img src="../../raw/master/photos/mavlab_logo.png" />
 
 Welcome to the **MAVLab wiki**!
 
