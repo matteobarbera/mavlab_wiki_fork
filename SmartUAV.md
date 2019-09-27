@@ -31,11 +31,11 @@ cd SmartUAV
 **Windows:**
 
 ```
-  tortoisesvn -> checkout doen
-  cmake installeren en SmartUAV/Software map selecteren als source en SmartUAV/Software/build als target
-  cmake -> configure -> generate (Default settings)
-  visual studio (express) 2012 (later kan ook maar meer warnings) open de SmartUAV.sln uit de SmartUAV/Software/build map
-  change the debug path setting to run from ./SmartUAV/Software/SmartUAV/
+tortoisesvn -> checkout doen
+cmake installeren en SmartUAV/Software map selecteren als source en SmartUAV/Software/build als target
+cmake -> configure -> generate (Default settings)
+visual studio (express) 2012 (later kan ook maar meer warnings) open de SmartUAV.sln uit de SmartUAV/Software/build map
+change the debug path setting to run from ./SmartUAV/Software/SmartUAV/
 
 ```
 
