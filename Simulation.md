@@ -14,8 +14,10 @@ Several possibilities for simulating with Gazebo exist, that are covered in deta
 
 #### Gazebo with Hector
 *Language:* C++
-*Models:* Generic Quadrotor
-*Description:*
+
+*Models:* [Generic Quadrotor](http://wiki.ros.org/hector_quadrotor)
+
+*Description:* 
 
 #### Gazebo with Paparazzi
 
