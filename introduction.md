@@ -92,7 +92,7 @@ When you are in the CyberZoo the following rules apply:
 As you may imagine, many people want to use the Cyberzoo. We have a Google Calendar where you can check when the time is free or make a reservation for when you would like to use it. Ask your supervisor to be added to this calendar.
 
 ### Using the Cyberzoo
-Using the Cyberzoo properly requires you to get acquainted with a few things. Find out more at the [Cyberzoo page](/cyberzoo).
+Using the Cyberzoo properly requires you to get acquainted with a few things. Find out more at the [Cyberzoo page](cyberzoo).
 
 # Finance = #how
 
