@@ -102,7 +102,7 @@ There are strict rules and guidelines about finance. We buy a lot of stuff as a 
 
 TUDelft has a list of "preferred suppliers". If you can buy there you must. Call finance 88622 (phone number is on the phone in the MAVLab).
 
-## Farnell
+## Farnellhttps://scholar.google.com/schhp?hl=en
 One of the preferred suppliers is [Farnell](http://www.farnell.nl), a very large supplier of electronic supplies. The MAVLab orders a large part of its supplies here. If ordered before 18:00 your order will arrive the next day, for free. The MAVLab has an account there under the name of Christophe de Wagter. Ask around if you need to have the login information.
 
 
@@ -123,7 +123,7 @@ The sheet also helps you to keep track of your declarations, and can send you a 
 
 The page you are on now, is the MAVLab wiki. The idea is to provide a place where people can share and find often needed information. Whenever you do something (like calibration of a sensor, configuration of a router etc.) which is something that you or somebody else might need to do in the future again, it might be worth it to write it down so it is available for future reference.
 
-Editing the wiki is relatively straightforward. On the top right of this page you can find two buttons: press *Edit* to make changes to the page your currently on, or press *New Page* to start a new page. Formatting of the wiki must be done using Markdown, check [this page](https://guides.github.com/features/mastering-markdown/) to find out about all  important commands. Make sure to use *relative* links when referring to content contained in this wiki (../other_wiki_page).
+Editing the wiki is relatively straightforward. On the top right of this page you can find two buttons: press *Edit* to make changes to the page your currently on, or press *New Page* to start a new page. Formatting of the wiki must be done using Markdown, check [this page](https://guides.github.com/features/mastering-markdown/) to find out about all  important commands. Make sure to use [relative links](relative-links-in-wiki) when referring to content contained in this wiki.
 
 ## Shared Calendars
 The MAVLab has two shared Google calendars that might be of interest, you can ask to be added depending on your needs:
