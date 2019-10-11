@@ -226,7 +226,7 @@ If you want to more than just listing references, you can look at these citation
 
 ### Latex Tips
 
-* [Latex Tips](https://svn.lr.tudelft.nl/trac/MAVLAB/wiki/latex_tips) : Some tips for working with latex
+* [Latex Tips](latex) : Some tips for working with latex
 
 # Students with residence permit:
 
