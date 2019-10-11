@@ -1,4 +1,4 @@
-#Relative links
+# Relative links
 
 GitHub supports relative links in markup files. 
 
@@ -29,7 +29,7 @@ The above image was inserted into the Wiki with:
 
   `<img src="../raw/master/photos/mavlab_logo.png" width="50%" />`
 
-Not that with Github the Prieview function of a page does not work a 100% with image relative links. If you save the page, all is well.
+Note that with Github the Prieview function of a page does not work a 100% with image relative links. If you save the page, all is well.
 
 # Tips
 Read e.g.  https://stackoverflow.com/questions/7653483/github-relative-link-in-markdown-file
