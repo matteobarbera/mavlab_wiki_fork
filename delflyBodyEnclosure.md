@@ -1,8 +1,8 @@
-= Intro =
+# Intro
 
-To make the Delfly les prone to damage a solution was found by inclosing al critical part in an enclosure.
+To make the Delfly less prone to damage a solution was found by enclosing al critical part in an enclosure.
 
-= Outcome =
+# Outcome
 
 An extremely light simple to create rigid body for the Delfly
 
@@ -12,31 +12,31 @@ An extremely light simple to create rigid body for the Delfly
 - and a milled like this via CNC http://www.youtube.com/watch?v=liTPtn3V0xI
 - a bit like http://www.rcgroups.com/forums/showpost.php?p=573076&postcount=68
 
-= Mold =
+# Mold
 
 Make a Female mold 
 
-== Design == 
+## Design
 
 Both sides of the Delfly CNC milled from MDF via XPertMill on the MAVLab superior 1600 CNC machine
 
-=== Milling ===
+### Milling
 
 [[Image(DelflyBodyMoldv1.jpg, px100)]]
 
 A 2mm bit with the bigger red spindle is used.
 
-=== Air holes ===
+### Air holes
 
-To be able to vacuum pull, air holes need to be drilled. Prefferebly by only a toolchange, else a 1mm drilbit on high RPM by hand with the dremenl. About 1cm distance.
+To be able to vacuum pull, air holes need to be drilled. Preferably by only a tool-change, else a 1mm drillbit on high RPM by hand with the dremel. About 1cm distance.
 
-= Usage instructions =
+# Usage instructions
 
-== Body Material == 
+## Body Material 
 
 Using 1mm  Durabatics
 
-== Process ==
+## Process
 
 - Cut a piece of depron surrounding the mo;dshape with about 2 cm on all sides, not smaller not bigger
 - Place Depron or durabatics on mold with smooth side towards the mold
@@ -53,27 +53,27 @@ Using 1mm  Durabatics
 - cooloff the depron and cover with air from 40cm distance for 10 seconds
 - remove piece from mold
 
-=== Heating ===
+### Heating
 
 The heating times in the infrared oven were varied from 17 to 23 s, leading to surface temperatures from 100 to 111 [degrees] C. The sheet thickness distribution was only slightly flatter for the lowest temperature. 
 
-=== Vacuum + Heat ===
+### Vacuum + Heat
 
-THe moldvacuum is switched on as soon as the temperature is in the correct range.
+The moldvacuum is switched on as soon as the temperature is in the correct range.
 The (relative) vacuum pressure was varied from -51 kPa to -85 kPa.
 
 The effect of the different pressures on the thickness distributions was negligible. Also for the different sheet directions little difference was found in the thickness distributions. Only in the regions with low strains, the thickness along the extrusion direction was slightly lower than along the transverse direction.
 
-=== Cooling ===
+### Cooling
 
 Cooling appeared to be the only process parameter with significant effect (within the applicable range). Using a cooling time shorter than 1 s led to insufficient solidification of the products, visible as surface defects or in a worse case malformed
 
-= Monage =
+# Mounting
 
 To get the body on the
 
 
-== Links ==
+# Links 
 
 - http://www.rcmovie.de/video/991c93bb89b6585f0903/Depron-Tiefziehen
 - http://forum.x-3d.de/bb/viewtopic.php?p=16173
@@ -84,7 +84,7 @@ To get the body on the
 
 ----
 
-== Reorganize ==
+# Reorganize this
 
 The depron can deform easily if head is heat added. The difficulty of deep drawing, however, is that the material is deformed not only, but also stretched. with my new method, the material is not stretched, but formed only a template.
 
@@ -96,7 +96,7 @@ now-warm things slowly and slowly (!) suck the air.
 
 This will call the depron curved shape on the need to stretch it but barely.
 
-#Howto make
+# Howto make
 
  Moulding Depron
 
