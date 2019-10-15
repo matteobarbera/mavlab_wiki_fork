@@ -96,3 +96,16 @@ now-warm things slowly and slowly (!) suck the air.
 
 This will call the depron curved shape on the need to stretch it but barely.
 
+#Howto make
+
+ Moulding Depron
+
+The problem with depron is, that it does not behave like an ordinairy sheet of plastic that you can vacu-form. It will immediately go out of shape when it is heated. It will warp, get thicker, more brittle, and shrink its length and width. All this is due to the fact that there are countless isolated, gas-filled cells in it. When you heat depron, the heated gas wants to expand desperately. As soon as the base material becomes soft enough this expanding will immediately begin, with all those unwanted side effects. Thats why you must enclose the depron on all sides, when you heat it.
+
+The general idea is to shape, wrap, form, a sheet of depron, by hand around a heated wooden core or mould. In fact I cold-crush the depron to shape (without cracking it).Then to wrap clear tape tight around the whole outside (this forces the depron to follow the shape of the mould, and prevents it to increase in thickness in the oven). After this the whole thing must go in the (kitchen)-oven, followed by a cooling off period outside the oven. This controlled heating and cooling fixes the shape of the mould into the depron, and restores the original strength of the depron, that was partially lost when cold-shaping it.
+
+An other problem is that deprons ability to change its shape is much more limited than normal "vacu-formable" plastics. Because of this we have to split the fuselage into more sections and glue these sections together.
+
+A few important hints:
+
+-Use an elecric oven with a good thermostat and indirect heating with air circulation. -Heat the wooden mould in the oven for 20-30 minutes at 90 deg.C -Heat the taped depron-and-mould for 15 minutes at 80-90 deg.C in the oven. -Cool off outside the oven for at least one hour. -Glue depron with (clear) polyurethane glue. if this glue cures too slow, mix it with a little water
