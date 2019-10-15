@@ -88,3 +88,6 @@ Can be used for "stupid" Delflies:
  - [MISUMI](http://www.misumi.com.tw/)
 
  - Type: l2125ar-M5.5
+
+# Body enclosure
+Possible [body enclosure](delflyBodyEnclosure)
