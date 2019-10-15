@@ -22,7 +22,7 @@ Both sides of the Delfly CNC milled from MDF via XPertMill on the MAVLab superio
 
 ### Milling
 
-[[Image(DelflyBodyMoldv1.jpg, px100)]]
+<img src="../raw/master/images/DelflyBodyMoldv1.jpg" width="75%"/>
 
 A 2mm bit with the bigger red spindle is used.
 
