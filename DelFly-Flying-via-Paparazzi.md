@@ -1,5 +1,9 @@
 DelFly Desperado
 
+Sill grab all images from here and add to this page 
+
+https://svn.lr.tudelft.nl/trac/MAVLAB/wiki/delflyFlyingViaPaparazzi
+
 Editing note: If any link on this page can't be open, it's because the original link on the svnlr doesn't work.
 
 - [Outcome](#outcome)
