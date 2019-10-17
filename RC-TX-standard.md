@@ -13,10 +13,16 @@ RFC: failure minimization due to AC pilot error
 
 ## Protocol
 
- - Crossfire
- - FrSky ( preferred )
- - FASST
- - DSM-X (deprecated)
+There is only one protocol in use in the lab and that is **FrSky D16**. 
+
+TIP: If you still use old equipment ask you lab contact for a replacement receiver and Transmitter
+
+###EOL
+
+
+ - Crossfire (only very rare ocasion/airframes)
+ - FASST (deprecated)
+ - DSMX (deprecated)
  - DSM2 (very deprecated)
 
 # TX SWITCHES
@@ -47,6 +53,8 @@ Philosophy: when changing modes changes in throttle are often also needed and do
 * Flaps switch are on the RIGHT. A potmeter knob is allowed for flaps CCW no flap, CW full flap, on side of TX to front NO flap towards, Full flap
 
 # COLOR CODING
+
+
 
 TX Switches color coding
 
