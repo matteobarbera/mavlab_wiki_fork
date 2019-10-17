@@ -197,10 +197,12 @@ In some scenarios Altium v19 may be used
 
 # RC transmitters
 
-* Taranis X9D [Firmware XJT EU LBT and OpenTX 2.2.4.x with fixed RSSI warning]()
-* Taranis X-lite [Firmware XJT EU LBT and OpenTX 2.2.4.x with fixed RSSI warning]()
-* SM600: PC USB "joystick type" RC transmitter SM600
-* iRangeX 4in1 Multi-module in other TXs with MAVLab firmware to be found here:
+* Taranis X9D [Firmware XJT EU LBT and OpenTX 2.3.1.x with fixed RSSI warning]()
+* Taranis X-lite [Firmware XJT EU LBT and OpenTX 2.3.1.x with fixed RSSI warning]()
+* SM600 Special Edition: PC USB "joystick type" RC transmitter SM600
 
 End of life:
+
 * Devo 10 : pull the last release from https://github.com/tudelft/tx_configs
+* iRangeX 4in1 Multi-module in other TXs with MAVLab firmware to be found here:
+* Hobbyking USB joystick
