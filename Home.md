@@ -38,7 +38,7 @@ Soaring free like an eagle :eagle: would be our main motto. One small kink, if y
 
 ## Wiki
 
- * The markup of the MAVLab wiki should be in MARKDOWN format
+ * The markup of the MAVLab wiki should be in MARKDOWN (.md) format
  * [Links should be RELATIVE Links](relative-links-in-wiki) if the information is contained _inside this wiki_.
 
 # Projects :timer_clock:
