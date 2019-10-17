@@ -13,7 +13,7 @@ See https://github.com/paparazzi/paparazzi/issues/124
 
 ## THROTTLE
 
-Throttle is always on the left side of the transmitter, 99% a gimbal stick type. Towards, is engine of or idle
+Throttle is always on the left side of the transmitter, 99% a gimbal stick type. **Towards** oneself, is **engine off** or idle
 
 ### Electric engine
 ### Gas engine
