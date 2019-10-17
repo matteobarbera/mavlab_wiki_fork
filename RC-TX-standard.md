@@ -19,7 +19,6 @@ TIP: If you still use old equipment ask you lab contact for a replacement receiv
 
 ###EOL
 
-
  - Crossfire (only very rare ocasion/airframes)
  - FASST (deprecated)
  - DSMX (deprecated)
@@ -54,7 +53,7 @@ Philosophy: when changing modes changes in throttle are often also needed and do
 
 # COLOR CODING
 
-
+RC_transmitter_FrSky_Taranis_X9DplusSE_standarized_switches_800x_01.jpg
 
 TX Switches color coding
 
