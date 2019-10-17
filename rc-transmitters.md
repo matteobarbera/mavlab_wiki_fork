@@ -1,6 +1,9 @@
 # RC Transmitters 
 
-# Devo 10 
+
+# EOL
+
+## Devo 10 
 
 You can connect the Devo 10 to your laptop through usb and change the models this way.
 
@@ -9,7 +12,7 @@ To do this:
 * Look on [[https://github.com/tudelft/tx_configs]] for standard models or more info
 * disable usb and '''turn off''' the transmitter to make your changes final
 
-# Futaba T7C 
+## Futaba T7C 
 
 This is the Futaba 7C 2.4GHz Radio System
 with the R617FS 2.4GHz FASST 7-Channel Receiver,
@@ -82,13 +85,11 @@ jxs 6/15/07 ir/jxs
 * Trim offset
 * 6 swash plate set-ups (5 CCPM options)
 
-# TURNIGY TGY 9X 
+## TURNIGY TGY 9X 
 
-9 CHANNEL
+9 CHANNEL Custom Firmware
 
-Custom Firmware
-
-# Devolo F7 
+## Devolo F7 
 
 A customized TX witg video screen
 
