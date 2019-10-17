@@ -90,7 +90,7 @@ Custom Firmware
 
 # Devolo F7 
 
-A customied TX
+A customized TX witg video screen
 
 # Manuals 
 
