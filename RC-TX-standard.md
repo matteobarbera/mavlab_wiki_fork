@@ -90,11 +90,11 @@ Philosophy: In (autonomous)flight,  with TX off or low battery off battery swap 
 
 The off position of the TX is TOWARDS the Pilot. 
 
-NOTE: Some TX do not have a real on/off. Those TX should NOT be used in the Lab for flight operations.
+NOTE: Some TX do not have a real on/off. Those TX should **NOT** be used in the Lab for **outdoor flight** operations.
 
 # TX HARDWARE
 
-All TX should be X9D SE, with a very very good reason not to have that TX.
+All TX should be X9D+ SE, with a very very good reason not to have that TX.
 
 # FIRMWARE
 
