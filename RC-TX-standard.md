@@ -53,7 +53,7 @@ Philosophy: when changing modes changes in throttle are often also needed and do
 
 # COLOR CODING
 
-<img src="../raw/master/images/RC_transmitter_FrSky_Taranis_X9DplusSE_standarized_switches_800x_01.jpg" width="25%" />
+<img src="../raw/master/images/RC_transmitter_FrSky_Taranis_X9DplusSE_standarized_switches_800x_01.jpg" width="75%" />
 
 TX Switches color coding
 
