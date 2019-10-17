@@ -55,16 +55,16 @@ Philosophy: when changing modes changes in throttle are often also needed and do
 
 <img src="../raw/master/images/RC_transmitter_FrSky_Taranis_X9DplusSE_standarized_switches_800x_01.jpg" width="75%" />
 
-TX Switches color coding
+**TX Switches color coding**
 
-RED = KILL; philosophy, red is common for danger, stop, etc
-BLUE = MODE SWITCH philosophy, on other colorspectrum than RED, less change of confusion for colorblind
-YELLOW = GEAR
-WHITE = FLAP
+* RED = KILL; philosophy, red is common for danger, stop, etc
+* BLUE = MODE SWITCH philosophy, on other colorspectrum than RED, less change of confusion for colorblind
+* YELLOW = GEAR
+* WHITE = FLAP
 
 If Switches are of Potmeter type, still try to paint color on in if at all possible. Or sticker a point in the color above the potmeter
 
-Note: **Green is NEVER used** since it implies something safe
+Note: **Green is NEVER used** since it implies something safe.. hmmm to discuss
 
 ## ALL
 
@@ -119,7 +119,8 @@ Flight with non separated TX e.g. over data-link is NOT allowed for ROC operatio
 # TX DISPLAY
 All TX displays should be monochrome full sun lit readable and readable in the dark
 
-# TX WARNINGS
+# TX WARNINGS<img src="../raw/master/images/" width="75%"/>
+RC_transmitter_FrSky_Taranis_X9DplusSE_standarized_switches_800x_01.jpg
 RFC t.b.d.
 
 # Language
