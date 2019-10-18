@@ -1,11 +1,11 @@
 # Buying hardware 
 
-TUDelft has a list of [preferred suppliers](https://intranet.tudelft.nl/en/direct-links/news/latest-news/article/detail/maak-kennis-met-onze-preferred-suppliers). If you can buy there you must. Call finance 88622 (phone number is on the phone in the MAVLab).
+# Where
+TUDelft has a list of [preferred suppliers](https://intranet.tudelft.nl/en/direct-links/news/latest-news/article/detail/maak-kennis-met-onze-preferred-suppliers). If you can buy at those supplier you must and no other supplier. Call finance 88622 (phone number is on the phone in the MAVLab).
 
 ## Farnell
 
-One of the preferred suppliers is [Farnell](http://www.farnell.nl), a very large supplier of electronic supplies. The MAVLab orders a large part of its supplies here. If ordered before 18:00 your order will arrive the next day, for free. The MAVLab has an special https://alusta.tudelft.nl/ shop account. Ask around if you need to have the login information.
-
+One of the preferred suppliers is [Farnell](http://www.farnell.nl), a very large supplier of electronic supplies. The MAVLab orders a large part of its supplies here. If ordered before 18:00 your order will arrive the next day, for free. The MAVLab has a special https://alusta.tudelft.nl/ shop account. If you need to order there but have no access ask fellow workers in the lab if they can help ordering for you.
 
 # Declarations
 
@@ -27,12 +27,14 @@ The sheet also helps you to keep track of your declarations and can send you a r
 * [Declaration forms](https://forms-fc.tudelft.nl)
 * [C1 and C5 forms](https://intranet.tudelft.nl/en/direct-links/forms/forms-finance/)
 
-# How to order
-* Ask for permission and a "Baancode" to B. Remes, C. De Wagter or G. de Croon
-* Place your order
-* Enter the information in the [spreadsheet](https://docs.google.com/spreadsheets/d/1rjMwl2PAkqQoZJo79XyGppT0GmYS0PzrqwRbRjkukpM/edit?usp=sharing)
-* Declare your order at the TU Delft at [Declaration forms](https://forms-fc.tudelft.nl)
-* Update the status in the excel sheet
+# How
+
+1. Ask for permission to buy to B. Remes, C. De Wagter or G. de Croon
+2. Get a "Baancode" from B. Remes, C. De Wagter or G. de Croon
+3. Place your order
+4. Enter the information in the [spreadsheet](https://docs.google.com/spreadsheets/d/1rjMwl2PAkqQoZJo79XyGppT0GmYS0PzrqwRbRjkukpM/edit?usp=sharing)
+5. If paid by oneself, get refunded by TU Delft via [Declaration forms](https://forms-fc.tudelft.nl)
+6. Update the status in the excel sheet
 
 # Ordering through Finance
 
