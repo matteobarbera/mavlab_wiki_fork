@@ -1,7 +1,7 @@
 # Buying hardware 
 
 # Where
-TUDelft has a list of preferred suppliers. **If you can buy** at those supplier** you must** and no other supplier. Call finance 88622 (phone number is on the phone in the MAVLab).
+TUDelft has a list of preferred suppliers. **If you can buy** at those supplier ** you must** and no other supplier. Call finance 88622 (phone number is on the phone in the MAVLab).
 
 ## Farnell
 
