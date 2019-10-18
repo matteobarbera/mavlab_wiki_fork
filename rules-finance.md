@@ -4,7 +4,7 @@ TUDelft has a list of [preferred suppliers](https://intranet.tudelft.nl/en/direc
 
 ## Farnell
 
-One of the preferred suppliers is [Farnell](http://www.farnell.nl), a very large supplier of electronic supplies. The MAVLab orders a large part of its supplies here. If ordered before 18:00 your order will arrive the next day, for free. The MAVLab has an account there under the name of Christophe de Wagter. Ask around if you need to have the login information.
+One of the preferred suppliers is [Farnell](http://www.farnell.nl), a very large supplier of electronic supplies. The MAVLab orders a large part of its supplies here. If ordered before 18:00 your order will arrive the next day, for free. The MAVLab has an special https://alusta.tudelft.nl/ shop account. Ask around if you need to have the login information.
 
 
 # Declarations
