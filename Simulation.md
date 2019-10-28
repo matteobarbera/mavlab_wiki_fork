@@ -53,10 +53,10 @@ Several possibilities for simulating with Gazebo exist, that are covered in deta
 The simulation environments listed here have only been used for very specific purposes and there might not be a lot of know-how around on how to use them.
 
 #### ARGoS
-*Description:* Large-scale multi-agent simulator.
+Large-scale multi-agent simulator.
 
 #### unrealCV
-*Description:* Plugin to get high quality visuals from an Unreal Engine scene. Dynamics must be programmed independently and capturing images can take quite long.
+Plugin to get high quality visuals from an Unreal Engine scene. Dynamics must be programmed independently and capturing images can take quite long.
 
 #### Swarmulator
-*Description:* Lightweight C++ simulator for swarms, written by Mario for his research and thus not actively maintained.
+Lightweight C++ simulator for swarms, written by Mario for his research and thus not actively maintained.
