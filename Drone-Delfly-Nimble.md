@@ -167,6 +167,7 @@ You might want to add a power regulator supplying constant 3.3V power to your re
   - The environment variables need to be changed in the .bashrc file. Go to the home directory and use command 'gedit ~/.bashrc'.
   - Add the lines described in the link at the bottom of the file.
   - Use command line 'source ~/.bashrc' in the home directory. To apply the changes made in the .bashrc file. The changes in the .bashrc file have to be done only once. 
+  - If there are still errors, check if there are no spelling errors in the environment variables. If not, restart the computer.
 - the paparazzi logs will be stored in 'paparazzi/var/logs' and can be viewed with the [paparazzi log plotter](https://wiki.paparazziuav.org/wiki/Plotter)
 - [Matlab script](https://github.com/tudelft/mavlab/raw/master/scripts/read_pprz_MXS.m ] that loads the log into Matlab (if not working update according to messages.xml)
 
