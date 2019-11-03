@@ -19,6 +19,8 @@ Welcome to the **MAVLab wiki**!
 
 Soaring free like an eagle :eagle: would be our main motto. One small kink, if you soar in the lab, you need to adhere to some standards. That is good thing, since it will save you time along the way.
 
+Please use S.I. everywhere, then there is less confusion around the globe and there will be less marslander crashes ;)		
+
 ## Papers :page_facing_up:
 
  * When writing papers and you want to publish, first go through the [Publishing checklist](publishchecklist) to see if you document adheres to the lab standard
