@@ -47,7 +47,7 @@ Several possibilities for simulating with Gazebo exist, that are covered in deta
 
 *Models:* 
 
-*Description:* Open-source simulator developed and maintained by Microsoft, built on Unreal Engine (Unity release also available). Focused on computer vision and AI, therefore computationally expensive to run
+*Description:* Open-source simulator developed and maintained by Microsoft, built on Unreal Engine (Unity release also available). Focused on computer vision and AI, therefore computationally expensive to run (needs a good GPU). Setup is a bit of a pain on Windows, and the last time it was tested, there was no stable version for Linux. No default model for aerodynamics was found, so it needs to be implemented as well.
 
 ## Others
 The simulation environments listed here have only been used for very specific purposes and there might not be a lot of know-how around on how to use them.
