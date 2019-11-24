@@ -20,10 +20,10 @@ Not in all cases standardization and be adhered to. Why not? The lab is in the f
 
 # Procedures
 
-* papers
-* videos
+* Papers
+* [Videos](videos)
 * PR
-* public aperance
+* Public appearance
 
 # Materials
 
@@ -185,14 +185,14 @@ Exception are very specific programs for hardware, e,g. certain measuring equipm
 * LibreOffice (WXL)
 * ? qelectrotech https://qelectrotech.org
   ? https://sourceforge.net/projects/tinycad/
-* Motive v2.0(Optitrack)
+* Motive v2.x (Optitrack)
 
 # Google services
 Sadly not open, but access to all your data pragmatic for the time being
 
 # Hardware PCB/schematic designs AP
 
-* Current From EAGLE to KiCAD wherever feasable
+* Current From EAGLE to KiCAD wherever feasible
 In some scenarios Altium v19 may be used
 
 # RC transmitters
