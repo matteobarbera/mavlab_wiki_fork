@@ -5,8 +5,6 @@ Welcome to the **MAVLab wiki**!
 [**Search this Wiki**](https://github.com/tudelft/mavlab/search?q=YOURSEARCHTEXTHERE&type=Wikis)
 
 > Note: Previously, [Wiki info could be found here](https://svn.lr.tudelft.nl/trac/MAVLAB/wiki/DelFly). 
-> Only some Delfly info is not transferred yet to the new one here.
-> Please join us in the effort to port the last bit of content...
 
 # Introduction
 
