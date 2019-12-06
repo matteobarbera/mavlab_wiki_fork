@@ -1,4 +1,38 @@
-# Buying hardware 
+# Buying hardware
+
+## What does it mean?
+
+Purchase of goods and/or services are subject to the TU Delft purchasing policy guidelines. In accordance with this policy, a purchase order must be created for all purchases and the supplier’s invoice must be addressed to TU Delft. Directly purchasing, paying for and declaring goods yourself is in breach of the guidelines.
+
+# How does it work?
+
+## What do you need to do as a staff member?
+
+To purchase goods and/or services, a purchase order must be created in Basware Alusta. Each department has a designated purchaser who is responsible for placing orders and who has access to this ordering system.
+
+The submitted order is verified and approved by the Purchasing Team (SSC Finance). The supplier automatically receives an email with the purchase order via the system or receives the order on the Basware Portal. After delivery, the purchaser confirms on the purchase order in Basware Alusta that the goods/services have been received.
+
+The supplier submits the invoice digitally. There are 2 options for this.
+
+* The supplier can submit invoices in XML format UBL2.0, for example via Simplerinvoicing. They can find TU Delft under the following number NL001569569B01.
+
+TIP:
+If the above option is not an option for the supplier, they can register for free on the Basware Portal of the open platform of Basware Network. 
+
+Creating a free account can be created via: https://portal.basware.com/open/TUDelft_Ordering
+
+If the supplier needs help with this, they can contact our information desk
+
+(Tel. 88622 or email info-finance@tudelft.nl).
+
+To ensure correct processing, an invoice must contain the following information:
+
+Addressee in the name of TU Delft, Stevinweg 1, 2628 CN Delft
+Enter the Purchase Order number on the invoice or in the Portal. The purchase order number must be entered in the Portal field “Purchase order number” or specify the DIM code in the Portal field “Buyer reference”. Name of the purchaser
+
+The Tax and Customs Administration also imposes certain conditions with respect to the purchase invoice. An invoice that does not meet these conditions will not be processed.
+
+After verification by SSC Finance, the invoice is submitted to the budget holder for approval. After approval, the invoice is exported to the ERP LN administration system. The payment order is dispatched to the bank before the due date to ensure that the invoice is always paid on time. 
 
 # Where
 TUDelft has a list of preferred suppliers. **If you can buy** at those supplier **you must** and no other supplier. Call finance 88622 (phone number is on the phone in the MAVLab).
@@ -6,6 +40,10 @@ TUDelft has a list of preferred suppliers. **If you can buy** at those supplier 
 ## Farnell
 
 One of the preferred suppliers is [Farnell](http://www.farnell.nl), a very large supplier of electronic supplies. The MAVLab orders a large part of its supplies here. If ordered before 18:00 your order will arrive the next day, for free. The MAVLab has a special https://alusta.tudelft.nl/ shop account. If you need to order there but have no access ask fellow workers in the lab if they can help ordering for you.
+
+#Add supplier
+
+https://intranet.tudelft.nl/en/-/invoice-for-purchased-goods-and-or-services?inheritRedirect=true
 
 # Declarations
 
