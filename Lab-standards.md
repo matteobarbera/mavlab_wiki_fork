@@ -173,19 +173,22 @@ Wordpress, if need custom plug-in by student but made open to public
 
 # Basic Software 
 
-Software used should have at least Linux,optionally Win and OSX version.
+Software used should have at least a Linux,optionally a Windows and OSX, version.
 Exception are very specific programs for hardware, e,g. certain measuring equipment
 
+* Visual Studio Code (WXL)
 * KiCad  (WXL)
 * FreeCad (WXL)
 * Dia (WXL)
 * Xflr (WXL)
 * Inkscape (WXL)
-* Gimp 2.10 (WXL)
+* Gimp (WXL)
 * LibreOffice (WXL)
 * ? qelectrotech https://qelectrotech.org
-  ? https://sourceforge.net/projects/tinycad/
+* ? https://sourceforge.net/projects/tinycad/
 * Motive v2.x (Optitrack)
+
+One is free ofcourse use other software, only there is likely no one in the lab who can help you out if you have questions.
 
 # Google services
 Sadly not open, but access to all your data pragmatic for the time being
