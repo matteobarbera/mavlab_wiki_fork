@@ -16,7 +16,7 @@ The benefits of some form of standardization
 
 ## Contra Standardization
 
-Not in all cases standardization and be adhered to. Why not? The lab is in the forefront of new development that also means new types of hardware and software must be used. Still where standard components can be applied, the *must* be applied.
+Not in all cases standardization and be adhered to. Why not? The lab is in the forefront of new development that also means new types of hardware and software must be used. Still where standard components *can* be applied, they *must* be applied.
 
 # Procedures
 
