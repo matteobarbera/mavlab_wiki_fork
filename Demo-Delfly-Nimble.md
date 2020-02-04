@@ -7,6 +7,8 @@ Also, after replacing the pitch servo, or if the Nimble starts drifting over tim
 
 **Devo 10 model**
 
+* [Model for the transmitter](https://github.com/dewagter/paparazzi/blob/afbe242c26dcb667855d8c7cfd23232049c433c7/devo10/model20.ini)
+
 ![DEVO10](https://github.com/tudelft/mavlab/blob/master/photos/drones/nimble/devo10_description_demo_Nimble_new.png)
 
 **Flight procedure:**
