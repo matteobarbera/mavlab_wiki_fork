@@ -34,11 +34,11 @@ To **set up flips / insect-like turns / automated maneuvers** comment out (and a
 The current code only allows one type of maneuver to be used, e.g. either a roll flip, or a pitch flip, or a insect-like turn, etc.
 
 **Devo 10 model**
-* [model for the transmitter, 4-minute timer reset by AILE D/R](https://github.com/tudelft/paparazzi/blob/transformer_imav/devo10/model8.ini)
-* [model for the transmitter, no timer, shows command % on all channels](https://github.com/matejkarasek/paparazzi/blob/delfly_transformer_MXS_master/devo10/model8.ini)
+* [Model for the transmitter, 4-minute timer reset by AILE D/R](https://github.com/tudelft/paparazzi/blob/transformer_imav/devo10/model8.ini)
+* [Model for the transmitter, no timer, shows command % on all channels](https://github.com/matejkarasek/paparazzi/blob/delfly_transformer_MXS_master/devo10/model8.ini)
 
 ![DEVO10](https://github.com/tudelft/mavlab/raw/master/photos/drones/nimble/devo10_description_Transformer.png)
-* [Model for Delfly Nimble Demo]((https://github.com/tudelft/mavlab/wiki/Demo-Delfly-Nimble)): the transmitter file, new demo code and flight procedure in which you can now select a roll flip /pitch flip /evasive maneuver is shown. Note that the flight procedure for the demo is different from the standard one. 
+* [Model for Delfly Nimble Demo](https://github.com/tudelft/mavlab/wiki/Demo-Delfly-Nimble): the transmitter file, new demo code and flight procedure in which you can now select a roll flip /pitch flip /evasive maneuver is shown. Note that the flight procedure for the demo is **different** from the standard one. 
 
 <a href="#top">[Back to top]</a>
 
