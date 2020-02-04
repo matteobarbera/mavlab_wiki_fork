@@ -85,6 +85,7 @@ Tutorials are best published publicly on e.g. http://wiki.paparazziuav.org. If i
 
 * Crimping connectors https://iotexpert.com/2018/01/18/jst-connector-crimping-insanity/
 * Install arm-none-eabi-gdb. [​A tutorial to do this can be found here](http://fab.cba.mit.edu/classes/863.13/tutorials/EmbeddedProgramming/stm32.html)
+* Cyberzoo OptiTrack Calibration [step-by-step procedure](https://v22.wiki.optitrack.com/index.php?title=Calibration)
 
 # SmartUAV
 
