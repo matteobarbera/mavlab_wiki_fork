@@ -1,8 +1,8 @@
 This tutorial is written to summarize all the necessary steps to calibrate the OptiTrack system for Delfly use. For more detailed information, please refer to [OptiTrack Documentation Wiki](https://v22.wiki.optitrack.com/index.php?title=OptiTrack_Documentation_Wiki)
 
 ## Tool
-OptiTrack CW-500 calibration wand 
-OptiTrack CS-200 calibration square
+* OptiTrack CW-500 calibration wand 
+* OptiTrack CS-200 calibration square
 
 ## Calibration of the camera
 * Start calibration procedure by clicking the toolbar 'View' and select 'Camera Calibration'. The camera calibration workspace will be shown on the right
