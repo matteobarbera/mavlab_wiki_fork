@@ -79,7 +79,7 @@ Tutorials are best published publicly on e.g. http://wiki.paparazziuav.org. If i
 
 ## Internal tutorials
 
-* BLheli flashing
+* [BLheli flashing](https://github.com/tudelft/mavlab/wiki/tutorials-flashBLHeli)
 
 ## External
 
