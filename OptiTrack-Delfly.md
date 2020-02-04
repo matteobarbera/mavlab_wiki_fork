@@ -5,9 +5,9 @@ This tutorial is written to summarize all the necessary steps to calibrate the O
 * OptiTrack CS-200 calibration square
 
 ## Calibration of the camera
-* Start calibration procedure by clicking the toolbar `View` and select `Camera Calibration`. The camera calibration workspace will be shown on the right
+* Start calibration procedure by clicking the toolbar `View` and select `Camera Calibration`. The `Camera Calibration` workspace will be shown on the right
 ![calibration](https://github.com/tudelft/mavlab/blob/master/photos/drones/nimble/optitrack_calibration.png)
-* Close the curtains. Move away or turn off any unwanted light sources. If there are still some left, click `Mask Visible` in the `Camera Calibration` tab to mask those unwanted sources
+* Close the curtains. Move away or turn off any unwanted light sources. If there are still some left, click `Mask Visible` in the `Camera Calibration` workspace to mask those unwanted sources
 * Click `Start Wanding` and take the calibration wand inside the Cyberzoo. Wave around the wand under each camera until the light ring turns fully green
 * Keep walking while waving the wand until the calibration box in Motive turns green and sufficient samples are collected. A 6-camera system will calibrate properly with an average of 1000 samples per camera 
 * Click `Calculate` in the calibration box
