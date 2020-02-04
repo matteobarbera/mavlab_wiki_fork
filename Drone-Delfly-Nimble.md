@@ -93,7 +93,7 @@ a lot is described in the supplement
 
 
 ## Extra information
-* [List of Components]()
+* [List of Components](https://github.com/tudelft/mavlab/wiki/Delfly-List-of-Components)
 * [Purchasing]()
 * [Connection Schematics]()
 * [Downloading logs from Micro SD card]()
