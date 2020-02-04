@@ -97,6 +97,6 @@ a lot is described in the supplement
 * [Purchasing]()
 * [Connection Schematics]()
 * [Downloading logs from Micro SD card]()
-* [OptiTrack tutorial for Delfly]
+* [OptiTrack tutorial for Delfly]()
 
 <a href="#top">[Back to top]</a>
