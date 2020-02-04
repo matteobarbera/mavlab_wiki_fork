@@ -25,6 +25,7 @@ This tutorial is written to summarize all the necessary steps to calibrate the O
 * To view the newly created aircraft, click on the toolbar `View` and then `Project`, the aicraft will show in the project menu
 * Go to the recording panel by clicking on the toolbar `Layout` and then `Capture`
 * Start recording by clicking the record button 
+![record](https://github.com/tudelft/mavlab/blob/master/photos/drones/nimble/optitrack_record.png)
 
 
 When finishing using the OptiTrack system, before leaving, please turn off the cyberzoo light and leave the curtains open in case of fire hazard.
