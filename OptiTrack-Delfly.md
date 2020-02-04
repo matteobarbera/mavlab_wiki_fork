@@ -16,8 +16,9 @@ This tutorial is written to summarize all the necessary steps to calibrate the O
 ## Calibration of the ground
 * Check the cameras' relative position from the ground in the `Perspective View` panel 
 * To start the `Ground Plane` calibration, place the calibration square in the middle of the field, with an orientation shown in the following picture
-<img src="https://github.com/tudelft/mavlab/blob/master/photos/drones/nimble/OptiTrack_calibration_square_orientation.jpg" alt="alt text" width="350" height="500">
 * Move around the wand to see if the markers show up at the right locations with the newly calibrated ground plane.
+<img src="https://github.com/tudelft/mavlab/blob/master/photos/drones/nimble/OptiTrack_calibration_square_orientation.jpg" alt="alt text" width="350" height="500">
+
 
 ## Track a Delfly
 * Select all the markers from a Delfly
