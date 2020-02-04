@@ -38,7 +38,7 @@ The current code only allows one type of maneuver to be used, e.g. either a roll
 * [model for the transmitter, no timer, shows command % on all channels](https://github.com/matejkarasek/paparazzi/blob/delfly_transformer_MXS_master/devo10/model8.ini)
 
 ![DEVO10](https://github.com/tudelft/mavlab/raw/master/photos/drones/nimble/devo10_description_Transformer.png)
-* Model for Delfly Nimble Demo: the transmitter file, new demo code and flight procedure in which you can now select a roll flip /pitch flip /evasive maneuver is shown [here](https://github.com/tudelft/mavlab/wiki/Demo-Delfly-Nimble)
+* [Model for Delfly Nimble Demo]((https://github.com/tudelft/mavlab/wiki/Demo-Delfly-Nimble)): the transmitter file, new demo code and flight procedure in which you can now select a roll flip /pitch flip /evasive maneuver is shown. Note that the flight procedure for the demo is different from the standard one. 
 
 <a href="#top">[Back to top]</a>
 
