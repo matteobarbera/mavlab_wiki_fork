@@ -93,6 +93,7 @@ a lot is described in the supplement
 
 
 ## Extra information
+* [3D Models](https://github.com/tudelft/mavlab/wiki/3D-Models)
 * [List of Components and Purchasing](https://github.com/tudelft/mavlab/wiki/Delfly-List-of-Components-and-Purchasing)
 * [Connection Schematics](https://github.com/tudelft/mavlab/wiki/Delfly-Connection-Schematics)
 * [Downloading logs from Micro SD card](https://github.com/tudelft/mavlab/wiki/SD-Card-Logging-and-Formatting)
