@@ -1,10 +1,8 @@
-## Flight Procedure
-
 **Devo 10 model**
 
 ![DEVO10](https://github.com/tudelft/mavlab/blob/master/photos/drones/nimble/devo10_description_demo_Nimble_new.png)
 
-Demo flight procedure:
+**Flight procedure:**
 * Turn on the transmitter, make sure the throttle stick is down, the other stick is centered, RUD DIR at 1 and MODE at 2, the rest of switches are at 0.
 * Plug the battery in **while the Nimble is not moving** (e.g. on the ground/desk...). At startup, gyro biases are estimated, so it needs to be still.
 * With MODE switch at 2 (RC Direct), try if pitching and rolling results in expected actuator responses
@@ -25,7 +23,7 @@ Flips or insect-like turns
 
 
 
-Troubleshooting
+**Troubleshooting**
 * The Nimble **does not start flapping**: make sure the roll/pitch/yaw sticks are centered and the trims reset. Sometimes, DelTang receiver readings are biased. In that case, check the telemetry and adjust the transmitter trims until you see zero RC commands in the telemetry.
 * Once the battery is low, the Nimble starts behaving erratically: you are flying a Nimble without a power regulator, and the receiver is the first component to stop working when the battery voltage is low. Use a timer to stop flying early enough, or add a power regulator.
 * The Nimble is **drifting**: make sure your autopilot is properly fixed and aligned with the airframe. If so, continue with the following two points.
