@@ -34,7 +34,7 @@ To **set up flips / insect-like turns / automated maneuvers** comment out (and a
 * [sw/airborne/firmwares/rotorcraft/guidance/guidance_flip.c](https://github.com/matejkarasek/paparazzi/blob/delfly_transformer_MXS_master/sw/airborne/firmwares/rotorcraft/guidance/guidance_flip.c)
 The current code only allows one type of maneuver to be used, e.g. either a roll flip, or a pitch flip, or a insect-like turn, etc.
 
-###Devo 10 model
+### Devo 10 model
 * [Model for the transmitter, 4-minute timer reset by AILE D/R](https://github.com/tudelft/paparazzi/blob/transformer_imav/devo10/model8.ini)
 * [Model for the transmitter, no timer, shows command % on all channels](https://github.com/matejkarasek/paparazzi/blob/delfly_transformer_MXS_master/devo10/model8.ini)
 
