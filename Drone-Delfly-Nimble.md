@@ -18,6 +18,7 @@ DelFly Nimble is our newest and most agile design which can hover or fly in any 
 ## Paparazzi Code
 **The latest code (limited functionality)** will be soon in Paparazzi master (based on this [PR](https://github.com/paparazzi/paparazzi/pull/2380), allows basic flying + Optitrack flying):
 * [DelFly Nimble airframe file, PPRZ master](https://github.com/paparazzi/paparazzi/blob/master/conf/airframes/tudelft/delfly_nimble.xml)
+* [DelFly Nimble Demo code](https://github.com/dewagter/paparazzi/tree/afbe242c26dcb667855d8c7cfd23232049c433c7). For more information on Delfly Nimble Demo, check [here](https://github.com/tudelft/mavlab/wiki/Demo-Delfly-Nimble)
 
 **Every Nimble might be different**, e.g. motors might be connected to different pins than in the master airframe, so always check before flying!!
 Also, after replacing the pitch servo, or if the Nimble starts drifting over time, you might want to adjust the dihedral servo limits in the airframe file to trim the vehicle.
@@ -38,7 +39,7 @@ The current code only allows one type of maneuver to be used, e.g. either a roll
 * [Model for the transmitter, no timer, shows command % on all channels](https://github.com/matejkarasek/paparazzi/blob/delfly_transformer_MXS_master/devo10/model8.ini)
 
 ![DEVO10](https://github.com/tudelft/mavlab/raw/master/photos/drones/nimble/devo10_description_Transformer.png)
-* [Model for Delfly Nimble Demo](https://github.com/tudelft/mavlab/wiki/Demo-Delfly-Nimble): the transmitter file, new demo code and flight procedure in which you can now select a roll flip /pitch flip /evasive maneuver is shown. Note that the flight procedure for the demo is **different** from the standard one. 
+* [Model for Delfly Nimble Demo](): (NOT COMPLETE need the right ini file here) the transmitter file, new demo code and flight procedure in which you can now select a roll flip /pitch flip /evasive maneuver is shown. Note that the flight procedure for the demo is **different** from the standard one. 
 
 <a href="#top">[Back to top]</a>
 
