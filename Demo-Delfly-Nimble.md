@@ -1,3 +1,10 @@
+## Paparazzi Code
+
+* [DelFly Nimble demo code](https://github.com/dewagter/paparazzi/tree/afbe242c26dcb667855d8c7cfd23232049c433c7)
+
+**Every Nimble might be different**, e.g. motors might be connected to different pins than in the master airframe, so always check before flying!!
+Also, after replacing the pitch servo, or if the Nimble starts drifting over time, you might want to adjust the dihedral servo limits in the airframe file to trim the vehicle.
+
 **Devo 10 model**
 
 ![DEVO10](https://github.com/tudelft/mavlab/blob/master/photos/drones/nimble/devo10_description_demo_Nimble_new.png)
