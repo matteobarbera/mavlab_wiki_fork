@@ -7,7 +7,7 @@
 - download the log from SD card by running 'sudo ./pprz_downloader /dev/sdb' or 'sudo ./pprz_downloader /dev/mmcblk0' (if none of the two work, check the device name with 'll /dev' after inserting the SD card into the reader)
 - this creates binary 'sd_log_00000.bin','sd_log_00001.bin', etc. log files
 - [this tool](https://github.com/paparazzi/paparazzi/blob/master/sw/logalizer/sd2log.ml) (part of your PPRZ installation) will convert the binaries into paparazzi logs
-- go to 'paparazzi/sw/logalizer' and run './sd2log [path to the binaries]/sd_log_00000.bin'
+- go to 'paparazzi/sw/logalizer' and run './sd2log ~[path to the binaries]/sd_log_00000.bin'
 - if you get errors, make sure your [environment variables](https://wiki.paparazziuav.org/wiki/Installation#Environment_Variables) are set correctly
   - The environment variables need to be changed in the .bashrc file. Go to the home directory and use command 'gedit ~/.bashrc'.
   - Add the lines described in the link at the bottom of the file.
