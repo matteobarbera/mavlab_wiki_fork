@@ -103,7 +103,7 @@ The following demos can be demo'ed out of the box if there is a checkbox in fron
 
 - [ ] [Crazyflie localization](Demo-Crazyflie-localization)
 - [ ] [Damaged Drone recovery](Demo-Damaged-Drone-Recovery)
-- [ ] [Delfly Nimble](Demo-Delfly-Nimble)
+- [x] [Delfly Nimble](Demo-Delfly-Nimble)
 - [ ] [Delftacopter](Demo-Delftacopter)
 
 TIP: Add yoursto this list if you have demoable setups
