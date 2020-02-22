@@ -119,9 +119,9 @@ If using an R-XSR the Firmware MUST be [v190311 EU LBT](https://github.com/tudel
 ## Wifi based on ESP8266 or build in wifi
 [*MUST* use this firmware](htpp://)
 ## XBee Pro S1
-[*MUST* use Firmware version E2](http://) 
+[*MUST* use Firmware version 10EF - XBee 802.15.4](https://www.digi.com/products/embedded-systems/digi-xbee/digi-xbee-tools/xctu) 
 ## Herelink
-[*MUST* use Firmware
+[*MUST* use Firmware X]
 
 ## Si10xx
 Modem Si10xx 868/900 based modems, So *not* the new RFD900_emp32
