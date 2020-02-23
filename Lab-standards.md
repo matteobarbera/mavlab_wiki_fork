@@ -119,8 +119,14 @@ If using an R-XSR the Firmware MUST be [v190311 EU LBT](https://github.com/tudel
 ## Wifi based on ESP8266 or build in wifi
 [*MUST* use this firmware](htpp://)
 ## XBee Pro S1
+
+<img src="../raw/master/photos/parts/tranceiver-xbee-pro-s1_01.jpg" width="25%"/>
+
 [*MUST* use Firmware version 10EF - XBee 802.15.4](https://www.digi.com/products/embedded-systems/digi-xbee/digi-xbee-tools/xctu) 
 ## Herelink
+
+<img src="../raw/master/photos/parts/tranceiver-herelink-onboard-module-01.jpg" width="25%"/>
+
 [*MUST* use Firmware v0.2.2 or higher](https://github.com/CubePilot/cubepilot-docs/blob/master/herelink/firmware-releases.md)
 
 ## Si10xx
