@@ -158,7 +158,7 @@ There are many...so our default RFC:
 Why: Versatile, Well flexible, Available and cheap
 # Pixhawk 4 - 
 Why: Versatile, Well flexible, Available
-# Pixracer v1.0 R14
+# Pixracer v1.0 R14 and R15
 Why: robust, versatile, available, cheap, hardfloat F4, SD card
 # Lisa MXS: 
 Why: Fits certain projects light small
