@@ -1,6 +1,4 @@
-
-The standard connection schematics are in the following pdf:
-* [Transformer connection schematics](https://github.com/tudelft/mavlab/blob/master/pdf/delfly/Transformer_connection_schematics_MXS.pdf)
+The standard connection schematics :
 
 ![Lisa MXS](https://github.com/tudelft/mavlab/raw/master/photos/drones/nimble/Nimble_wiring.png)
 
