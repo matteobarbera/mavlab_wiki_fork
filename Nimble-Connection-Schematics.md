@@ -3,6 +3,7 @@ The standard connection schematics :
 * [PDF](https://github.com/tudelft/mavlab/blob/master/pdf/delfly/Nimble_wiring.pdf)
 
 ![Lisa MXS](https://github.com/tudelft/mavlab/raw/master/photos/drones/nimble/Nimble_wiring.png)
+![Lisa MXS](https://github.com/tudelft/mavlab/raw/master/photos/drones/nimble/Nimble_wiring_schem.png)
 
 And here the autopilot and SD card connections:
 
