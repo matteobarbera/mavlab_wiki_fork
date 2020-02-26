@@ -2,6 +2,8 @@
 The standard connection schematics are in the following pdf:
 * [Transformer connection schematics](https://github.com/tudelft/mavlab/blob/master/pdf/delfly/Transformer_connection_schematics_MXS.pdf)
 
+![Lisa MXS](https://github.com/tudelft/mavlab/raw/master/photos/drones/nimble/Nimble_wiring.png)
+
 And here the autopilot and SD card connections:
 
 
