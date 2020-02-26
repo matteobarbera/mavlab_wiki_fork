@@ -1,6 +1,7 @@
 The standard connection schematics :
-* [Schematic view](https://github.com/tudelft/mavlab/raw/master/photos/drones/nimble/Nimble_wiring_schem.png)
-* [Breadboard view](https://github.com/tudelft/mavlab/blob/master/pdf/delfly/Nimble_wiring.pdf)
+* [Lisa MXS](https://wiki.paparazziuav.org/wiki/Lisa/MXS_v1.0)
+* [Nimble Schematic View](https://github.com/tudelft/mavlab/raw/master/photos/drones/nimble/Nimble_wiring_schem.png)
+* [Nimble Breadboard View](https://github.com/tudelft/mavlab/blob/master/pdf/delfly/Nimble_wiring.pdf)
 
 
 ![Nimble wiring](https://github.com/tudelft/mavlab/raw/master/photos/drones/nimble/Nimble_wiring.png)
