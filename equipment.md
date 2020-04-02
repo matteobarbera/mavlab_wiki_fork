@@ -1,5 +1,6 @@
 # Equipment
 
+* [3D Printers](3D-Printers)
 * [Hot Wirecutter](wirecutter)
 * [Large CNC 3-axis](cnc-3-axis)
 * [CNC 4-axis](cnc-4-axis)
