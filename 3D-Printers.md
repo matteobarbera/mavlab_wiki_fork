@@ -19,6 +19,11 @@ Alternatively, if you are using the Cura slicing software, you can directly impo
 
 <img src="https://github.com/tudelft/mavlab/blob/master/images/anycubic_chiron_cura_printer_settings.png" width="75%"/>
 
+<b>Using Renkforce PLA Filament?</b>
+Print settings depend on the material you are using. If you are using Renkforce PLA filament (1.75 mm), you will need to adjust the print settings. You can either use the [Cura settings for Renkforce](https://github.com/tudelft/mavlab/blob/master/scripts/Anycubic_Chiron_%20Settings_RF_PLA_1.75.curaprofile), or directly set the parameters as follows: 
+
+* 
+
 ## Anycubic Photon (restricted access)
 
 TBA
