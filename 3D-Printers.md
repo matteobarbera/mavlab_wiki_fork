@@ -32,8 +32,22 @@ Print settings depend on the material you are using. If you are using Renkforce 
 It is highly recommended to disable the initial extrusion of filament (generally 3 mm of stock material). You can do it by modifying the  "Start/End-Gcode" tab in Cura. There should be a line saying something like: G1 F200 E3              ;extrude 3mm of feed stock. The number after the E is the amount of filament (in mm.,) extruded before the print starts. Replace 'E3' by 'E0'.
 
 <br/><b>Troubleshootting</b><br/>
-For some reasons, the first layer is a bit tricky when using Renkforce filament. Please pay attention to this early phase. For a better result, it is recommended that you use tape or spray on the bed plate. 
+For some reasons, the first layer is a bit tricky when using Renkforce filament. Please pay attention to this early phase. For a better result, it is recommended that you use **tape** or **adhesive spray** on the bed plate. 
 
 ## Anycubic Photon (restricted access)
 
-TBA
+The Anycubic Photon 3D resin printer comes with high printing resolution: 47-microns XY resolution, 1.25-microns Z accuracy, with an overall build volume of 120 x 68 x 150 mm. To print with this device, please use the 405-nm UV resin. For instructions on how to print, please watch the following [video](https://youtu.be/VLZbEj4W8O4).
+
+* [User manual](https://drive.google.com/file/d/1gGvgaVlVSFrv6Ad0xq8NZv_crqn2u_rz/view)
+* Suggested layer thickness: 25 - 100 microns
+* Suggested print speed: 10 - 18 mm/hour
+
+The powering cables are not available in the MAVLab. If you want to print something, please contact either [Julien](mailto:j.j.g.dupeyroux@tudelft.nl) or [Diana](mailto:d.a.olejnik@tudelft.nl). 
+
+The Anycubic Photon Slicer software is only available on [Mac](https://github.com/ANYCUBIC-3D/PhotonWorkshop/releases/download/v2.1.21/Photon_WorkShop_V2.1.21.dmg) and [Windows](https://github.com/ANYCUBIC-3D/PhotonWorkshop/releases/download/v2.1.21/Photon_WorkShop_V2.1.21.exe). For Linux users, it is recommended to use the open-source [Chitubox](https://www.chitubox.com) software. Chitubox already includes the settings required for printing with the Photon printer: `Settings > Add Printer > ...`.
+
+**SAFETY RULES**
+
+* ALWAYS WEAR GLOVES WHEN MANIPULATING THE RESIN!
+* During the printing phase, use the plexiglass panel to prevent from smell spreading in the MAVLab.
+* After each printing, remove the remaining resin from the tank, filter it out and place it back into the UV-resin bottle. Then, carefully clean the tank. 
