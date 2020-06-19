@@ -46,8 +46,14 @@ The powering cables are not available in the MAVLab. If you want to print someth
 
 The Anycubic Photon Slicer software is only available on [Mac](https://github.com/ANYCUBIC-3D/PhotonWorkshop/releases/download/v2.1.21/Photon_WorkShop_V2.1.21.dmg) and [Windows](https://github.com/ANYCUBIC-3D/PhotonWorkshop/releases/download/v2.1.21/Photon_WorkShop_V2.1.21.exe). For Linux users, it is recommended to use the open-source [Chitubox](https://www.chitubox.com) software. Chitubox already includes the settings required for printing with the Photon printer: `Settings > Add Printer > ...`.
 
-**SAFETY RULES**
+**RESIN PRINTER SAFETY RULES**
 
 * ALWAYS WEAR GLOVES WHEN MANIPULATING THE RESIN!
 * During the printing phase, use the plexiglass panel to prevent from smell spreading in the MAVLab.
 * After each printing, remove the remaining resin from the tank, filter it out and place it back into the UV-resin bottle. Then, carefully clean the tank. 
+
+You can also have a look at the following video to have a clear overview of the safety rules you must keep in mind when working with a resin printer: [Resin 3D Printing Safety for Beginners](https://www.youtube.com/watch?v=7kHcsTG9QsM)
+
+After printing, remove the part carefully and then clean it by means of the ultrasonic cleaner. The cleaning duration obviously depend on the size of your print, but something like 5-15 minutes should be enough. You may find interesting tips [here](https://www.kudo3d.com/post-process-your-sla-prints-in-4-easy-steps-2/). Use Isopropyl Alcohol (IPA) in the cleaning tank to clean the part. Once this is done you will need to cure the print using the curing chamber. Instruction sheet can be found next to it. 
+
+*More information to come soon.*
