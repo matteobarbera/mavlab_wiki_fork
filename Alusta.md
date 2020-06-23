@@ -5,6 +5,9 @@
 ## Line data
 * Purchasing category: **301-00, - Aanschaf hardware overig**
 
+## Afleveradres
+* do not use gebouw 62 but put your own
+
 ## Line Coding
 * Account code **284199** for Project codes
 * Project **Baancode Project**
