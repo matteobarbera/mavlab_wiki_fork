@@ -34,6 +34,16 @@ The Tax and Customs Administration also imposes certain conditions with respect 
 
 After verification by SSC Finance, the invoice is submitted to the budget holder for approval. After approval, the invoice is exported to the ERP LN administration system. The payment order is dispatched to the bank before the due date to ensure that the invoice is always paid on time. 
 
+# Creditcard
+
+ - Wij doen alleen creditcard betalingen als per bank betalen niet mogelijk is.
+ - Bijgevoegd een formulier. Deze moet worden ingevuld.
+ - De handtekening Budgethouder mag ook een mailtje zijn.
+ - Het formulier retourneren in PDF. Wij gaan dan eerst kijken of het akkoord is.
+ - Wij werken allemaal thuis. Dus wij moeten vanaf huis de bestelling plaatsen.
+ - We hebben dan inlogcodes nodig en precies in een mailtje wat er besteld moet worden.
+ - Wat voor ons nog makkelijker is dat je in je account een winkelwagentje vult.
+
 # Where
 TUDelft has a list of preferred suppliers. **If you can buy** at those supplier **you must** and no other supplier. Call finance 88622 (phone number is on the phone in the MAVLab).
 
