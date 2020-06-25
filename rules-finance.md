@@ -1,8 +1,6 @@
 # Buying hardware
 
-_copied from_ [intranet](https://intranet.tudelft.nl/en/-/invoice-for-purchased-goods-and-or-services?inheritRedirect=true) _
-
-## What does it mean?
+_copied from_ [intranet](https://intranet.tudelft.nl/en/-/invoice-for-purchased-goods-and-or-services?inheritRedirect=true)
 
 The purchase of goods and/or services is subject to the TU Delft purchasing policy guidelines. In accordance with this policy, a purchase order must be created for all purchases and the supplier’s invoice must be addressed to TU Delft. Directly purchasing, paying for, and declaring goods yourself is in breach of the guidelines.
 
@@ -12,7 +10,7 @@ The purchase of goods and/or services is subject to the TU Delft purchasing poli
 
 To purchase goods and/or services, a purchase order must be created in Basware Alusta. Each department has a designated purchaser who is responsible for placing orders and who has access to this ordering system.
 
-The submitted order is verified and approved by the Purchasing Team (SSC Finance). The supplier automatically receives an email with the purchase order via the system or receives the order on the Basware Portal. After delivery, the purchaser confirms the purchase order in [Basware Alusta](alusta) that the goods/services have been received.
+The submitted order is verified and approved by the Purchasing Team (SSC Finance). The supplier automatically receives an email with the purchase order via the system or receives the order on the Basware Portal. After delivery, the purchaser confirms the purchase order in [Basware Alusta](Alusta) that the goods/services have been received.
 
 The supplier submits the invoice digitally. There are 2 options for this.
 
@@ -21,7 +19,7 @@ The supplier submits the invoice digitally. There are 2 options for this.
 TIP:
 If the above option is not an option for the supplier, they can register for free on the Basware Portal of the open platform of Basware Network. 
 
-Creating a free account can be created via: https://portal.basware.com/open/TUDelft_Ordering
+Creating a free account can be created via https://portal.basware.com/open/TUDelft_Ordering
 
 If the supplier needs help with this, they can contact our information desk
 
@@ -59,7 +57,7 @@ One of the preferred suppliers is [Farnell](http://www.farnell.nl), a very large
 
 #Add supplier
 
- - email inkoop-finance@tudelft.nl
+ - email to inkoop-finance@tudelft.nl
  - NAW
  - IBAN (geen IBAN, volledige bankgegevens)
  - BTW number
