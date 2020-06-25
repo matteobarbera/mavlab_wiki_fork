@@ -1,8 +1,10 @@
 # Buying hardware
 
+_copied from_ [intranet](https://intranet.tudelft.nl/en/-/invoice-for-purchased-goods-and-or-services?inheritRedirect=true) _
+
 ## What does it mean?
 
-Purchase of goods and/or services are subject to the TU Delft purchasing policy guidelines. In accordance with this policy, a purchase order must be created for all purchases and the supplier’s invoice must be addressed to TU Delft. Directly purchasing, paying for and declaring goods yourself is in breach of the guidelines.
+The purchase of goods and/or services is subject to the TU Delft purchasing policy guidelines. In accordance with this policy, a purchase order must be created for all purchases and the supplier’s invoice must be addressed to TU Delft. Directly purchasing, paying for, and declaring goods yourself is in breach of the guidelines.
 
 # How does it work?
 
@@ -10,7 +12,7 @@ Purchase of goods and/or services are subject to the TU Delft purchasing policy 
 
 To purchase goods and/or services, a purchase order must be created in Basware Alusta. Each department has a designated purchaser who is responsible for placing orders and who has access to this ordering system.
 
-The submitted order is verified and approved by the Purchasing Team (SSC Finance). The supplier automatically receives an email with the purchase order via the system or receives the order on the Basware Portal. After delivery, the purchaser confirms on the purchase order in Basware Alusta that the goods/services have been received.
+The submitted order is verified and approved by the Purchasing Team (SSC Finance). The supplier automatically receives an email with the purchase order via the system or receives the order on the Basware Portal. After delivery, the purchaser confirms the purchase order in [Basware Alusta](alusta) that the goods/services have been received.
 
 The supplier submits the invoice digitally. There are 2 options for this.
 
@@ -34,10 +36,14 @@ The Tax and Customs Administration also imposes certain conditions with respect 
 
 After verification by SSC Finance, the invoice is submitted to the budget holder for approval. After approval, the invoice is exported to the ERP LN administration system. The payment order is dispatched to the bank before the due date to ensure that the invoice is always paid on time. 
 
+# Alusta
+
+[Alusta Tips](Alusta)
+
 # Creditcard
 
  - Wij doen alleen creditcard betalingen als per bank betalen niet mogelijk is.
- - Bijgevoegd een formulier. Deze moet worden ingevuld.
+ - Bijgevoegd een formulier: [CreditCardForm](https://github.com/tudelft/mavlab/raw/master/Creditcard-Kas-GWK%20formulier.xlsx) Deze moet worden ingevuld.
  - De handtekening Budgethouder mag ook een mailtje zijn.
  - Het formulier retourneren in PDF. Wij gaan dan eerst kijken of het akkoord is.
  - Wij werken allemaal thuis. Dus wij moeten vanaf huis de bestelling plaatsen.
@@ -45,7 +51,7 @@ After verification by SSC Finance, the invoice is submitted to the budget holder
  - Wat voor ons nog makkelijker is dat je in je account een winkelwagentje vult.
 
 # Where
-TUDelft has a list of preferred suppliers. **If you can buy** at those supplier **you must** and no other supplier. Call finance 88622 (phone number is on the phone in the MAVLab).
+TUDelft has a list of preferred suppliers. **If you can buy** at those suppliers **you must** and no other supplier. Call finance 88622 (a phone number is on the phone in the MAVLab).
 
 ## Farnell
 
@@ -53,7 +59,14 @@ One of the preferred suppliers is [Farnell](http://www.farnell.nl), a very large
 
 #Add supplier
 
-https://intranet.tudelft.nl/en/-/invoice-for-purchased-goods-and-or-services?inheritRedirect=true
+ - email inkoop-finance@tudelft.nl
+ - NAW
+ - IBAN (geen IBAN, volledige bankgegevens)
+ - BTW number
+ - KvK nummer (binnenlandse leveranciers)
+ - Emailadres (voor de inkooporders)
+
+
 
 # Declarations
 
