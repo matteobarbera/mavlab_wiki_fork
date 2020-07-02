@@ -55,7 +55,7 @@ TUDelft has a list of preferred suppliers. **If you can buy** at those suppliers
 
 One of the preferred suppliers is [Farnell](http://www.farnell.nl), a very large supplier of electronic supplies. The MAVLab orders a large part of its supplies here. If ordered before 18:00 your order will arrive the next day, for free. The MAVLab has a special https://alusta.tudelft.nl/ shop account. If you need to order there but have no access ask fellow workers in the lab if they can help ordering for you.
 
-#Add supplier
+# Add supplier [alusta](alusta)
 
  - email to inkoop-finance@tudelft.nl
  - NAW
