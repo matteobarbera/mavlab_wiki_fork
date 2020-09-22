@@ -89,9 +89,9 @@ Note: If you happen to come across swapped polarity at battery side one **must**
 
 For on very light and  tiny airframes like the Delfly.
  
-2) JST
+2) JST PH2
 
-<img src="../raw/master/photos/standards/connector_JST_2_pins_battery_side_female.jpg" width="25%"/>
+<img src="../raw/master/photos/standards/connector_JST_PH2_2_pins_battery_side_female.jpg" width="25%"/>
 
 On e.g. Eachine Trashcan airframe
 
@@ -105,9 +105,9 @@ On e.g. the Bitcraze Crazyflie airframe.
  
 ### 2s LiPo
 
-<img src="../raw/master/photos/standards/connector_JST_PH2_2pins_battery_side_female.jpg" width="25%"/>
+<img src="../raw/master/photos/standards/connector_JST_RCY_2_pins_battery_side_female.jpg" width="25%"/>
 
-Only one type is in use, if not change the connector to a JST PH Connector
+Only one type is in use, if not change the connector to a JST RCY Connector
 
 ### 3s upto 6s LiPo
 
