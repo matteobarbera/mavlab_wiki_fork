@@ -44,6 +44,7 @@ RFC, more can be added of specific need
 
 * Ubuntu 16.04 64 bit
 * Ubuntu 18.04 64 bit
+* Ubuntu 18.04 64 bit
 * Ubuntu 32/64bit if embedded
 * MS Win10 64Bit
 
@@ -74,7 +75,7 @@ After your Workweek is over, one *must* put the use batteries in storage mode vo
 
 ## Battery Connectors
 
-* 1s, three different types
+### 1s LiPo, three different types
 
 * {TODO} for on very light and  tiny airframes
 * On e.g. Trashcan
@@ -88,19 +89,19 @@ JST-DS 2.0MM 2-Pin Connector also known as a LOSI connector
 
 If you happen to come across swapped poles at battery side one **must** correct the battery. If wrong wires at Drone side one **must** correct it at the drone side.
  
-* 2s
+### 2s LiPo
 
  (RFC replace all by XT30)
 
-* 3s - 6s
+### 3s upto 6s LiPo
 
 For 3s to 6s battery connectors: XT60. Note that in 10sec burst the XT60 holds 150A! and continuous 60A
 
 <img src="../raw/master/photos/standards/connector_XT-60_female.jpg" width="25%"/>
 
-* 6s - 12s
+### 6s upto 12s LiPo
 
-For 6s to 6=12s battery connectors: XT90
+For 6s upto 12s lipo battery connector use a: XT90
 
 # RX Receivers:
 
