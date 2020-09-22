@@ -75,7 +75,7 @@ After your Work-week is over, one *must* put the used LiPo batteries in storage 
 
 ## Battery Connectors
 
-If you are confused about if it is a male or female connector, it is not about the plasic, it is about where **metal is inserted in metal**, remember this and you can figure it out.
+If you are confused about if it is a male or female connector, it is **not about the plastic**, it is about where **metal is inserted in metal**, remember this and you can figure it out.
 
 ### 1s LiPo 
 
