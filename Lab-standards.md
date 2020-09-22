@@ -121,6 +121,12 @@ For 3s to 6s battery connectors: XT60. Note that in 10sec burst the XT60 holds 1
 
 For 6s upto 12s lipo battery connector use a: XT90
 
+### Balancing connector
+
+If there is a Balancing connector on your battery, it **must** be of the JST-XH type. If not change the balancing connector to JST-XH type.
+
+<img src="../raw/master/photos/standards/connector_JST-XH_balancing_battery_side_female.jpg" width="25%"/>
+
 # RX Receivers:
 
 THe Lab has Standardized on FrSky RX or FrSky compatible RX
