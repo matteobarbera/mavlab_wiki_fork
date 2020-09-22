@@ -75,6 +75,8 @@ After your Work-week is over, one *must* put the used LiPo batteries in storage 
 
 ## Battery Connectors
 
+If you are confused about if it is a male or female connector, it is not about the plasic, it is about where **metal is inserted in metal**, remember this and you can figure it out.
+
 ### 1s LiPo 
 
 For 1s LiPo **three** different types of connectors are allowed
@@ -89,7 +91,7 @@ For on very light and  tiny airframes like the Delfly.
  
 2) JST PH2.0
 
-<img src="../raw/master/photos/standards/connector_JST_DS_2.0mm_2Pin_M_F_aka_LOSI.jpg" width="25%"/>
+<img src="../raw/master/photos/standards/connector_JST_2_pins_battery_side_female.jpg" width="25%"/>
 
 On e.g. Eachine Trashcan airframe
 
@@ -103,7 +105,7 @@ On e.g. the Bitcraze Crazyflie airframe.
  
 ### 2s LiPo
 
-<img src="../raw/master/photos/standards/connector_JST_DS_2.0mm_2Pin_M_F_aka_LOSI.jpg" width="25%"/>
+<img src="../raw/master/photos/standards/connector_jST_RCY_battery_side_female.jpg" width="25%"/>
 
 Only one type is in use, if not change the connector to a JST RCY Connector
 
