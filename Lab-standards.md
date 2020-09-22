@@ -105,7 +105,7 @@ On e.g. the Bitcraze Crazyflie airframe.
  
 ### 2s LiPo
 
-<img src="../raw/master/photos/standards/connector_jST_RCY_battery_side_female.jpg" width="25%"/>
+<img src="../raw/master/photos/standards/connector_JST_RCY_battery_side_female.jpg" width="25%"/>
 
 Only one type is in use, if not change the connector to a JST RCY Connector
 
