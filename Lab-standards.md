@@ -82,7 +82,7 @@ After your Workweek is over, one *must* put the use batteries in storage mode vo
 
 * e.g. Crazyflie
 
-<img src="../raw/master/photos/standards/connector_JST_DS_2.0mm_2Pin_M_F_aka_LOSI" width="25%"/>
+<img src="../raw/master/photos/standards/connector_JST_DS_2.0mm_2Pin_M_F_aka_LOSI.jpg" width="25%"/>
 JST-DS LOSI 2.0MM 2-Pin Connector. 
 
 If you happen to come across swapped poles at battery side one **must** correct the battery. If wrong wires at Drone side one **must** correct it at the drone side.
