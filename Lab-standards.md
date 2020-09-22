@@ -38,13 +38,13 @@ Whatver the case try if you can buy via:
 3. Hobbyking
 4. ...
 
-# OS's
+# Development OS's
 
-RFC, more can be added of specific need
+Development Environment RFC, more can be added of specific need. The Lab successfully used:
 
 * Ubuntu 16.04 64 bit
 * Ubuntu 18.04 64 bit
-* Ubuntu 18.04 64 bit
+* Ubuntu 20.04 64 bit
 * Ubuntu 32/64bit if embedded
 * MS Win10 64Bit
 
