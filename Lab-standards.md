@@ -85,7 +85,7 @@ Note: If you happen to come across swapped polarity at battery side one **must**
 
 1) Molex Picoblade
 
-<img src="../raw/master/photos/standards/connector_JST_DS_2.0mm_2Pin_M_F_aka_LOSI.jpg" width="25%"/>
+<img src="../raw/master/photos/standards/connector_molex_1.25mm_2_pin_battery_side_female.jpg" width="25%"/>
 
 For on very light and  tiny airframes like the Delfly.
  
@@ -113,7 +113,7 @@ Only one type is in use, if not change the connector to a JST RCY Connector
 
 For 3s to 6s battery connectors: XT60. Note that in 10sec burst the XT60 holds 150A! and continuous 60A
 
-<img src="../raw/master/photos/standards/connector_XT-60_female.jpg" width="25%"/>
+<img src="../raw/master/photos/standards/connector_XT-60_battery_side_female.jpg" width="25%"/>
 
 ### 6s upto 12s LiPo
 
