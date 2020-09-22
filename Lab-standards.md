@@ -67,31 +67,45 @@ But if you use the airframe to perform other control research or vision base exp
 
 ## Battery Charging
 
-Battery charging is obliged to take part only in charging areas. In the lab 0.44 we have one, in the Cyberzoo we have one.
+Empty battery? Battery charging only in charging areas. In the lab 0.44 we have one, the big shiny cupboard. In the Cyberzoo we have one, look for the text on the tables.
 
 ## Battery Storage
 
-After your Workweek is over, one *must* put the use batteries in storage mode voltage. For this there are several battery storage (de)chargers
+After your Work-week is over, one *must* put the used LiPo batteries in storage mode voltage. For this there are several battery storage (de)chargers. Also a regular charger has a Storage mode.
 
 ## Battery Connectors
 
-### 1s LiPo, three different types
+### 1s LiPo 
 
-* {TODO} for on very light and  tiny airframes
-* On e.g. Trashcan
+For 1s LiPo **three** different types of connectors are allowed
 
+Note: If you happen to come across swapped polarity at battery side one **must** correct the battery. If wrong polarity at Drone side one **must** correct it at the drone side.
 
-* e.g. Crazyflie
+1) Molex Picoblade
+
+<img src="../raw/master/photos/standards/connector_JST_DS_2.0mm_2Pin_M_F_aka_LOSI.jpg" width="25%"/>
+
+For on very light and  tiny airframes like the Delfly.
+ 
+2) JST PH2.0
+
+<img src="../raw/master/photos/standards/connector_JST_DS_2.0mm_2Pin_M_F_aka_LOSI.jpg" width="25%"/>
+
+On e.g. Eachine Trashcan airframe
+
+3) JST-DS 
 
 <img src="../raw/master/photos/standards/connector_JST_DS_2.0mm_2Pin_M_F_aka_LOSI.jpg" width="25%"/>
 
 JST-DS 2.0MM 2-Pin Connector also known as a LOSI connector
 
-If you happen to come across swapped poles at battery side one **must** correct the battery. If wrong wires at Drone side one **must** correct it at the drone side.
+On e.g. the Bitcraze Crazyflie airframe.
  
 ### 2s LiPo
 
- (RFC replace all by XT30)
+<img src="../raw/master/photos/standards/connector_JST_DS_2.0mm_2Pin_M_F_aka_LOSI.jpg" width="25%"/>
+
+Only one type is in use, if not change the connector to a JST RCY Connector
 
 ### 3s upto 6s LiPo
 
