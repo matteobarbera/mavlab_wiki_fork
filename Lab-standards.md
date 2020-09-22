@@ -78,20 +78,28 @@ After your Workweek is over, one *must* put the use batteries in storage mode vo
 
 * {TODO} for on very light and  tiny airframes
 * On e.g. Trashcan
+
+
 * e.g. Crazyflie
 
+<img src="../raw/master/photos/standards/connector_JST_DS_2.0mm_2Pin_M_F_aka_LOSI" width="25%"/>
+JST-DS LOSI 2.0MM 2-Pin Connector. 
+
+If you happen to come across swapped poles at battery side one **must** correct the battery. If wrong wires at Drone side one **must** correct it at the drone side.
+ 
 * 2s
 
-RFC  {TODO} These or these XT30
+ (RFC replace all by XT30)
 
 * 3s - 6s
 
-Battery for 3 to 6 S connectors: XT60 more amps then 2x XT60 side by side ;)
-Note that in 10sec burst the XT60 holds 150A! and continuous 60A
+For 3s to 6s battery connectors: XT60. Note that in 10sec burst the XT60 holds 150A! and continuous 60A
 
 <img src="../raw/master/photos/standards/connector_XT-60_female.jpg" width="25%"/>
 
-Why: Less time spend on So they can be used without conversion Soldered everywhere over time
+* 6s - 12s
+
+For 6s to 6=12s battery connectors: XT90
 
 # RX Receivers:
 
@@ -112,17 +120,20 @@ ALL receivers in the lab should be FrSky or compatible, if not the AC should get
 
 # RX FIRMWARE
 
-If using an R-XSR the Firmware MUST be [v190311 EU LBT](https://github.com/tudelft/tx_configs/raw/master/taranis_x9dp_se/fs/FIRMWARE/R-XSR_LBT_190311.frk), reflash possible via STK module or via a Taranis X9D transmitter with specific flashing cable in the transport box.
+If using an R-XSR the Firmware **MUST** be [v190311 EU LBT](https://github.com/tudelft/tx_configs/raw/master/taranis_x9dp_se/fs/FIRMWARE/R-XSR_LBT_190311.frk), reflash possible via STK module or via a Taranis X9D transmitter with specific flashing cable in the transport box.
 
 # Data Transmission
 
-## Wifi based on ESP8266 or build in wifi
-[*MUST* use this firmware](htpp://)
+## Wifi based small ESP8266(85) module [*MUST* use this firmware](https://github.com/paparazzi/esp8266_udp_firmware)
+
+## Build in WiFi
+
 ## XBee Pro S1
 
 <img src="../raw/master/photos/parts/tranceiver-xbee-pro-s1_01.jpg" width="25%"/>
 
 [*MUST* use Firmware version 10EF - XBee 802.15.4](https://www.digi.com/products/embedded-systems/digi-xbee/digi-xbee-tools/xctu) 
+
 ## Herelink
 
 <img src="../raw/master/photos/parts/tranceiver-herelink-onboard-module-01.jpg" width="25%"/>
@@ -131,16 +142,16 @@ If using an R-XSR the Firmware MUST be [v190311 EU LBT](https://github.com/tudel
 
 ## Si10xx
 Modem Si10xx 868/900 based modems, So *not* the new RFD900_emp32
-Connector RP-SMA female for signal out, maning antennas have a RP-SMA Male
+**Connector modem-side RP-SMA female** for signal out, meaning **antennas** must have a RP-SMA **Male**
 [*MUST* use this Firmware](http://) 
 
 ## Telemetry FrSky
 
-Whenever RX telemetry output is not needed, 99% of cases, it should be disabled in RC transceiver
+Whenever RX telemetry output is not needed, 99% of cases, it should be disabled in RC transceiver this to minimize telemetry over 2.4Ghz interference.
 
 # OS's
 
-## Ubuntu 16.04.x or 18.04.x
+## Ubuntu 16.04.x, 18.04.x, 20.04.x
 In 64Bit, or if on 32Bitonly MCU, the 32bit variant
 
 ## Windows
@@ -164,7 +175,7 @@ Why: robust, versatile, available, cheap, hardfloat F4, SD card
 Why: Fits certain projects light small
 # Parrot based boards ARDrone2, Bebop, Bebop2, Disco: 
 Why: No need to build something, cheaply available
-# Crazybee F4 Pro board
+# Crazybee F4 Pro board v2.1 or higher
 Why: complete, light, cheap, available, hardfloat F4. cc2500 chip usable for mesh networks
 
 # Web technology: 
