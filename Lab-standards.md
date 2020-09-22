@@ -89,15 +89,15 @@ Note: If you happen to come across swapped polarity at battery side one **must**
 
 For on very light and  tiny airframes like the Delfly.
  
-2) JST PH2.0
+2) JST
 
 <img src="../raw/master/photos/standards/connector_JST_2_pins_battery_side_female.jpg" width="25%"/>
 
 On e.g. Eachine Trashcan airframe
 
-3) JST-DS 
+3) JST DS 
 
-<img src="../raw/master/photos/standards/connector_JST_DS_2.0mm_2Pin_M_F_aka_LOSI.jpg" width="25%"/>
+<img src="../raw/master/photos/standards/connector_JST_DS_2.0mm_2_pins_battery_side_female_aka_LOSI.jpg" width="25%"/>
 
 JST-DS 2.0MM 2-Pin Connector also known as a LOSI connector
 
@@ -105,9 +105,9 @@ On e.g. the Bitcraze Crazyflie airframe.
  
 ### 2s LiPo
 
-<img src="../raw/master/photos/standards/connector_JST_RCY_battery_side_female.jpg" width="25%"/>
+<img src="../raw/master/photos/standards/connector_JST_PH2_2pins_battery_side_female.jpg" width="25%"/>
 
-Only one type is in use, if not change the connector to a JST RCY Connector
+Only one type is in use, if not change the connector to a JST PH Connector
 
 ### 3s upto 6s LiPo
 
@@ -116,6 +116,8 @@ For 3s to 6s battery connectors: XT60. Note that in 10sec burst the XT60 holds 1
 <img src="../raw/master/photos/standards/connector_XT-60_battery_side_female.jpg" width="25%"/>
 
 ### 6s upto 12s LiPo
+
+<img src="../raw/master/photos/standards/connector_XT-90_battery_side_female.jpg" width="25%"/>
 
 For 6s upto 12s lipo battery connector use a: XT90
 
