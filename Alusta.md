@@ -14,7 +14,7 @@ Go back to finance [rules-finance](rules-finance)
 * Account code **284199** for Project codes
 * Project **Baancode Project**
 * DIM1: **Empty**
-* Fill: 'Cost category type' and 'Structure part'
+* Fill: 'Cost category type' **Materiaal** and 'Structure part'
 * Cost category: **98464600, Electronisch/electrotech. mate**
 
 ## Multiple Lines
