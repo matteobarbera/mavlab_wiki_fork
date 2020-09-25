@@ -15,6 +15,7 @@ Ingredients:
 * Aramid (==kevlar)
 * 2x AXI 2808/24 motor
 * 2x [MKS HV6130](https://www.hyperflight.co.uk/products.asp?code=MKS-HV6130) servo. This servo needs to work on 8V. Alternatively, try [KST DS125MG](https://www.hyperflight.co.uk/products.asp?code=KST-DS125MG&name=kst-ds125mg-wing-servo-7-0kg-cm-0-12s-27g-10mm).
+* [Jeti SBEC](http://www.jetimodel.com/en/katalog/Accessories/BEC-Regulators-Switches/@produkt/SBEC/) or equivalent in order to have the servos on the right voltage
 * 2x [Propeller 8"x5](https://flyduino.net/HQProp-8x5B-2032cm-Bullnose-Propeller-Set-black-4-pcs-glass-reinforced)
 * 2x 24A KISS race ESC
 * Ublox NEO-M8N GPS + HMC5983 compass
