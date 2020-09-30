@@ -62,8 +62,8 @@ But if you use the airframe to perform other control research or vision base exp
 * Bebop2
 * Mambo
 * Disco
-* Trashcan
-* Crazyfly2
+* Trashcan with Frsky RX
+* Crazyfly v2.1
 * Quadshot
 
 ## Battery Charging
