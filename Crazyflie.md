@@ -6,6 +6,7 @@
 - [Firmware documentation](https://www.bitcraze.io/documentation/repository/crazyflie-firmware/master/building-and-flashing/build_instructions/)
 - [Docs for other repos](https://www.bitcraze.io/documentation/repository/)
 - [Wiki](https://wiki.bitcraze.io/) (is being replaced by the documentation above, but still holds some additional information)
+- [Forum](https://forum.bitcraze.io/) (probably the most valuable source of information!)
 
 # Cyberzoo flight
 
