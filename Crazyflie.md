@@ -21,7 +21,7 @@ The Loco Positioning System allows for absolute position measurements using UWB 
 
 # 3D printer files
 
-TBA
+- [Bumper](../raw/master/print_files/UM3_cf_bumper.gcode)
 
 # Custom decks/boards
 
