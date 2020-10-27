@@ -1,6 +1,6 @@
 
 ## 2D printed wing sticker
-- Ordered at (mailto:info@fastgoodreclame.nl) Client number: 3591
+- Ordered at (info@fastgoodreclame.nl) Client number: 3591
 - Size: the top edge of the rectangular bar should still be 28cm for Delfly Nimble and 22cm for Delfly Mini.
 - Material: Avery Doll 1400
 - Special requirement to manufacturer: don't apply an application foil and peel the stickers.
