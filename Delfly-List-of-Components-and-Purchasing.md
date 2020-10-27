@@ -24,8 +24,8 @@ Check [this page](https://github.com/tudelft/mavlab/wiki/tutorials-flashBLHeli) 
 | Pinion | M0.3, 9 teeth, 0.97 mm bore| [Didel](https://www.didel.com/en/shop/g309-097/) |
 | Control mechanism | Custom, 3D printed | [ShapeWays](www.shapeways.com) |
 | Wings-Mylar foil | Mylar foil 15um | [FreeFlightsupplies](https://www.freeflightsupplies.co.uk/index.php/products/lightweight-covering-materials) |
-| Wings-sticker | Custom - material: Avery Doll 1400 | [FastGoodReclame](https://www.fastgoodreclame.nl/)  |
-| Wings-carbon | D profile 1.4 mm, round 0.28 mm | [RobotBirds](https://www.robotbirds.co.uk/default/building-materials/carbon-rod-tube-strip.html) |
+| [Wings-Sticker](https://github.com/tudelft/mavlab/wiki/2D-&-3D-Models#2d-printed-wing-sticker) | Custom - material: Avery Doll 1400 | [FastGoodReclame](info@fastgoodreclame.nl)  |
+| Wings-Carbon | D profile 1.4 mm, round 0.28 mm | [RobotBirds](https://www.robotbirds.co.uk/default/building-materials/carbon-rod-tube-strip.html) |
 | Fuselage-carbon | Square tube 2 mm, round hole 1 mm | [Carbon-shop](http://www.carbon-shop.eu/modified/Carbon-Fibre-Tubes-pultruded/Square-Tubes-O/Square-Carbon-Fibre-Tube-2-0x2-0-x-1000-mm::37.html) |
 | Carbon Axles | Carbon tube 1 mm | [RobotBirds](https://www.robotbirds.co.uk/default/building-materials/carbon-rod-tube-strip.html) |
 | Rivets | Steel rivets 1 mm x 14 mm, 0.78 mm x 8 mm | Jean-Daniel Nicoud nicoud@didel.com |
