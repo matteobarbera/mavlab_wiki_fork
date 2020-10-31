@@ -17,5 +17,8 @@ Go back to finance [rules-finance](rules-finance)
 * Fill: 'Cost category type' **Materiaal** and 'Structure part'
 * Cost category: **98464600, Electronisch/electrotech. mate**
 
+## Ready
+* EDIT (not ADD)
+
 ## Multiple Lines
 * Select the line with CORRECT details and click **Copy Line**
