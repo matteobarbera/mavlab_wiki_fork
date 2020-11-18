@@ -1,5 +1,10 @@
 Go back to finance [rules-finance](rules-finance)
 
+ordering: inkoop-finance@tudelft.nl
+forward invoices to: info-finance@tudelft.nl (then they will contact the company to tell them how to digitally send invoices to invoice-finance@tudelft.nl)
+
+
+
 Use firefox or internet explorer (not chrome/edge) if you use webshops.
 
 ## Header data
