@@ -32,7 +32,21 @@ Enter the Purchase Order number on the invoice or in the Portal. The purchase or
 
 The Tax and Customs Administration also imposes certain conditions with respect to the purchase invoice. An invoice that does not meet these conditions will not be processed.
 
-After verification by SSC Finance, the invoice is submitted to the budget holder for approval. After approval, the invoice is exported to the ERP LN administration system. The payment order is dispatched to the bank before the due date to ensure that the invoice is always paid on time. 
+preferred After verification by SSC Finance, the invoice is submitted to the budget holder for approval. After approval, the invoice is exported to the ERP LN administration system. The payment order is dispatched to the bank before the due date to ensure that the invoice is always paid on time. 
+
+# Examples
+
+## Example 1
+
+[Here is a page where you can follow steps we took to acquire a certain product from an existing preferred supplier direct webshop](ProcurementExampleExistingWebshopSupplier)
+
+## Example 2
+
+[Here is a page where you can follow steps we took to acquire a certain product from an existing supplier](ProcurementExampleExistingSupplier)
+
+## Example 3
+
+[Here is a page where you can follow steps we took to acquire a certain product from a new supplier](ProcurementExampleNewSupplier)
 
 # Alusta
 
@@ -58,13 +72,11 @@ One of the preferred suppliers is [Farnell](http://www.farnell.nl), a very large
 # Add supplier [alusta](alusta)
 
  - email to inkoop-finance@tudelft.nl
- - NAW
- - IBAN (geen IBAN, volledige bankgegevens)
- - BTW number
- - KvK nummer (binnenlandse leveranciers)
- - Emailadres (voor de inkooporders)
-
-
+ - Name, Address, Zip, City (NAW)
+ - Full bank account details, not IBAN only
+ - VAT number (BTW)
+ - Chamber of Commerce ID (KvK nummer), For Dutch supplier
+ - Emailaddress needed for "inkooporders"
 
 # Declarations
 
@@ -97,6 +109,8 @@ The sheet also helps you to keep track of your declarations and can send you a r
 
 # Ordering through Finance
 
+The non preferred "old" way:
+
 Chances are, if you work in the MAVLab at some point you will need to order parts, tools, or other lab equipment. To do so you can pay for the parts yourself and be reimbursed by the finance department. This is the quickest way to place orders, but this method opens the buyer up to a period of financial strain while the finance department processes the reimbursement. To avoid spending your own money there are two other ways to place orders using C1 or C5 forms.
 
 # C5 Forms:
@@ -109,8 +123,7 @@ TL;DR
 * Check that you and supplier have received a purchase order and **invoice** via email.
 * Email and call finance every day until the part arrives. Try to work with the same person for continuity’s sake.
 
-
-This is the standard way to place an order with finance. Download a C5 form, complete it, and print it. If the order is for less than €1000 then Bertine Markus can approve the form, if not, it must be approved by her supervisor. Take the printed form to Bertine and get the necessary signature. She is not always in her office, but she tends to be present earlier in the day and is very friendly. 
+This is the standard older way to place an order with finance. Download a C5 form, complete it, and print it. If the order is for less than €1000 then Bertine Markus can approve the form, if not, it must be approved by her supervisor. Take the printed form to Bertine and get the necessary signature. She is not always in her office, but she tends to be present earlier in the day and is very friendly. 
 
 After obtaining the necessary signatures, scan the form and convert it to a PDF. If you are ordering from multiple suppliers, do not combine the images into a single PDF.  Email the scans to inkoop-finance@tudelft.nl with a quick note stressing that it is important your order is processed as soon as possible. At this point, the order will enter the finance department’s program. It may stagnate here for up to 30 days before the finance department contacts the supplier.
 
