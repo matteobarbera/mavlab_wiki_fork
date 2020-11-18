@@ -3,7 +3,7 @@ Go back to finance [rules-finance](rules-finance)
 Use firefox or internet explorer (not chrome/edge) if you use webshops.
 
 ## Header data
-* Inkoopcategorie : **- Aanschaf hardware overig**
+* Inkoopcategorie : **- Aanschaf hardware overig**  (make sure you select one with a - sign and not with a down arrow)
 * put your own description in **purpose**
 
 ## Line data
