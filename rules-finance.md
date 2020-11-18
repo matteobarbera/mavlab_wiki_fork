@@ -43,7 +43,7 @@ After verification by SSC Finance, the invoice is submitted to the budget holder
  - Wij doen alleen creditcard betalingen als per bank betalen niet mogelijk is.
  - Bijgevoegd een formulier: [CreditCardForm](https://github.com/tudelft/mavlab/raw/master/Creditcard-Kas-GWK%20formulier.xlsx) Deze moet worden ingevuld.
  - De handtekening Budgethouder mag ook een mailtje zijn.
- - Het formulier retourneren in PDF. Wij gaan dan eerst kijken of het akkoord is.
+ - Het formulier retourneren in PDF (liquiditeiten-finance@tudelft.nl). Wij gaan dan eerst kijken of het akkoord is.
  - Wij werken allemaal thuis. Dus wij moeten vanaf huis de bestelling plaatsen.
  - We hebben dan inlogcodes nodig en precies in een mailtje wat er besteld moet worden.
  - Wat voor ons nog makkelijker is dat je in je account een winkelwagentje vult.
