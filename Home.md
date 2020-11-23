@@ -105,5 +105,7 @@ The following demos can be demo'ed out of the box if there is a checkbox in fron
 - [ ] [Damaged Drone recovery](Demo-Damaged-Drone-Recovery)
 - [x] [Delfly Nimble](Demo-Delfly-Nimble)
 - [ ] [Delftacopter](Demo-Delftacopter)
+- [ ] [Cooperative Swarm](Demo-Cooperative-Swarm)
+- [ ] [100% Autonomous Quadshot Flight](100pct-Autonomous-Quadshot-Flight)
 
-TIP: Add yoursto this list if you have demoable setups
+TIP: Get famous and add your demo to this list as soon as you have a demoable setup
