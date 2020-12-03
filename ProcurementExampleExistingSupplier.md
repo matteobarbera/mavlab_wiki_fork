@@ -1,6 +1,11 @@
-Example
+# Procurement Example Existing Supplier
 
-# The Product
+On this page you can track how the flow was of ordering a product of a supplier who was already in the [TU Delft ordering system](Alusta) 
+
+Q: How do I know the supplier is already in our system?
+A: Log into Alusta and look at supliers, that is NOT a webshop
+
+## The Product
 
 In the lab internally agreed was that there was a need to upgrade [the motion capture system](https://optitrack.com/software/motive/tracker/) in the Windtunnel with new cameras to have finally a reliable system. The system generates a pointcloud of moving object and also can be use as vitrual GPS system inside the OJF windtunnel to let drones fly autonomous. To upgrade we needed 16 extra [Optitrack Primex 22 cameras](https://optitrack.com/cameras/primex-22/)
 
