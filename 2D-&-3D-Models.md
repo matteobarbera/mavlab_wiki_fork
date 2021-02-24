@@ -2,8 +2,8 @@
 ## 2D printed wing sticker
 - Ordered at (info@fastgoodreclame.nl) Client number: 3591
 - Size: the top edge of the rectangular bar should still be 22cm for Delfly Mini and 28cm for Delfly Nimble.
-  - [Delfly Mini wing sticker file](https://github.com/tudelft/mavlab/blob/master/pdf/delfly/tapeShape22cm_DelflyMini.eps)
-  - [Delfly Nimble wing sticker file](https://github.com/tudelft/mavlab/blob/master/pdf/delfly/tapeShape28cm_DelflyNimble.eps)
+  - [Delfly Mini wing sticker file](https://github.com/tudelft/mavlab/blob/master/pdf/delfly/tapeShape22cm.eps)
+  - [Delfly Nimble wing sticker file](https://github.com/tudelft/mavlab/blob/master/pdf/delfly/tapeShape28cm.eps)
 - Material: Avery Doll 1400
 - [Example file to manufacturer](https://github.com/tudelft/mavlab/blob/master/pdf/delfly/stickerPrintExampleFile_DelflyNimble.pdf)
 - Special requirement to manufacturer: don't apply an application foil and peel the stickers.
