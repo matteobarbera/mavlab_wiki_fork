@@ -20,7 +20,7 @@ The supplier responded and the price was deducted to be agreeable by us. Since t
 
 1. Asked the supplier to email us the final offering per PDF
 
-1. Retrieved the BAAN code needed for a purchase order from Guido, see page {TODO} on who to contact else
+1. Retrieved the BAAN code needed for a purchase order from Guido de Croon, else ask Bart Remes or Christophe
 
 1. Logged into Alusta{TODO linkhere}
 
