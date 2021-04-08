@@ -4,13 +4,7 @@ All outdoor Remotely Piloted Air Systems are registered and tracked in the MavLa
 
 https://github.com/tudelft/Operations/tree/master/Outdoor_Flight/Releases/rpas
 
-YES, some cleaning up to do...
-The advantage of a Wiki
 ----
-
-# Introduction
-
-The TU Delft University of Technology, The Netherlands has a MAVLab. Our Hangar contains various UA. This page is the entry-point to their specifications
 
 # Airframes
 
