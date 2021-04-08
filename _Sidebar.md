@@ -8,7 +8,7 @@
   - [Wiki](#wiki)
 - [Projects :timer_clock:](https://trello.com/b/FelPdV49/mavlab-overview)
 - [Courses :man_technologist:](#courses)
-- [Robots :robot:](#robots)
+- [Robots :robot:](../wiki/robots)
 - [Batteries](#batteries)
 - [Chemicals :boom:](#chemicals)
 - [Equipment :wrench:](../wiki/equipment)
