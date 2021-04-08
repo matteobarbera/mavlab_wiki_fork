@@ -14,6 +14,9 @@ The TU Delft University of Technology, The Netherlands has a MAVLab. Our Hangar 
 
 # Airframes
 
+* [Nederdrone](../Nederdrone)
+* [Cyclone](../drone-cyclone)
+
 The MAVLab department of TU Delft has a lot of experimental aircraft. There are also some "Workhorses", regular UA where only the payload changes. To avoid duplicate information and the effort that comes with maintaining the correct information, [the airframes available in the Lab can be found in this database system ](http://log.mavlab.info/)
 
 Maintenance history and flightlog data also can be found [in the same database](http://log.mavlab.info/)
