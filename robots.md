@@ -9,7 +9,7 @@ https://github.com/tudelft/Operations/tree/master/Outdoor_Flight/Releases/rpas
 # Airframes
 
 * [[Nederdrone]]
-* [[Cyclone]|drone-cyclone]
+* [[Cyclone|drone-cyclone]]
 
 The MAVLab department of TU Delft has a lot of experimental aircraft. There are also some "Workhorses", regular UA where only the payload changes. To avoid duplicate information and the effort that comes with maintaining the correct information, [the airframes available in the Lab can be found in this database system ](http://log.mavlab.info/)
 
