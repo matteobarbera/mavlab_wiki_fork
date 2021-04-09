@@ -35,4 +35,4 @@ Q1: What if the cameras don't collect any samples during the wanding process?
 * To start, we should go to toolbar `Edit` and then click `Reset Application Settings`. Please try this before attempting your next calibration, and try not to change many settings to see if Motive is able to calibrate in a default state. 
 * When doing the above step, please also check your calibration wand. Currently we have the CW-500, there are two configurations. The markers on the wand must either all be screwed into the "A" holes or into the "B" holes. The two cannot be mixed.
 
-<span style="color:red"> *When finishing using the OptiTrack system, before leaving the Cyberzoo, please turn off the Cyberzoo light and leave the curtains open in case of fire hazard.* text</span>.
+** When finishing using the OptiTrack system, before leaving the Cyberzoo, please turn off the Cyberzoo light and leave the curtains open in case of fire hazard.**
