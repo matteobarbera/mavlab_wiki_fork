@@ -13,17 +13,13 @@ Welcome to the **MAVLab wiki**!
 
 # Lab standards
 
-<img src="../raw/master/photos/standards/standards_comic_01.gif" width="75%"/>
+Please use S.I. everywhere, then there is less confusion around the globe and there will be fewer marslander crashes ;)		
 
-Soaring free like an eagle :eagle: would be our main motto. One small kink, if you soar in the lab, you need to adhere to some standards. That is good thing, since it will save you time along the way.
-
-Please use S.I. everywhere, then there is less confusion around the globe and there will be less marslander crashes ;)		
-
-## Papers :page_facing_up:
+## Papers
 
  * When writing papers and you want to publish, first go through the [Publishing checklist](publishchecklist) to see if you document adheres to the lab standard
 
-## Ordering :euro:
+## Ordering
 
  * If you order anything, you **must** read the [finance rules](rules-finance) first.
 
@@ -31,7 +27,7 @@ Please use S.I. everywhere, then there is less confusion around the globe and th
 
  * [Read about the standards in the MAVLab for hardware, software and whatnot...](Lab-standards)
 
-## Flight Operations Manuals :books:
+## Flight Operations Manuals
 
  * If you want to operate your flying device **indoor**, [go to these OPS pages](http://www.github.com/tudelft/Operations)
  * If you want to operate your flying device **outdoor**, [read about it on the OPS pages](http://www.github.com/tudelft/Operations)
@@ -41,18 +37,18 @@ Please use S.I. everywhere, then there is less confusion around the globe and th
  * The markup of the MAVLab wiki should be in MARKDOWN (.md) format
  * [Links should be RELATIVE Links](relative-links-in-wiki) if the information is contained _inside this wiki_.
 
-# Projects :timer_clock:
+# Projects
 
 <img src="../raw/master/photos/standards/project_comic_01.gif" width="75%"/>
 
  * [Here in Trello you find the most up to date list](https://trello.com/b/FelPdV49/mavlab-overview) of people and projects
 
-# Courses :man_technologist:
+# Courses
 
  * Paparazzi Vision Based Control [Website](https://tudelft.github.io/coursePaparazzi/) and [Source](https://github.com/tudelft/coursePaparazzi) and [videos](https://www.youtube.com/playlist?list=PL_KSX9GOn2P_LUXJOQxc6PLr7c7eTUs98)
  * [Optic Flow Notebook](https://mybinder.org/v2/gh/guidoAI/optic_flow_control_notebook.git/master)
 
-# Robots :robot:
+# Robots
 
  * Our [[robots]] or call 'em airframes if you like
  * [[The Delfly Family]]
@@ -61,17 +57,17 @@ Please use S.I. everywhere, then there is less confusion around the globe and th
 
 It is that most batteries could just burst in flames if not handled correctly. So a must-read [whole chapter about proper charging, handling and storage of Batteries](batteries)
 
-# Chemicals :boom:
+# Chemicals
 
 Building things and need specific chemicals, e.g. quality epoxy, then [this page might be of help](chemicals)
 
-# Equipment :wrench:
+# Equipment
 
 <img src="../raw/master/photos/standards/equipment_comic_01.gif" width="75%"/>
 
 Building nifty devices and need tools, [read about all the tools at your disposal here](equipment)
 
-# Tutorials :beginner:
+# Tutorials
 
 <img src="../raw/master/photos/standards/courses_comic_01.gif" width="75%"/>
 
@@ -89,7 +85,7 @@ Tutorials are best published publicly on e.g. http://wiki.paparazziuav.org. If i
 
 # SmartUAV
 
-SmartUAV is a UAV simulation platform developed by the MavLab to investigate Many aspects of UAV implementation. It provides a framework to do research into all areas of UAV development ranging from advanced Graphical User Interfaces (GUIs) to investigate Human Machine Interaction (HMI) to novel vision based control and guidance algorithms. Being designed and maintained in-house, SmartUAV can be altered and updated as the user requires.
+SmartUAV is a UAV simulation platform developed by the MavLab to investigate Many aspects of UAV implementation. It provides a framework to do research into all areas of UAV development ranging from advanced Graphical User Interfaces (GUIs) to investigate Human-Machine Interaction (HMI) to novel vision-based control and guidance algorithms. Being designed and maintained in-house, SmartUAV can be altered and updated as the user requires.
 
 [Read all about how to use it to your research advantage on the SamartUAV page](SmartUAV)
 
