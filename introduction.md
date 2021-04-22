@@ -1,6 +1,6 @@
 # MAVLab Introduction page
 
-Welcome to the [MAVLab](http://mavlab.tudelft.nl/) !
+Welcome to the [MAVLab](http://mavlab.tudelft.nl/)!
 
 The most important stuff you should know are the lab rules and regulations. It is mandatory that you have read and understood this section before you can start your work at the lab.
 
@@ -8,7 +8,7 @@ The most important stuff you should know are the lab rules and regulations. It i
 ## Cleaning policy
 Clean up your desk every Friday. This means completely empty. 
 
-## Which airframes can I take? =
+## Which airframes can I take?
 
 1. Ask Erik when you want to use a specific airframe 
 1. He will give you the airframe and register it to your name, 
