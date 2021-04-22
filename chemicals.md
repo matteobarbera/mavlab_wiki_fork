@@ -8,11 +8,11 @@ Here the list of chemicals available in stock and usable for UA build and repair
 
 1. Choose the product, write down the Chemical Stock ID:
 
-Please order the chemicals back from LM, via .
+Please order the chemicals back from LM, via:
 
 Using the 06LR…… numbers.
-1. Emial you wished this list mailto:A.H.Robertus@tudelft.nl and CC Lijing Xue mailto:L.Xue@tudelft.nl with the following test in the email body: ''Dear chemical material support, I hereby requst the following materials for use:''
-1. Go to the chemical pick-up point the next day or after you have got and acknowledge email from the chemical storage facility.
+1. Email your wishlist to mailto:A.H.Robertus@tudelft.nl and CC Lijing Xue mailto:L.Xue@tudelft.nl with the following test in the email body: ''Dear chemical material support, I hereby request the following materials for use:''
+1. Go to the chemical pick-up point the next day or after you have got an acknowledge email from the chemical storage facility.
 
 That's it!
 
