@@ -4,8 +4,8 @@ In order to distribute the organizational burden, responsibility for different t
 
 | Item  | Person | email |
 | ------------- | ------------- | ------------- |
-| MAVLab Website | | |
 | This Wiki | Ewoud Smeur | e.j.j.smeur@tudelft.nl|
+| MAVLab Website | Julien Dupeyroux | j.j.g.dupeyroux@tudelft.nl |
 | Mailing list | Ewoud Smeur | e.j.j.smeur@tudelft.nl|
 | Mavlab Meetings | Shushuai Li | S.Li-6@tudelft.nl |
 | Cyberzoo agenda | Guido de Croon | G.C.H.E.deCroon@tudelft.nl |
