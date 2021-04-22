@@ -12,3 +12,4 @@ In order to distribute the organizational burden, responsibility for different t
 | Lab organization | Erik van der Horst | E.vanderHorst@tudelft.nl |
 | 3D printers | | |
 | Crazyflie hardware | Sven Pfeiffer | S.U.Pfeiffer@tudelft.nl|
+| Twitter channel | | |
