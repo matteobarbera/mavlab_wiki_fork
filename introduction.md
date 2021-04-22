@@ -181,7 +181,7 @@ Use a program like [TortoiseSVN](http://tortoisesvn.net/) (for windows) to easil
 
 ### Photo/movies harddisk
 
-The MAVLab has 1 GROUP drive at TUDelft (with automatic backups). http://webdata.tudelft.nl/ groups, LR, CO, MavLab. Only staff/phd can get access. Email the ServicepuntLR@tudelft.nl to request access.
+The MAVLab has 1 GROUP drive at TUDelft (with automatic backups). http://webdata.tudelft.nl/ groups, LR, CO, MavLab. Only staff/phd can get access. The folder manager (= who?) or the secretary (Bertine Markus) can request access via the service desk ServicepuntLR@tudelft.nl.
 
 There exists a harddisk for saving all photos and movies. Ask Erik for more information.
 
