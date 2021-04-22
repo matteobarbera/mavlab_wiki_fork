@@ -4,7 +4,7 @@
   - [Papers](#papers-page_facing_up)
   - [Ordering](#ordering-euro)
   - [Common](#common)
-  - [Flight Operations Manuals :books:](#flight-operations-manuals-books)
+  - [Flight Operations Manuals](#flight-operations-manuals-books)
   - [Wiki](#wiki)
 - [Projects](https://trello.com/b/FelPdV49/mavlab-overview)
 - [Courses](#courses)
