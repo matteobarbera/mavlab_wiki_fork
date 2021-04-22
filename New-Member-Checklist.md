@@ -8,3 +8,4 @@ Congratulations! You joined the MAVLab, which means you're going to have an awes
 - [ ] Make sure your information is on the staff page of the C&S website [Andries Muis](mailto:A.Muis@tudelft.nl).
 - [ ] Get added to the mailing list (see [responsible persons](Responsible-Persons)).
 - [ ] You can get a laptop via [Harold Thung](mailto:E.H.H.Thung@tudelft.nl). Normally, the available options are listed [here](https://www.tudelft.nl/ict-handleidingen/ict-hardware/ict-hardware). Also involve your supervisor in the process. You will need a baancode to order the laptop, ask your supervisor about this.
+- [ ] Get access to the microuav calendar via microuav@gmail.com (ask your supervisor for the password).
