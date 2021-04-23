@@ -9,7 +9,9 @@ Welcome to the **MAVLab wiki**!
 # Introduction
 
  * [[Introduction]] for newcomers, a **must read** if you want to have success in the MAVLab
+ * Complete the [[New-Member-Checklist]] to get settled!
  * If you are graduating at C&S also look [here](http://cswiki.lr.tudelft.nl/students/graduation)
+ * If you want to do something with a certain facility of the lab, first find the [responsible person](../Responsible-Persons).
 
 # Lab standards
 
