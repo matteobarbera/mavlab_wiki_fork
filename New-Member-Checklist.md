@@ -1,4 +1,4 @@
-# New MAVLab Members
+# New MAVLab Members (staff, including PhD students)
 
 Congratulations! You joined the MAVLab, which means you're going to have an awesome time! But to make sure of this, please follow the checklist below to get settled properly.
 
