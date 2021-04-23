@@ -10,6 +10,7 @@ In order to distribute the organizational burden, responsibility for different t
 | Mavlab Meetings | Shushuai Li | S.Li-6@tudelft.nl |
 | Cyberzoo agenda | Guido de Croon | G.C.H.E.deCroon@tudelft.nl |
 | Lab organization | Erik van der Horst | E.vanderHorst@tudelft.nl |
-| 3D printers | | |
+| 3D printer Chiron |Julien Dupeyroux | j.j.g.dupeyroux@tudelft.nl |
+| 3D printer Ultimaker | Alessandro Mancinelli | A.Mancinelli@tudelft.nl|
 | Crazyflie hardware | Sven Pfeiffer | S.U.Pfeiffer@tudelft.nl|
-| Twitter channel | | |
+| Twitter channel | This could be you! | |
