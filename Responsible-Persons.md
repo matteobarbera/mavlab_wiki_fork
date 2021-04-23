@@ -14,3 +14,4 @@ In order to distribute the organizational burden, responsibility for different t
 | 3D printer Ultimaker | Alessandro Mancinelli | A.Mancinelli@tudelft.nl|
 | Crazyflie hardware | Sven Pfeiffer | S.U.Pfeiffer@tudelft.nl|
 | Twitter channel | Salua Hamaza | S.Hamaza@tudelft.nl|
+| SVN / Github access | Christophe de Wagter | C.deWagter@tudelft.nl |
