@@ -13,4 +13,4 @@ In order to distribute the organizational burden, responsibility for different t
 | 3D printer Chiron |Julien Dupeyroux | j.j.g.dupeyroux@tudelft.nl |
 | 3D printer Ultimaker | Alessandro Mancinelli | A.Mancinelli@tudelft.nl|
 | Crazyflie hardware | Sven Pfeiffer | S.U.Pfeiffer@tudelft.nl|
-| Twitter channel | This could be you! | |
+| Twitter channel | Salua Hamaza | S.Hamaza@tudelft.nl|
