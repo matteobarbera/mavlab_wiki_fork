@@ -20,7 +20,7 @@ TU Delft, as institution has a special 20% discount on all the Colorfabb filamen
 Some printing tests have been performed in order to determine the best printing settings for this specific material using CURA as slicer. 
 The printing parameters can be directly imported using the [CURA profile](https://github.com/tudelft/mavlab/blob/master/print_files/LW-PLA%20ULTIMAKER%203.curaprofile) or directly set the parameters as follows:
 
-<img src="https://github.com/tudelft/mavlab/blob/master/print_files/LW_PLA_profile.png" width="80%"/>
+<img src="https://github.com/tudelft/mavlab/blob/master/print_files/LW_PLA_profile.png" width="100%"/>
 
 ## Anycubic Chiron
 
