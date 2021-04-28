@@ -18,7 +18,7 @@ Not long ago Colorfabb released a new PLA-based material called LW-PLA(LightWeig
 TU Delft, as institution has a special 20% discount on all the Colorfabb filament. You can contact [Alessandro](mailto:a.mancinelli@tudelft.nl) to know how to use it. 
 
 Some printing tests have been performed in order to determine the best printing settings for this specific material using CURA as slicer. 
-The printing parameters can be directly imported using the or can be manually filled in as in the picture below:
+The printing parameters can be directly imported using the or directly set the parameters as follows:
 
 
 
