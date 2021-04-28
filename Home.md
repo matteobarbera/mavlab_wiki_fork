@@ -15,11 +15,11 @@ Welcome to the **MAVLab wiki**!
 
 # Lab standards
 
-Please use S.I. everywhere, then there is less confusion around the globe and there will be fewer marslander crashes ;)		
+Please use S.I. everywhere, then there is less confusion around the globe and there will be fewer mars lander crashes ;)		
 
 ## Papers
 
- * When writing papers and you want to publish, first go through the [Publishing checklist](publishchecklist) to see if you document adheres to the lab standard
+ * When writing papers and you want to publish, first go through the [Publishing checklist](publishchecklist) to see if your document adheres to the lab standard.
 
 ## Ordering
 
@@ -27,7 +27,7 @@ Please use S.I. everywhere, then there is less confusion around the globe and th
 
 ## Common
 
- * [Read about the standards in the MAVLab for hardware, software and whatnot...](Lab-standards)
+ * [Read about the standards in the MAVLab for hardware, software and what not...](Lab-standards)
 
 ## Flight Operations Manuals
 
@@ -40,8 +40,6 @@ Please use S.I. everywhere, then there is less confusion around the globe and th
  * [Links should be RELATIVE Links](relative-links-in-wiki) if the information is contained _inside this wiki_.
 
 # Projects
-
-<img src="../raw/master/photos/standards/project_comic_01.gif" width="75%"/>
 
  * [Here in Trello you find the most up to date list](https://trello.com/b/FelPdV49/mavlab-overview) of people and projects
 
@@ -65,15 +63,11 @@ Building things and need specific chemicals, e.g. quality epoxy, then [this page
 
 # Equipment
 
-<img src="../raw/master/photos/standards/equipment_comic_01.gif" width="75%"/>
-
 Building nifty devices and need tools, [read about all the tools at your disposal here](equipment)
 
 # Tutorials
 
-<img src="../raw/master/photos/standards/courses_comic_01.gif" width="75%"/>
-
-Tutorials are best published publicly on e.g. http://wiki.paparazziuav.org. If it is of internal use only or not useful at all of others one could consider to make a specific page in this wiki.
+Tutorials are best published publicly on e.g. http://wiki.paparazziuav.org. If it is of internal use only or not useful at all for others, one could consider making a specific page in this wiki.
 
 ## Internal tutorials
 
@@ -92,8 +86,6 @@ SmartUAV is a UAV simulation platform developed by the MavLab to investigate Man
 [Read all about how to use it to your research advantage on the SamartUAV page](SmartUAV)
 
 # Demo's
-
-<img src="../raw/master/photos/standards/demo_comic_01.gif" width="75%"/>
 
 To promote _the_ Lab and TU Delft research in general, demoing various drones in operation to 3rd parties is of help
 
