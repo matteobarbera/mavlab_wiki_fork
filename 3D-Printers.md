@@ -11,7 +11,7 @@ The Cura slicer is available at https://ultimaker.com/software/ultimaker-cura.
 
 The Ultimaker 3 printer has a printing volume of **215 x 215 x 200 mm**. Leveling is automatic and printing material must have a diameter of **2.85 mm**. To setup the printer profile on Cura, simply go to `Settings > Printer > Add printer...` and pick up the Ultimaker 3. Recommended print setup should normally be enough for most printings. 
 
-* Printing LightWeight PLA with Ultimaker 3
+**Printing LightWeight PLA with Ultimaker 3**
 
 Not long ago Colorfabb released a new PLA-based material called LW-PLA(LightWeight-PLA). This material has the peculiarity to foam up during the extrusion process decreasing the density of the printed material. The density of the LW-PLA could go up to 50% of the classic PLA in certain application. More info about the LW-PLA can be found at the following Colorfabb link: https://colorfabb.com/lw-pla-natural. 
 TU Delft, as institution has a special 20% discount on all the Colorfabb filament. You can contact [Alessandro](mailto:a.mancinelli@tudelft.nl) to know how to use it. 
