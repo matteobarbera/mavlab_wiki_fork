@@ -11,6 +11,15 @@ The Cura slicer is available at https://ultimaker.com/software/ultimaker-cura.
 
 The Ultimaker 3 printer has a printing volume of **215 x 215 x 200 mm**. Leveling is automatic and printing material must have a diameter of **2.85 mm**. To setup the printer profile on Cura, simply go to `Settings > Printer > Add printer...` and pick up the Ultimaker 3. Recommended print setup should normally be enough for most printings. 
 
+* Printing LightWeight PLA with Ultimaker 3
+
+Not long ago Colorfabb released a new PLA-based material called LW-PLA(LightWeight-PLA). This material has the peculiarity to foam up during the extrusion process decreasing the density of the printed material. The density of the LW-PLA could go up to 50% of the classic PLA in certain application. More info about the LW-PLA can be found at the following Colorfabb link: https://colorfabb.com/lw-pla-natural. 
+TU Delft, as institution has a special 20% discount on all the Colorfabb filament. You can contact [Alessandro](mailto:a.mancinelli@tudelft.nl) to know how to use it. 
+Some printing tests have been performed in order to determine the best printing settings for this specific material using CURA as slicer. 
+The printing parameters can be directly imported using the or can be manually filled in as in the picture below:
+
+
+
 ## Anycubic Chiron
 
 The Anycubic Chiron 3D printer offers a large printing volume of **400 x 400 x 450 mm**. It comes with both manual and automatic leveling systems, and requires **1.75 mm diameter** print material like PLA. You can use the [official user manual](https://github.com/tudelft/mavlab/blob/master/pdf/equipment/ANYCUBIC%20Chrion-User%20manual-20180907-V7.pdf) to setup the slicer profile. 
