@@ -15,7 +15,9 @@ Welcome to the **MAVLab wiki**!
 
 # Lab standards
 
-Please use S.I. everywhere, then there is less confusion around the globe and there will be fewer mars lander crashes ;)		
+Please use S.I. everywhere, then there is less confusion around the globe and there will be fewer mars lander crashes ;)
+
+[Read about the standards in the MAVLab for hardware, software and what not...](Lab-standards)	
 
 ## Papers
 
@@ -24,10 +26,6 @@ Please use S.I. everywhere, then there is less confusion around the globe and th
 ## Ordering
 
  * If you order anything, you **must** read the [finance rules](rules-finance) first.
-
-## Common
-
- * [Read about the standards in the MAVLab for hardware, software and what not...](Lab-standards)
 
 ## Flight Operations Manuals
 
