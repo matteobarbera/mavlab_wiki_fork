@@ -141,6 +141,10 @@ To make an account, you will need to know a "secret", which is: *group15*.
 
 More on the MAVLab Manager can be found on the [AirframeManager page](../AirframeManager) (*Not yet available*).
 
+## Data management
+
+There are multiple ways of storing your data.
+See the [[Data Management]] page.
 
 ## Version control
 
