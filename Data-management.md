@@ -40,8 +40,8 @@ The network drives are known to be slow because your computer doesn't actually k
 
 ### Data repositories
 
-|   | Space                           | Max file size | GitHub snapshot? | Repo type        | Server location    | When to use?                           |
-|---|---------------------------------|---------------|------------------|------------------|--------------------|----------------------------------------|
-|   | 1 TB per year                   | 10 GB         | Yes              | Public           | Netherlands        | Published & long term preservation     |
-|   | 100 GB                          | 2 GB          | ?                | Public & private | Netherlands        | During research; sharing within MAVLab |
-|   | Unlimited but 50 GB per dataset | None          | Yes              | Public & private | Switzerland (CERN) | During research; sharing outside TUD   |
+|             | Space                           | Max file size | GitHub snapshot? | Repo type        | Server location    | When to use?                           |
+|-------------|---------------------------------|---------------|------------------|------------------|--------------------|----------------------------------------|
+| 4TU.Centre  | 1 TB per year                   | 10 GB         | Yes              | Public           | Netherlands        | Published & long term preservation     |
+| DataVerseNL | 100 GB                          | 2 GB          | ?                | Public & private | Netherlands        | During research; sharing within MAVLab |
+| Zenodo      | Unlimited but 50 GB per dataset | None          | Yes              | Public & private | Switzerland (CERN) | During research; sharing outside TUD   |
