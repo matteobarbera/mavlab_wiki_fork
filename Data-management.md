@@ -24,7 +24,7 @@ There are many options when it comes to storing and sharing data. Here, we disti
 
 The above table lists some options for data storage and sharing. Note that anything involving TU Delft or SURF is usually fine for storing sensitive data, because these servers are hosted inside the Netherlands. While options like SURFfilesender have more polished and easier-to-use alternatives such as WeTransfer, the former should be preferred. 
 
-The network drives are known to be slow because your computer doesn't actually keep local copies of every file on the drive. This might be preferred in cases when local disk space is in short supply, but as long as your storage demands don't exceed 500 GB, SURFdrive is often a better alternative. You can login with your NetID, files can be shared easily, and to have local copies you can connect it to any device you like using the [ownCloud client](https://owncloud.com/desktop-app/) (Windows, Mac, Linux, iOS, Android).
+The network drives are known to be slow because your computer doesn't actually keep local copies of every file on the drive. This might be preferred in cases when local disk space is in short supply, but as long as your storage demands don't exceed 500 GB, SURFdrive is often a better alternative. You can login with your NetID, files can be shared easily, and to have local copies you can connect it to any device you like using the [ownCloud client](https://owncloud.com/desktop-app/) (Windows, Mac, Linux, iOS, Android). Network drives can be requested via [TOPdesk](https://tudelft.topdesk.net).
 
 ### Code repositories
 
@@ -34,9 +34,11 @@ The network drives are known to be slow because your computer doesn't actually k
 | Hosting server                         | TU Delft                                                    | U.S.                                                                |
 | Snapshot (for publishing)              | Via Zenodo                                                  | Via 4TU.Centre or Zenodo                                            |
 | Accessibility                          | Only staff can create; external users should request access | Anyone can create; anyone can be invited                            |
-| Visibility                             | Limited                                                     | Maximized                                                           |
+| Visibility                             | Very limited                                                     | Maximized                                                           |
 
+The main trade-off between GitLab and GitHub is one of security versus visibility. GitLab repositories are hosted on TU Delft's servers, which makes them suitable for sensitive data. However, TU Delft GitLab projects cannot be found through regular Google searches, meaning visibility is very limited. People outside of TU Delft need to apply for an account in order to access it. This means that GitLab is mainly useful as a repository for research that is in progress, with TU Delft collaborators only.
 
+GitHub, on the other hand, maximizes visibility (when repositories are public). So when your project doesn't contain sensitive data, GitHub is the way to go. Be sure to apply for a free PRO account as a student or staff member [here](https://education.github.com/) (also comes with many other free things!).
 
 ### Data repositories
 
