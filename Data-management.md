@@ -20,7 +20,7 @@ There are many options when it comes to storing and sharing data. Here, we disti
 | TUD network drive   | SFTP  | < 5 TB                           | Ask IT; only whole-drive sharing | Yes             | Storing large amounts of long-term project data for an entire team      |
 | SURFdrive           | Cloud | 500 GB                           | Via email address or link        | Yes             | Storing relatively large amounts of data while maintaining quick access |
 | SURFfilesender      | Cloud | 1-2 TB (depending on encryption) | Via email address or link        | Yes             | Sending files securely                                                  |
-| OneDrive/Sharepoint | Cloud | 1 TB                             | Via email address or link        | No              | ?                                                                       |
+| OneDrive/Sharepoint | Cloud | 1 TB                             | Within TU Delft via email address        | No              | ?                                                                       |
 
 The above table lists some options for data storage and sharing. Note that anything involving TU Delft or SURF is usually fine for storing sensitive data, because these servers are hosted inside the Netherlands. While options like SURFfilesender have more polished and easier-to-use alternatives such as WeTransfer, the former should be preferred. 
 
