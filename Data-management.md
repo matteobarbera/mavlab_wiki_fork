@@ -32,7 +32,7 @@ The network drives are known to be slow because your computer doesn't actually k
 |----------------------------------------|-------------------------------------------------------------|---------------------------------------------------------------------|
 | Private repositories and collaborators | Unlimited                                                   | Unlimited (apply for PRO account using your student/employee email) |
 | Hosting server                         | TU Delft                                                    | U.S.                                                                |
-| Snapshot (for publishing)              | Via Zenodo                                                  | Via 4TU.Centre or Zenodo                                            |
+| Snapshot (for publishing)              | Via Zenodo                                                  | Via 4TU.ResearchData or Zenodo                                            |
 | Accessibility                          | Only staff can create; external users should request access | Anyone can create; anyone can be invited                            |
 | Visibility                             | Very limited                                                     | Maximized                                                           |
 
@@ -44,6 +44,8 @@ GitHub, on the other hand, maximizes visibility (when repositories are public). 
 
 |             | Space                           | Max file size | GitHub snapshot? | Repo type        | Server location    | When to use?                           |
 |-------------|---------------------------------|---------------|------------------|------------------|--------------------|----------------------------------------|
-| 4TU.Centre  | 1 TB per year                   | 10 GB         | Yes              | Public           | Netherlands        | Published & long term preservation     |
-| DataVerseNL | 100 GB                          | 2 GB          | ?                | Public & private | Netherlands        | During research; sharing within MAVLab |
+| 4TU.ResearchData  | 1 TB per year                   | 10 GB         | Yes              | Public           | Netherlands        | Published & long term preservation     |
+| DataverseNL | 100 GB                          | 2 GB          | ?                | Public & private | Netherlands        | During research; sharing within MAVLab |
 | Zenodo      | Unlimited but 50 GB per dataset | None          | Yes              | Public & private | Switzerland (CERN) | During research; sharing outside TUD   |
+
+Data repositories can be used to make your dataset citeable (DOI) and easy to find. Given that TU Delft has good options here, the current recommendation is to use DataverseNL when research is in progress, and to move everything to 4TU.ResearchData when publishing. For DataVerseNL, there is a [MAVLab account](https://dataverse.nl/dataverse/mavlab) that can be used (futher information on DataverseNL [here](https://data.4tu.nl/info/en/use/manage-share)). You can log in with your NetID on 4TU.ResearchData [here](https://data.4tu.nl/info/en/).
