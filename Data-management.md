@@ -1,13 +1,21 @@
 # Data management
 
-This page provides guidelines on the management of data. To be clear: 'data' implies both 'data' and 'code'. New PhDs are required to set up a data management plan (DMP), which can be done using the [DMPonline](https://dmponline.tudelft.nl/) tool provided by TU Delft. Below you can find guidelines on parts of the DMP:
+This page provides guidelines on the management of data that will inevitably accumulate during your work at the MAVLab. To be clear: 'data' implies both 'data' and 'code'. For new PhDs and certain grant applications, it has become mandatory to write a data management plan (DMP). This can be done easily using the [DMPonline](https://dmponline.tudelft.nl/) tool provided by TU Delft and the guidelines from this wiki page. Below, the most important aspects of data management that should concern everybody at the MAVLab will be covered.
 
-- Data storing/sharing platforms
-- Software-specific licences
-- Data-specific licences
-- Metadata standards
+- [General philosophy](#general-philosophy)
+- [Data storing/sharing platforms](#data-storingsharing-platforms)
+- [Licenses for software](#licenses-for-software)
+- [Licenses for data](#licenses-for-data)
+- [Documentation and metadata](#documentation-and-metadata)
 
 Each section contains an overview of available options, and also recommendations based on what is being used/preferred at the MAVLab. Further questions regarding management of data and code can be directed to the faculty data steward, Dr. Heather Andrews (find her email in the TU Delft webmail address book).
+
+## General philosophy
+Data that is generated as part of your research should be FAIR, that is Findable, Accessible, Interoperable and Reusable. This means that you should make sure, that at latest when publishing a paper on your generated data, you should also publish the data alongside it. This does not only help others to better understand your work, but also increases transparency. It also means that this data should be documented properly so that others (including yourself a year later) can understand how to use it.
+
+At the MAVLab, our goal is to increase the impact of our data and code, which is why we don't want to restrict its use unnecessarily. Where possible, we therefore prefer licenses such as CC0 for data and MIT or BSD for software.
+
+Finally, even though data management often only comes to mind before publishing something, proper documentation (especially for code) should be done continuously and proper use of data storage technologies is important at any step during a project. After all, you don't want to lose all of your research data if your laptop gets stolen...
 
 ## Data storing/sharing platforms
 
@@ -49,3 +57,9 @@ GitHub, on the other hand, maximizes visibility (when repositories are public). 
 | Zenodo      | Unlimited but 50 GB per dataset | None          | Yes              | Public & private | Switzerland (CERN) | During research; sharing outside TUD   |
 
 Data repositories can be used to make your dataset citeable (DOI) and easy to find. Given that TU Delft has good options here, the current recommendation is to use DataverseNL when research is in progress, and to move everything to 4TU.ResearchData when publishing. For DataVerseNL, there is a [MAVLab account](https://dataverse.nl/dataverse/mavlab) that can be used (futher information on DataverseNL [here](https://data.4tu.nl/info/en/use/manage-share)). You can log in with your NetID on 4TU.ResearchData [here](https://data.4tu.nl/info/en/).
+
+## Licenses for software
+
+## Licenses for data
+
+## Documentation and metadata
