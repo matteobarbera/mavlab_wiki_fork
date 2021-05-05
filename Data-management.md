@@ -63,7 +63,16 @@ Since we promote transparency on the methods used in our research according to o
 
 One of the most permissive licenses around (and one commonly used in the MAVLab) is the [MIT license](https://choosealicense.com/licenses/mit/#suggest-this-license). The only conditions are the preservation of copyright and license notices. Whenever possible, it is advised to use this license.
 
-An extensive list of available licenses can be found [here](https://choosealicense.com/licenses/)
+Another option is the [Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/) which differs mainly in the fact that with this license, people should make proper documentation of the changes made to the source code. 
+
+A more restrictive license is the [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/), where the user cannot distribute the material without disclosing the source code (which is allowed in the previous two licenses).
+
+An list of available licenses can be found [here](https://choosealicense.com/licenses/) or a really extensive list [here](https://spdx.org/licenses/)
+
+If you are not sure what license to use, use the [license selector](https://ufal.github.io/public-license-selector/) or contact the Data Steward of AE (currently Heather Andrews Mancilla).
+
+If you are using licensed code in your own repo, be sure to check what is permitted and what not. Always make sure to properly credit and mention the authors and licenses of the code used. A very nice tutorial on how to do this can be found [here](https://reuse.software/tutorial/)
+
 ## Licenses for data
 
 ## Documentation and metadata
