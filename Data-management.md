@@ -59,7 +59,11 @@ GitHub, on the other hand, maximizes visibility (when repositories are public). 
 Data repositories can be used to make your dataset citeable (DOI) and easy to find. Given that TU Delft has good options here, the current recommendation is to use DataverseNL when research is in progress, and to move everything to 4TU.ResearchData when publishing. For DataVerseNL, there is a [MAVLab account](https://dataverse.nl/dataverse/mavlab) that can be used (futher information on DataverseNL [here](https://data.4tu.nl/info/en/use/manage-share)). You can log in with your NetID on 4TU.ResearchData [here](https://data.4tu.nl/info/en/).
 
 ## Licenses for software
+Since we promote transparency on the methods used in our research according to our General Philosophy, publishing software is recommended wherever possible. Since this software will be made available on the public domain as an open-source project (if possible). This means that all this software should be properly licensed to prevent legal issues. If you are wondering if a license is necessary for your project, take a look at  [this](https://choosealicense.com/no-permission/) link. 
 
+One of the most permissive licenses around (and one commonly used in the MAVLab) is the [MIT license](https://choosealicense.com/licenses/mit/#suggest-this-license). The only conditions are the preservation of copyright and license notices. Whenever possible, it is advised to use this license.
+
+An extensive list of available licenses can be found [here](https://choosealicense.com/licenses/)
 ## Licenses for data
 
 ## Documentation and metadata
