@@ -1,6 +1,6 @@
 ## Data Storage:
 
-1) **Project Data storage (staff-umbrella)**: this is a TU Delft network drive suitable for research data. To ask for this storage space, you have to go to **tudelft.topdesk.net > Software & Autorisations > IT for Researchers > Data Storage for Research > Aanvraag Data Opslag**. Please remember to ask only for standard availability. In the form you can specify the name of the storage space, and who you want to give access to (**internal or external to TU Delft**). The space will be created in **staff-umbrella** (in Windows systems it appears inside **Project Data (U:) **drive). If you are connected to the TU Delft network via eduVPN, the drive will be automatically mounted on your local system. If not, you can mount the drive locally in your device by using **Webdrive** (which is already installed in your Windows TU Delft laptop; FYI you can also download it from software.tudelft.nl). If you want to access the drives via the command line, then you can type: `sftp <your_net_id@sftp.tudelft.nl>` to connect with your netID. 
+1) **Project Data storage (staff-umbrella)**: this is a TU Delft network drive suitable for research data. To ask for this storage space, you have to go to **tudelft.topdesk.net > Software & Autorisations > IT for Researchers > Data Storage for Research > Aanvraag Data Opslag**. Please remember to ask only for standard availability. In the form you can specify the name of the storage space, and who you want to give access to (**internal or external to TU Delft**). The space will be created in **staff-umbrella** (in Windows systems it appears inside **Project Data (U:)** drive). If you are connected to the TU Delft network via eduVPN, the drive will be automatically mounted on your local system. If not, you can mount the drive locally in your device by using **Webdrive** (which is already installed in your Windows TU Delft laptop; FYI you can also download it from software.tudelft.nl). If you want to access the drives via the command line, then you can type: `sftp <your_net_id@sftp.tudelft.nl>` to connect with your netID. 
 If you want to provide access to someone at a later stage, you can always do it by sending an email to <Servicepunt-LR@tudelft.nl>. Each space within staff-umbrella can be expanded up to **5TB** and they are managed by TU Delft ICT (which means automatic daily backups in TU Delft servers, and secured by institutional protocols and security services). For storage spaces larger than 5TB, the request goes via the Faculty ICT Manager Marco Bolleboom (<https://www.tudelft.nl/staff/m.e.bolleboom/> ). Keep in mind all spaces start at 50 GB and they get expanded as you used them. This means the size of the drive you specify in the form is only used as a reference.
 
 2) **SURFdrive:** for easy data transfer and temporary data storage, you have a SURFdrive account (**<https://www.surfdrive.nl/> > Log In op Surfdrive > login with your NetID**). This is a **500 GB** storage space for your own personal use. We say it is temporary because it is linked to your contract to TU Delft (the space is shut once the TU Delft researcher leaves the TU Delft). It is **recommended for sensitive data**. Via SURFdrive you can share folders/files with other Surfdrive users (other staff members of Dutch universities). With external people (e.g., company collaborators) you can **share via link**. You can also **synchronize SURFdrive** with local directories using the desktop client <https://www.surf.nl/en/store-and-share-your-files-securely-in-the-cloud-with-surfdrive/downloads-for-surfdrive> Every research staff has a SURFdrive account (i.e., it includes PhDs, but not MSc students).
@@ -35,16 +35,16 @@ Students have access to Onedrive with their NetID in contrast to SURFdrive (whic
 
 ## Data transfer:
 
-5) **SURFfilesender:** TU Delft researchers (including students) are also able to use SURFfilesender (<https://www.surffilesender.nl/en/about-surffilesender> ) for data transfer of files up to** 1 TB**, and **2 GB using end-to-end encryption**. You can access SURFfilesender with your NetID logging in <https://www.surffilesender.nl/en> This is **recommended for sensitive data** (especially for data exchange with MSc students). Senders have to be from TU Delft, but receivers can be internal or external to TU Delft.
+5) **SURFfilesender:** TU Delft researchers (including students) are also able to use SURFfilesender (<https://www.surffilesender.nl/en/about-surffilesender> ) for data transfer of files up to **1 TB**, and **2 GB using end-to-end encryption**. You can access SURFfilesender with your NetID logging in <https://www.surffilesender.nl/en> This is **recommended for sensitive data** (especially for data exchange with MSc students). Senders have to be from TU Delft, but receivers can be internal or external to TU Delft.
 
  ______________________________________________________
 
 **Version Control:**
 
-6)** Gitlab:** TU Delft has a Gitlab instance for **version control**. Gitlab is the user interface for Git repositories and version control software. Meaning that if you are writing scripts for your research project and you struggle with version control or you have to write code in collaboration with other colleagues/students, then Gitlab is a nice tool to try. All TU Delft research staff (including PhD candidates) can login with their NetIDs and create a project. Students can login and can be invited to participate in projects, but cannot create projects on their own.\
+6) **Gitlab:** TU Delft has a Gitlab instance for **version control**. Gitlab is the user interface for Git repositories and version control software. Meaning that if you are writing scripts for your research project and you struggle with version control or you have to write code in collaboration with other colleagues/students, then Gitlab is a nice tool to try. All TU Delft research staff (including PhD candidates) can login with their NetIDs and create a project. Students can login and can be invited to participate in projects, but cannot create projects on their own.\
 Easy login once your project is created is done via <https://gitlab.tudelft.nl/users/sign_in>\
 Some remarks:\
-- Having a TU Delft instance means that everything you put in Gitlab will be kept within the** TU Delft network** (maintained by TU Delft ICT and stored in TU Delft Data Centers). Thus it is **recommended for the development of competitive/sensitive code**.\
+- Having a TU Delft instance means that everything you put in Gitlab will be kept within the **TU Delft network** (maintained by TU Delft ICT and stored in TU Delft Data Centers). Thus it is **recommended for the development of competitive/sensitive code**.\
 - Please use Gitlab as a code repository and **not as personal storage**. Thus please remember to do git ignore on data files when pushing the changes to the code on the TU Delft Gitlab.
 
 - Recommended for also keeping track of the code development within your group.
@@ -75,7 +75,7 @@ Some remarks:\
 
 9) **Code Refinery Workshop:** this is a three days workshop (6 half days in online mode) about **version control and reusable code**. It is meant for all researchers, and when given by TU Delft, PhDs get credits from the Graduate School for it. You can take a look at the different possible lessons here <https://coderefinery.org/lessons/> also free to use. Dates can also be found via the following website: <https://www.tudelft.nl/en/library/current-topics/research-data-management/r/training-events/training-for-researchers/>
 
-10)** eScience Center training**: the eScience center runs training for researchers, which include the previously mentioned Software Carpentry and Code Refinery workshops. Keep in mind that when eScience Center hosts the Software Carpentry and Code Refinery workshops, we cannot guarantee the PhDs will get Graduate School credits for participating in them. Check training opportunities or events via <https://www.esciencecenter.nl/events/>
+10) **eScience Center training**: the eScience center runs training for researchers, which include the previously mentioned Software Carpentry and Code Refinery workshops. Keep in mind that when eScience Center hosts the Software Carpentry and Code Refinery workshops, we cannot guarantee the PhDs will get Graduate School credits for participating in them. Check training opportunities or events via <https://www.esciencecenter.nl/events/>
 
  ______________________________________________________
 
@@ -96,7 +96,7 @@ If there is no funding to pay the APC, then you have to do what is called **Gree
 
 **B) Journals that are subscription-based journals (hybrid Open Access model).**
 - This means that **readers have to pay a subscription** to be able to read the articles published in that journal.  This subscription is usually already covered by the TU Delft Library, so that TU Delft researchers can have access to those articles and also get to publish in those journals (with the articles being accessible only to subscribers).
-- Some subscription-based journals give the possibility to publish in Open Access. Then there are two fees to pay: one fee to publish in that article (usually covered by institutions) and an **extra fee to publish the article in Open Access** (this fee it is** also called APC**; these APCs are usually more expensive than the ones paid for full open access journals).
+- Some subscription-based journals give the possibility to publish in Open Access. Then there are two fees to pay: one fee to publish in that article (usually covered by institutions) and an **extra fee to publish the article in Open Access** (this fee it is **also called APC**; these APCs are usually more expensive than the ones paid for full open access journals).
 - TU Delft sometimes has extra deals with publishers, so that TU Delft can get a discount when paying the APC. You can see whether there is an APC discount for a specific journal in the journal browser <https://library.wur.nl/WebQuery/tudbrowser?q=*> Sometimes the discount is of 20%, sometimes 100%! It depends on the publisher and the journal.
 - To pay for that APC, the money should come from the **project or the department**.
 - If there is no money to pay for the APC, then you have to publish in what is called **Green Open Access** (see below).
@@ -114,7 +114,7 @@ Since you are a TU Delft researcher, if you choose 'green open access' then you 
 
 **Note that:**
 
-- TU Delft open access publishing policy** (<https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/creating-your-publishing-strategy/open-access-publishing>) states all **postprints should be made open access via the TU Delft Research repository** <https://repository.tudelft.nl/islandora/search/?collection=research>
+- TU Delft open access publishing policy (<https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/creating-your-publishing-strategy/open-access-publishing>) states all **postprints should be made open access via the TU Delft Research repository** <https://repository.tudelft.nl/islandora/search/?collection=research>
 - You can always **send me a list of the journals** you would like to publish in, and I can forward you the information about the **Article Processing Charge (APC)** to pay for Open Access (you retain the copyright and the article is immediately publicly available for everyone to download/read/etc.), or the **embargo period** under which the postprint has to remain closed (for Green Open Access).
 - Whenever you publish an article, please **send the DOI** (persistent identifier) **of the finalized article** (publisher's version) **and the postprint **(without the layout and copyright stamp of the publisher) **to <PURE-LR-lib@tudelft.nl>**. Then staff from the library will make the postprint public (after the embargo period) via the TU Delft Research Repository ( <https://repository.tudelft.nl/islandora/search/?collection=research> ).
 
@@ -142,7 +142,7 @@ See more information on HE [here](https://ec.europa.eu/research/participants/doc
 
 Public datasets within Dataverse are given **persistent identifiers** (a Handle or DOI). In principle it is meant for **fair-use**, so there are no explicit upper quotas for its use in terms of storage. However uploading TBs of data would rise an alarm. Thus, we suggest TU Delft researchers to upload **small-to-medium sized datasets** to the platform (meaning order of hundreds GBs tops). If you are interested in this platform, let me know (someone from Research Data services has to grant you admin rights).
 
-13)** 4TU.ResearchData:** This is an **online repository and archive managed by the 4TU **(the federation of 4 tech universities of the Netherlands, which TU Delft is part of). It is recommended for publishing the data **underlying the results of published articles**. TU Delft researchers can upload up to **1TB of data per year free of charge**. It offers **public and private repositories**. At the 4TU.ResearchData private repositories are repositories where the description of the repository is public, but files are under permanent embargo.
+13) **4TU.ResearchData:** This is an **online repository and archive managed by the 4TU **(the federation of 4 tech universities of the Netherlands, which TU Delft is part of). It is recommended for publishing the data **underlying the results of published articles**. TU Delft researchers can upload up to **1TB of data per year free of charge**. It offers **public and private repositories**. At the 4TU.ResearchData private repositories are repositories where the description of the repository is public, but files are under permanent embargo.
 
 A a new feature of this archive, is that it also allows **integration with Github**. This means that the 4TU.ResearchData archives a snapshot of a Github repo (where the code is publicly available), making this snapshot findable and accessible in the long-term (also providing the code a persistent identifier -a DOI- making it citable). By September 2021 there will be also an integration with Gitlab.
 
@@ -152,7 +152,7 @@ A a new feature of this archive, is that it also allows **integration with Githu
 
 **Others:**
 
-15)** ORCID:** Please make sure your **ORCID is linked to PURE**:
+15) **ORCID:** Please make sure your **ORCID is linked to PURE**:
 -login to your PURE profile using your NetID (<https://pure.tudelft.nl/admin/workspace.xhtml> )
 -**edit profile**
 -**add your ORCID**
@@ -169,6 +169,6 @@ You can send that letter to the publisher in case you encounter such a problem.
 
 There you can do a first login with your TU Delft NetID, and you can find a lot of information about funding opportunities (European and national), awards and conferences.
 
-20) **Surfsara:**  regarding Surfsara** supercomuting** facilities, here you can find information about how to apply in case you are interested: <https://www.nwo.nl/en/news/call-computing-time-national-computer-facilities-2021-open-submission>
+20) **Surfsara:**  regarding Surfsara **supercomuting** facilities, here you can find information about how to apply in case you are interested: <https://www.nwo.nl/en/news/call-computing-time-national-computer-facilities-2021-open-submission>
 
 21) Last but not least, I am hereby sending you the 'decision tree' that provides **contact info about the Business Connect Team and Valorisation Center**. It has a lot of information but it overall shows when to contact what at TU Delft. One comment: Rene Deijk is no longer working at our faculty. But aside that, everything else still applies.
