@@ -1,3 +1,8 @@
+# Data Steward
+
+When coming to work at the faculty, new staff is approached by the data steward, Heather Andrews (May 2021).
+She sends this very nice summary about data management at the TU, which is so useful that it deserves a place on this wiki:
+
 ## Data Storage:
 
 1) **Project Data storage (staff-umbrella)**: this is a TU Delft network drive suitable for research data. To ask for this storage space, you have to go to **tudelft.topdesk.net > Software & Autorisations > IT for Researchers > Data Storage for Research > Aanvraag Data Opslag**. Please remember to ask only for standard availability. In the form you can specify the name of the storage space, and who you want to give access to (**internal or external to TU Delft**). The space will be created in **staff-umbrella** (in Windows systems it appears inside **Project Data (U:)** drive). If you are connected to the TU Delft network via eduVPN, the drive will be automatically mounted on your local system. If not, you can mount the drive locally in your device by using **Webdrive** (which is already installed in your Windows TU Delft laptop; FYI you can also download it from software.tudelft.nl). If you want to access the drives via the command line, then you can type: `sftp <your_net_id@sftp.tudelft.nl>` to connect with your netID. 
