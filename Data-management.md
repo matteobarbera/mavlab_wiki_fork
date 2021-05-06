@@ -8,7 +8,7 @@ This page provides guidelines on the management of data that will inevitably acc
 - [Licenses for data](#licenses-for-data)
 - [Documentation and metadata](#documentation-and-metadata)
 
-Each section contains an overview of available options, and also recommendations based on what is being used/preferred at the MAVLab. Further questions regarding management of data and code can be directed to the faculty data steward, Dr. Heather Andrews (find her email in the TU Delft webmail address book).
+Each section contains an overview of available options, and also recommendations based on what is being used/preferred at the MAVLab. Further questions regarding management of data and code can be directed to the faculty data steward, Dr. Heather Andrews (find her email in the TU Delft webmail address book). Also consider this overview provided by Heather: [[Information-from-data-steward]]
 
 ## General philosophy
 Data that is generated as part of your research should be FAIR, that is Findable, Accessible, Interoperable and Reusable. This means that you should make sure, that at latest when publishing a paper on your generated data, you should also publish the data alongside it. This does not only help others to better understand your work, but also increases transparency. It also means that this data should be documented properly so that others (including yourself a year later) can understand how to use it.
