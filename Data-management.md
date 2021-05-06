@@ -74,5 +74,19 @@ If you are not sure what license to use, use the [license selector](https://ufal
 If you are using licensed code in your own repo, be sure to check what is permitted and what not. Always make sure to properly credit and mention the authors and licenses of the code used. A very nice tutorial on how to do this can be found [here](https://reuse.software/tutorial/)
 
 ## Licenses for data
+The same philosophy applies to the data. If you are not sure about the license, you can check [TU Delft copyright information page](https://www.tudelft.nl/library/copyright) or [license selector](https://ufal.github.io/public-license-selector/). 
+
+If the owner of the data is TUD, researchers have the right to choose the license. It also means that you have to evaluate how sensitive your data is (for example, if you have any personal information/commercial/confidential/etc.). The recommendation is to "open" your data as much as possible (CC0). 
 
 ## Documentation and metadata
+It is always recommended to have a "good" readme file with your data and codes for you and others' sake.
+
+You can consider including these things in your README file.
+- Description of the data
+- How you collected the data
+- How to set up the software (requirement, installation, tested on what environment, etc.)
+- How to use your data or code
+- How to cite your data
+- Who is maintaining it
+
+If you use a data repository service(for example Dataverse, 4TU Centre, Zenodo), they will ask you for necessary information when you upload your data. Also, Dataverse and Zenodo support exporting the Metadata in various formats.
