@@ -6,7 +6,7 @@ In order to distribute the organizational burden, responsibility for different t
 | ------------- | ------------- | ------------- |
 | This Wiki | Ewoud Smeur | e.j.j.smeur@tudelft.nl|
 | MAVLab Website | Julien Dupeyroux | j.j.g.dupeyroux@tudelft.nl |
-| Mailing list | Salua Hamaza | S.Hamaza@tudelft.nl|
+| Mailing list | Salua Hamaza <br/> Ewoud Smeur | S.Hamaza@tudelft.nl <br/> e.j.j.smeur@tudelft.nl |
 | Mavlab Meetings | Shushuai Li | S.Li-6@tudelft.nl |
 | Cyberzoo agenda | Guido de Croon | G.C.H.E.deCroon@tudelft.nl |
 | Lab organization | Erik van der Horst | E.vanderHorst@tudelft.nl |
