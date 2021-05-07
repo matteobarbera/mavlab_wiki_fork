@@ -94,8 +94,8 @@ If you use a data repository service(for example Dataverse, 4TU Centre, Zenodo),
 
 ## MAVLab data storage
 Code
-- MAVLab Github: [github.com/tudelft](github.com/tudelft)
-- SVN: svn.lr.tudelft.nl
+- MAVLab Github: [github.com/tudelft](https://github.com/tudelft)
+- SVN: [svn.lr.tudelft.nl](svn.lr.tudelft.nl)
 
 Public data
 - DataverseNL: [https://dataverse.nl/dataverse/mavlab](https://dataverse.nl/dataverse/mavlab)
