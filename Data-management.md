@@ -86,7 +86,16 @@ You can consider including these things in your README file.
 - How you collected the data
 - How to set up the software (requirement, installation, tested on what environment, etc.)
 - How to use your data or code
+- How to reproduce your examples
 - How to cite your data
 - Who is maintaining it
 
 If you use a data repository service(for example Dataverse, 4TU Centre, Zenodo), they will ask you for necessary information when you upload your data. Also, Dataverse and Zenodo support exporting the Metadata in various formats.
+
+## MAVLab data storage
+Code
+- MAVLab Github: [github.com/tudelft](github.com/tudelft)
+- SVN: svn.lr.tudelft.nl
+Public data
+- DataverseNL: [https://dataverse.nl/dataverse/mavlab](https://dataverse.nl/dataverse/mavlab)
+- 4TU.Centre: [https://data.4tu.nl/search?q=mavlab](https://data.4tu.nl/search?q=mavlab)
