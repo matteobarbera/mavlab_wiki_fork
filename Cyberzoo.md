@@ -2,6 +2,8 @@
 
 In order to fly drones at the Cyberzoo, you need to adhere to the safety rules.
 Please contact the [responsible person](Responsible-Persons) to receive a safety briefing.
+You also need to book your test in advance in the Cyberzoo calendar.
+To get access to this calendar, contact the [responsible person](Responsible-Persons).
 
 # About
 
