@@ -7,6 +7,7 @@ This page provides guidelines on the management of data that will inevitably acc
 - [Licenses for software](#licenses-for-software)
 - [Licenses for data](#licenses-for-data)
 - [Documentation and metadata](#documentation-and-metadata)
+- [MAVLab data storage](#MAVLab-data-storage)
 
 Each section contains an overview of available options, and also recommendations based on what is being used/preferred at the MAVLab. Further questions regarding management of data and code can be directed to the faculty data steward, Dr. Heather Andrews (find her email in the TU Delft webmail address book). Also consider this overview provided by Heather: [[Information-from-data-steward]]
 
