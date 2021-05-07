@@ -1,3 +1,8 @@
+# Safety
+
+In order to fly drones at the Cyberzoo, you need to adhere to the safety rules.
+Please contact the [responsible person](wiki/Responsible-Persons) to receive a safety briefing.
+
 # About
 
 The Cyberzoo is an indoor arena where we perform our tests. It is equipped with a motion tracking system so that we may also record ground-truth data for validation. After reading this page you should be able to use the CyberZoo and perform flights, do measurements, read log files, interface with MATLAB, etc.
