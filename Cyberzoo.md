@@ -72,11 +72,7 @@ Possible reasons are:
 
   This is a current bug within MOTIVE. You just have to use the value that MOTIVE creates when using the object.
 
-# Your first test flight
-
-# Looking at log data
-
-# Matlab
+# Looking at log data in MATLAB
 
 The data recorded in the Motive software (exported as csv files with default options, i.e. quaternions are used for attitude and individual markers are also exported) can be loaded to Matlab using the following script:
 https://github.com/matejkarasek/OptiTrack_CSV_import
