@@ -1,7 +1,7 @@
 # Safety
 
 In order to fly drones at the Cyberzoo, you need to adhere to the safety rules.
-Please contact the [responsible person](wiki/Responsible-Persons) to receive a safety briefing.
+Please contact the [responsible person](Responsible-Persons) to receive a safety briefing.
 
 # About
 
