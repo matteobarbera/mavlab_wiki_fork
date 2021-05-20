@@ -2,7 +2,7 @@
 
 All outdoor Remotely Piloted Air Systems are registered and tracked in the MavLab operations manual:
 
-https://github.com/tudelft/Operations/tree/master/Outdoor_Flight/Releases/rpas
+https://github.com/tudelft/operations/
 
 ----
 
