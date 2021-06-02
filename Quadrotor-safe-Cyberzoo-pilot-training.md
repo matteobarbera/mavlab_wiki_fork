@@ -21,6 +21,6 @@ When the drone is flying inside of the geofenced area, the controller mode "Auto
 8. Change the Joystick setting string to select the correct controller xml file (e.g. "sm600.xml" instead of "hobbyking.xml")
 9. Change the NatNet setting string such to correctly specify the streaming ID and the aircraft ID. For example, with streaming ID=1 and aircraft ID=48, the string should end with "-ac 1 48"
 10. Check that the ground station has a 3D fix and that the controller is being detected
-11. On your controller engage the "Auto2" mode.
+11. On your controller engage the "Auto2" mode. (On the sm600 is the top-right switch)
 12. From the flight plan select and execute the block "Sbinnala". The drone can now be manually controlled
 13. Enjoy and Safe training! 
