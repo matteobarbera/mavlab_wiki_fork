@@ -2,7 +2,7 @@
 
 The aim of the project "safe-zoo" is to facilitate and accelerate the learning process of novel drone pilots. All code can be found in the official tudelft paparazzi git under the branch "cyber_zoo_train". The code has been tested for both a Bebop and Bebop2 in the cyber-zoo.
 ## General Description of the project
-The general idea behind "safe-zoo" is to use a specifically designed flight-plan to allow novel pilots to manually control a given drone (e.g. Bebop2) in the faculty's cyber-zoo under safe conditions. In contraddiction, when an unsafe situation occurs, the autopilot is commanded to take control and reastablish safety.
+The general idea behind "safe-zoo" is to use a specifically designed flight-plan to allow novel pilots to manually control a given drone (e.g. Bebop2) in the faculty's cyber-zoo under safe conditions. In contradiction, when an unsafe situation occurs, the autopilot is commanded to take control and reastablish safety.
 ### Controller mode:
 The flight plan makes use of the controller mode "Auto2" which can be coded to different control profiles based on defined exceptions. More precisely, the idea is to set the control profile to "ATT" (e.g. manual control) in safe conditions and in "NAV" (e.g. autopilot) in unsafe conditions. 
 ### Safety conditions:
