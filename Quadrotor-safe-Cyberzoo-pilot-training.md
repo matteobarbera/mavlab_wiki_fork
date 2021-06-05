@@ -1,6 +1,6 @@
 # Safe-Zoo ( Pilot Training )
 
-The aim of the project "safe-zoo" is to facilitate and accelerate the learning process of novel drone pilots. All code can be found in the official tudelft paparazzi git under the branch "cyber_zoo_train". The code has been tested for both a Bebop and Bebop2 in the cyber-zoo.
+The aim of the project "safe-zoo" is to facilitate and accelerate the learning process of novel drone pilots. All code can be found in the official tudelft paparazzi git under the branch "safe_zoo". The code has been tested for both a Bebop and Bebop2 in the cyber-zoo.
 ## General Description of the project
 The general idea behind "safe-zoo" is to use a specifically designed flight-plan to allow novel pilots to manually control a given drone (e.g. Bebop2) in the faculty's cyber-zoo under safe conditions. In contradiction, when an unsafe situation occurs, the autopilot is commanded to take control and reastablish safety.
 ### Controller mode:
@@ -22,5 +22,5 @@ When the drone is flying inside of the geofenced area, the controller mode "Auto
 9. Change the NatNet setting string such to correctly specify the streaming ID and the aircraft ID. For example, with streaming ID=1 and aircraft ID=48, the string should end with "-ac 1 48"
 10. Check that the ground station has a 3D fix and that the controller is being detected
 11. On your controller engage the "Auto2" mode. (On the sm600 is the top-right switch)
-12. From the flight plan select and execute the block "Sbinnala". The drone can now be manually controlled
+12. From the flight plan select and execute the block "Manual". The drone can now be manually controlled
 13. Enjoy and Safe training! 
