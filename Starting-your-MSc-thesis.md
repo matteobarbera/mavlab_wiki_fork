@@ -17,6 +17,7 @@ There are [rubrics](https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Facult
 The first part of your thesis will be a literature study.
 You need to look for papers and books that provide background information on the topic and give insight into how others have tried to tackle the research problem. Finally, you need to identify a *knowledge gap*.
 
+The literature study will be assessed and graded by your supervisor.
 The rubrics for the literature study can be found [here](https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/LR/Onderwijs/Ae_-_Literature_Survey_-_Rubrics.pdf).
 
 ### Research Methodologies
