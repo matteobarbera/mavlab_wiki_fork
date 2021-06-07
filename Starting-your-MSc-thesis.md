@@ -8,5 +8,9 @@ You **must** ask an exemption to study at the section Control and Simulation, so
 
 ## Procedure and Rules
 
+Your thesis will take 38 weeks (~9 months). A rough outline can be found [here](https://www.tudelft.nl/studenten/faculteiten/lr-studentenportal/onderwijs/master/thesis) and on the [CS wiki](https://cs.lr.tudelft.nl/education/msc-thesis-2/).
+
+There are [rubrics](https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/LR/Onderwijs/2.pdf) according to which your thesis will be assessed.
+
 ## Literature Study
 
