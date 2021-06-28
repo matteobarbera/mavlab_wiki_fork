@@ -14,7 +14,7 @@
   - Use command line 'source ~/.bashrc' in the home directory. To apply the changes made in the .bashrc file. The changes in the .bashrc file have to be done only once. 
   - If there are still errors, check if there are no spelling errors in the environment variables. If not, restart the computer.
 - the paparazzi logs will be stored in 'paparazzi/var/logs' and can be viewed with the [paparazzi log plotter](https://wiki.paparazziuav.org/wiki/Plotter)
-- [Matlab script](https://github.com/tudelft/mavlab/raw/master/scripts/read_pprz_MXS.m ] that loads the log into Matlab (if not working update according to messages.xml)
+- [Matlab script](https://github.com/tudelft/paparazzi_log_parsing/blob/master/new_matlab/debug_flight.m)
 
 ## Formatting the Micro SD card
 
