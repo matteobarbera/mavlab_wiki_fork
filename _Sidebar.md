@@ -12,6 +12,7 @@
 - [Batteries](../wiki#batteries)
 - [Chemicals](../wiki#chemicals)
 - [Equipment](../wiki/equipment)
+- [CyberZoo and Optitrack](../wiki/cyberzoo)
 - [Tutorials](../wiki#tutorials)
   - [Internal tutorials](../wiki#internal-tutorials)
   - [External](../wiki#external)
