@@ -8,48 +8,48 @@ Welcome to the **MAVLab wiki**!
 
 # Introduction
 
- * [[Introduction]] for newcomers, a **must read** if you want to have success in the MAVLab
- * Complete the [[New-Member-Checklist]] to get settled!
- * If you are graduating at C&S also look [here](http://cswiki.lr.tudelft.nl/students/graduation)
- * If you want to do something with a certain facility of the lab, first find the [responsible person](../wiki/Responsible-Persons).
+* [[Introduction]] for newcomers, a **must read** if you want to have success in the MAVLab
+* Complete the [[New-Member-Checklist]] to get settled!
+* If you are graduating at C&S also look [here](http://cswiki.lr.tudelft.nl/students/graduation)
+* If you want to do something with a certain facility of the lab, first find the [responsible person](../wiki/Responsible-Persons).
 
 # Lab standards
 
 Please use S.I. everywhere, then there is less confusion around the globe and there will be fewer mars lander crashes ;)
 
-[Read about the standards in the MAVLab for hardware, software and what not...](Lab-standards)	
+[Read about the standards in the MAVLab for hardware, software and what not...](Lab-standards)    
 
 ## Papers
 
- * When writing papers and you want to publish, first go through the [Publishing checklist](publishchecklist) to see if your document adheres to the lab standard.
+* When writing papers and you want to publish, first go through the [Publishing checklist](publishchecklist) to see if your document adheres to the lab standard.
 
 ## Ordering
 
- * If you order anything, you **must** read the [finance rules](rules-finance) first.
+* If you order anything, you **must** read the [finance rules](rules-finance) first.
 
 ## Flight Operations Manuals
 
- * If you want to operate your flying device **indoor**, [go to these OPS pages](http://www.github.com/tudelft/Operations)
- * If you want to operate your flying device **outdoor**, [read about it on the OPS pages](http://www.github.com/tudelft/Operations)
+* If you want to operate your flying device **indoor**, [go to these OPS pages](http://www.github.com/tudelft/Operations)
+* If you want to operate your flying device **outdoor**, [read about it on the OPS pages](http://www.github.com/tudelft/Operations)
 
 ## Wiki
 
- * The markup of the MAVLab wiki should be in MARKDOWN (.md) format
- * [Links should be RELATIVE Links](relative-links-in-wiki) if the information is contained _inside this wiki_.
+* The markup of the MAVLab wiki should be in MARKDOWN (.md) format
+* [Links should be RELATIVE Links](relative-links-in-wiki) if the information is contained _inside this wiki_.
 
 # Projects
 
- * [Here in Trello you find the most up to date list](https://trello.com/b/FelPdV49/mavlab-overview) of people and projects
+* [Here in Trello you find the most up to date list](https://trello.com/b/FelPdV49/mavlab-overview) of people and projects
 
 # Courses
 
- * Paparazzi Vision Based Control [Website](https://tudelft.github.io/coursePaparazzi/) and [Source](https://github.com/tudelft/coursePaparazzi) and [videos](https://www.youtube.com/playlist?list=PL_KSX9GOn2P_LUXJOQxc6PLr7c7eTUs98)
- * [Optic Flow Notebook](https://mybinder.org/v2/gh/guidoAI/optic_flow_control_notebook.git/master)
+* Paparazzi Vision Based Control [Website](https://tudelft.github.io/coursePaparazzi/) and [Source](https://github.com/tudelft/coursePaparazzi) and [videos](https://www.youtube.com/playlist?list=PL_KSX9GOn2P_LUXJOQxc6PLr7c7eTUs98)
+* [Optic Flow Notebook](https://mybinder.org/v2/gh/guidoAI/optic_flow_control_notebook.git/master)
 
 # Robots
 
- * Our [[robots]] or call 'em airframes if you like
- * [[The Delfly Family]]
+* Our [[robots]] or call 'em airframes if you like
+* [[The Delfly Family]]
 
 # Batteries
 
@@ -62,6 +62,10 @@ Building things and need specific chemicals, e.g. quality epoxy, then [this page
 # Equipment
 
 Building nifty devices and need tools, [read about all the tools at your disposal here](equipment)
+
+# CyberZoo and Optitrack
+
+For setting up and using Optitrack see [here](cyberzoo)
 
 # Tutorials
 
