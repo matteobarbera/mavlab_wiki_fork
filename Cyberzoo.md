@@ -93,7 +93,7 @@ The additional `-small -tf 10` flags force smaller packets of data and 10Hz tran
 
 - *"The LAN Cable is connected to my laptop, I created an object in MOTIVE, and I am using Natnet2ivy with the correct ID, but I still have no 3D fix"*
 
-In this case, make sure that MOTIVE is broadcasting the data. Open the Streaming Pane [[https://v22.wiki.optitrack.com/index.php?title=Data_Streaming_Pane]]. Make sure that:
+In this case, make sure that MOTIVE is broadcasting the data. Open the [Streaming Pane](https://v22.wiki.optitrack.com/index.php?title=Data_Streaming_Pane). Make sure that:
 
 1. Broadcast Frame Data (at top) is checked 
 
