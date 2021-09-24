@@ -9,7 +9,7 @@ To get access to this calendar, contact the [responsible person](Responsible-Per
 
 The Cyberzoo is an indoor arena where we perform our tests. It is equipped with a motion tracking system so that we may also record ground-truth data for validation. After reading this page you should be able to use the CyberZoo and perform flights, do measurements, read log files, interface with MATLAB, etc.
 
-**NOTE:**  this page already assumes you installed Paparazzi, which is the software we generally use to fly the drones. If you haven't done so already, then read the [installation instructions](https://wiki.paparazziuav.org/wiki/Installation).
+**NOTE:**  This page already assumes you installed Paparazzi, which is the software we generally use to fly the drones. If you haven't done so already, then read the [installation instructions](https://wiki.paparazziuav.org/wiki/Installation).
 
 # Getting started with Optitrack
 
